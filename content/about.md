@@ -9,5 +9,5 @@ draft: false
 This is the personal and professional website of Daniel J. Brieck Jr. This site will be about all and anything that I would like to share to you.
 
 ### Hand crafted in north eastern Oregon 
-This website is locally developed and hosted in northestern Oregon, USA in Union County using IPFS. Checkout [IPFS](https://ipfs.io/) to help contribute to a decentralized internet.
+This website is locally developed and hosted in northeastern Oregon, USA in Union County using IPFS. Checkout [IPFS](https://ipfs.io/) to help contribute to a decentralized internet.
 
