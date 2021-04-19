@@ -7,7 +7,10 @@ theme = "LoveIt"
 [params]
     version="0.2.X"
 
-# [menu]
+[menu]
+    [[menu.main]]
+      name = "About"
+      url = "/about"
 #   [[menu.main]]
 #     identifier = "posts"
 #     # you can add extra information before the name (HTML format is supported), such as icons
