@@ -1,6 +1,6 @@
 defaultContentLanguage = "en"
 languageCode = "en-us"
-title = "BriecksPro"
+title = "Brieck's Pro"
 
 relativeURLs = true
 
@@ -47,6 +47,6 @@ name = "Daniel Brieck Jr"
 
 [params.footer]
 hugo = false
-custom = 'BriecksPro'
+custom = "Brieck's Pro"
 since = 2021
 author = true

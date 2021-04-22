@@ -5,7 +5,7 @@ draft: false
 
 ---
 
-# About BriecksPro
+# About Brieck's Pro
 This is the personal and professional website of `Daniel Brieck Jr` This site will be about things that I would like to share.
 
 ### Hand crafted in north eastern Oregon 
