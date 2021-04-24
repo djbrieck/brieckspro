@@ -6,6 +6,9 @@ relativeURLs = true
 
 theme = "LoveIt"
 
+[markup.goldmark.renderer]
+    unsafe = true
+
 [params]
     version="0.2.X"
 
