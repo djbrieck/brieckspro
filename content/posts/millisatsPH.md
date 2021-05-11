@@ -9,12 +9,11 @@ I brief explainer on how to make sense of what your contributing in [podStation]
 
 ## What the heck is a millisat?
 
-This is all back to metric so we need to look at the [milli](https://en.wikipedia.org/wiki/Milli-) prefix. Which means 10<sup>-3</sup> or <em>thousandths</em> `.001` of a sat. For more information on what is a sat short for satoshis see [What are sats?](https://bitcoinmagazine.com/guides/what-are-sats)
+This is all back to metric so we need to look at the [milli](https://en.wikipedia.org/wiki/Milli-) prefix. Which means 10<sup>-3</sup> or <em>thousandths</em> `.001` of a sat. For more information on [What are sats?](https://bitcoinmagazine.com/guides/what-are-sats)
 
 >“Sats,” which is shorthand for “satoshis” is a term used for the smallest possible denomination of BTC: 0.00000001 BTC, or 1 one-hundred-millionth of a bitcoin. The unit is named for the pseudonymous creator of Bitcoin, Satoshi Nakamoto.
 
 ## Understanding the default in podStation
-
 
 The default as of testing in podStation is `3,000,000` millisats per hour, so what is that in sats per minute?
 
@@ -32,11 +31,11 @@ So the default in podStation is <strong>50</strong> sats per minute
 With the information above your able to do the calculations now and set the value slider appropriately.
 
 
-## The lazy way with the JavaScript millisats to sats calculator 
+## The easy way with the JavaScript millisats to sats calculator 
 
 <em>At this point let the fun numerology begin... </em>
 
-<label> Millisats</label> 
+<label> Millisats per hour:</label> 
 <input type="number" id="msh" name="MilliSatPerHour" onkeyup="satsCalculator()">
 
 <label> Sats per hour: </label> <span id="sph"></span> 
