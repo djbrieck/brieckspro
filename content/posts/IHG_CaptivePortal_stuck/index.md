@@ -1,5 +1,5 @@
 ---
-title: "Holiday Inn , Hilton WiFi captive portal not working when  using old Apple MacBook Pro "
+title: "Holiday Inn , Hilton, IHG WiFi captive portal not working when using Apple MacBook Pro "
 date: 2022-01-17T09:36:45-08:00
 draft: true
 ---
@@ -20,7 +20,7 @@ Connect to the router / captive portal  directly in a current browser and by pas
 
 What eventually worked was doing the following:
 
-1. Clicked cancel to close the stuck captive portal window.
+1. Clicked cancel to close the not working captive portal window.
 
 1. Opened System Preferences 
 
