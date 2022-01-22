@@ -1,7 +1,7 @@
 ---
 title: "Holiday Inn , Hilton, IHG WiFi captive portal not working when using Apple MacBook Pro "
-date: 2022-01-17T09:36:45-08:00
-draft: true
+date: 2022-01-22
+draft: false
 ---
 
 ## Problem:  
@@ -31,7 +31,7 @@ What eventually worked was doing the following:
 5. Clicked the TCP/IP Tab 
 
 6. Found  what the router IP was on the IHG Connected Wifi, copied that down.
-    ![image alt text](SystemPreferencesNetworkRouteIP.png)
+    ![image alt text](images/SystemPreferencesNetworkRouteIP.png)
 
 7. Opened [ungoogled Chromium](https://ungoogled-software.github.io/), pasted in the IP, hit enter.
 
