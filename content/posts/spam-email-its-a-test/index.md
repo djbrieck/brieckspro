@@ -1,7 +1,7 @@
 ---
 title: "Watch out! That spam email it's a security test?"
 date: 2022-01-22T07:26:57-08:00
-draft: true
+draft: false
 ---
 
 Something I have been noticing since 2018 is that I really don't get [SPAM](https://en.wikipedia.org/wiki/Spamming) emails at work with the exception of the ones that my employer generates and sends to me.
