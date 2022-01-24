@@ -1,6 +1,6 @@
 ---
 title: "Pomodoro Technique, and  a work log format for getting stuff done"
-date: 2022-01-23T07:33:09-08:00
+date: 2022-01-24T10:33:09-08:00
 draft: false
 ---
 
