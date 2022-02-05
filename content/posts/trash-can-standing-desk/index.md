@@ -6,7 +6,7 @@ draft: false
 
 Back in 2019 as we were preparing to move from the Memphis TN area to North East Oregon, most things in the house were packed and put in the moving truck or in the process of being packed.
 
-The problem was I still needed to work the 9-5, and I needed a quite place to do so so I turned to the great out doors and improvised and found the perfect solution for the time, an improvised standing desk. 
+The problem was I still needed to work the 9-5, and I needed a quiet place to do so so I turned to the great out doors and improvised and found the perfect solution for the time, an improvised standing desk. 
 
 Since moving into the Tennessee house there was many things left hidden in the weeds, one such thing was a large rolling trash can, from trash company past "Southern Disposal". I had tried to get rid of it when the trash provider changed names again, and even they would not take it, so it stuck around as one of those things requiring extra effort to get rid of, so it never happened. However turns out it had a purpose as a desk. 
 
