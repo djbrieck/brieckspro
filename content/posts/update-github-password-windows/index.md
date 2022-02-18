@@ -29,8 +29,8 @@ The fix is open "Credential Manager" program.
 
 6. Try the git push again
 
-7. Now you should be prompted in windows to re-login at least in 2 more times. First with a pop page from  your internal github, and next a pop from windows.
+7. Now you should be prompted in windows to re-login at least in 2 more times. First with a pop up page from  your internal github, and next a pop up window from Windows OS.
 
-8. push should finish successfully if you get all your passwords and such correct.
+8. Now the push should finish successfully if you get all your passwords and such correct.
 
 9. Repeat on your corporate password update schedule.

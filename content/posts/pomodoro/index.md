@@ -16,7 +16,7 @@ Now the part that I would like to share with you is the file format method, sure
 
 - this works for tracking hours worked
 - functions as a todo listing / backlog
-- show what you spent your time working on for the day
+- records what you spent your time working on for the day
 
 Every day using a text editor I create a new text file, with the current date as the file name.
 

@@ -12,7 +12,7 @@ I got the normal pop up window for their [captive portal](https://en.wikipedia.o
 
 Also WiFi was working just fine on my iPhone and my Wifes laptop running Windows 11, so their system was not broken for everyone else.
 
-No matter what the captive portal that was present when connecting to the hotel wifi was not going away on my Mac. Almost like the submit button was not fully working. Tried the access code, and even tried the other option of last name and room number. Nothing was working after clicking submit. Hotel front desk was no help. Thing just hung on entry and every few second would blink the contents of the page, the captive portal would never go away and the internet would never connect. 
+No matter what, the captive portal that was presented when connecting to the hotel wifi was not going away on my Mac. Almost like the submit button was not fully working. Tried the access code, and even tried the other option of last name and room number. Nothing was working after clicking submit. Hotel front desk was no help. Thing just hung on entry and every few second would blink the contents of the page, the captive portal would never go away and the internet would never connect. 
 
 ## Solution
 
@@ -31,7 +31,7 @@ What eventually worked was doing the following:
 5. Clicked the TCP/IP Tab 
 
 6. Found  what the router IP was on the IHG Connected Wifi, copied that down.
-    ![image alt text](images/SystemPreferencesNetworkRouteIP.png)
+    ![image macOS 10.13 System Preferences Network pane showing with red arrow pointing to field Router address ](images/SystemPreferencesNetworkRouteIP.png)
 
 7. Opened [ungoogled Chromium](https://ungoogled-software.github.io/), pasted in the IP, hit enter.
 
