@@ -1,5 +1,5 @@
 ---
-title: "Setting Java Runtime in VSCode"
+title: "Setting Java Runtime in Visual Studio Code (VSCode)"
 date: 2022-01-25T08:02:44-08:00
 draft: false
 ---
@@ -35,11 +35,13 @@ As Java evolves, it's common that developers work with multiple versions of JDK.
 " (https://code.visualstudio.com/docs/java/java-project#_configure-runtime-for-projects)
 
 
-If that left you baffled a bit then continue on...
+If that left you baffled a bit then continue on for clarification ...
+
+## The missing detail, that should be present
 
 Which means open open user settings json.
 
-The short cut is Ctrl Shift + P
+The keyboard short cut is `Ctrl Shift + P` (Windows NT & Linux)  `CMD + Shift + P` (Classic Mac OS ;-( )
 
 Type in `settings json`
 
@@ -47,6 +49,5 @@ Select "Preferences: Open Settings (JSON)"
 
 Now you can add an entry like the above, but matched to your environment. 
 
-Also if your running windows NT derived Windows your paths will need to be fancy garbage as follows:
+Also if your running windows NT derived Windows your paths will need to be fancy garbage as follows with the '\\\\' path delimiter:
     `"C:\\Program Files\\Microsoft\\jdk-17.0.1.12-hotspot"`
-
