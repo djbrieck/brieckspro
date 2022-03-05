@@ -14,6 +14,9 @@ theme = "LoveIt"
     defaultTheme = "auto"
     gitRepo = "https://github.com/djbrieck/brieckspro"
 
+[params.verification]
+    bing = "7BD2A883C5B3DC557EA9AE85CD0D7C0A"
+
 [menu]
     [[menu.main]]
       name = "About"
