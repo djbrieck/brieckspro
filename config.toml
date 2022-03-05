@@ -16,6 +16,7 @@ theme = "LoveIt"
 
 [params.verification]
     bing = "7BD2A883C5B3DC557EA9AE85CD0D7C0A"
+    google = "nTKu27Z0DNVwY78Fg-gQhLJtrf3nrEONTYGL3ZMRKJQ"
 
 [menu]
     [[menu.main]]
