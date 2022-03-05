@@ -18,6 +18,11 @@ theme = "LoveIt"
     bing = "7BD2A883C5B3DC557EA9AE85CD0D7C0A"
     google = "nTKu27Z0DNVwY78Fg-gQhLJtrf3nrEONTYGL3ZMRKJQ"
 
+[sitemap]
+    changefreq = "weekly"
+    filename = "sitemap.xml"
+    priority = "0.5"
+
 [menu]
     [[menu.main]]
       name = "About"
