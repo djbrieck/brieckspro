@@ -13,6 +13,7 @@ theme = "LoveIt"
     version="0.2.X"
     defaultTheme = "auto"
     gitRepo = "https://github.com/djbrieck/brieckspro"
+    description = "This is the personal and professional website of Daniel Brieck Jr This site is about things that I would like to talk about thats on my mind and needs to be written down and shared publicly."
 
 [params.verification]
     bing = "7BD2A883C5B3DC557EA9AE85CD0D7C0A"
