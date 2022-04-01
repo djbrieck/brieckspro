@@ -1,7 +1,7 @@
 ---
 title: "Future of Compensation for the internet"
 date: 2022-04-01
-draft: true
+draft: false
 ---
 
 # The present state of compensation
