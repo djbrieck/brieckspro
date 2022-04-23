@@ -16,10 +16,14 @@ It’s not the most consistent way to ~~blend ~~ grind coffee beans but it works
 - Wooden skewer or equivalent stick
 - Container/s to store the ground coffee (Optional 2nd Container to store  fine coffee good for using in a espresso maker, Moka pot, etc.)
 
-For convenience I have provided a video of the process. <a href="BlenderCoffeerGrinder_480.m4v" target="_blank">480P 66MB</a> | <a  href="BlenderCoffeeGrinder_720.m4v" target="_blank"> 720P 152MB</a> |
-<a href="BlenderCoffeeGrinder_1080.m4v" target="_blank" >1080P 216MB</a>
-
 ## The process
+
+For convenience I have provided a video of the process.
+
+<iframe id="odysee-iframe" width="560" height="315" src="https://odysee.com/$/embed/CoffeeGrinderBlender/1fba4f55e4ab3c6f107e228991d504ea33875637?r=FPRLyssa7RyegPNMhCzigz4XZ3RRFsPR" allowfullscreen></iframe>
+
+<a  href="CoffeeGrinderBlender720.mp4" target="_blank"> Download 720P 49.6MB</a> 
+
 
 1. Scoop 1 cup worth of beans using 1 cup measuring cup
 
