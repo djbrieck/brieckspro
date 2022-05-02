@@ -17,9 +17,9 @@ Did you find this site useful, informative, entertaining, please feel free to se
 [Brieck's Pro source](https://github.com/djbrieck/brieckspro)
 
 ###  Paid Editing $
- I don't have an editor and as a technical developer, grammar and writing is not my strong suite. If you see a problem and would like to help me fix it. Please see the [editing how to](/posts/how-to-edit-this-site/). I will pay a dollar (USD) per accepted fix. Payments will be made via Bitcoin Lightning network, [Strike](https://strike.me) is a good solution to get started but any Bitcoin lightning wallet will work.
+ I don't have an editor and as a technical developer, grammar and writing is not my strong suite. If you see a problem and would like to help me fix it. Please see the [editing how to](/posts/how-to-edit-this-site/). I will pay a dollar (USD) per accepted fix. Payments will be made via Bitcoin Lightning network, [Strike](https://strike.me) is a good solution to get started but any Bitcoin lightning wallet will work. Also Strike is offering [a promo of you get $10 and I get $10 for a referral](https://invite.strike.me/2YX56D) if your interested in setting up Strike. 
 
 ## Hand crafted in north eastern Oregon 
-This website is locally developed and hosted in northeastern Oregon, USA in Union County using IPFS. Checkout [IPFS](https://ipfs.io/) to help contribute to a decentralized internet. You can help too install a browser or plugin that enables IPFS in your browser.
+This website is locally developed and hosted in northeastern Oregon, USA in Union County using IPFS. Checkout [IPFS](https://ipfs.io/) to help contribute to a decentralized internet. You can help too, install a browser or plugin that enables IPFS in your existing browser if you have not done so already.
 
 
