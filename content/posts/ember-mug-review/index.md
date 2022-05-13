@@ -50,21 +50,18 @@ After talking to some friends about what happened I quickly got introduced to th
 
 ![candle warmer mug warmer](CandleWarmerFront.png)
 
-I went to a local thrift store People Helping People  the next chance I got and found exactly what I was looking for. Labeled no less as a Candle Warmer its basically the same device as the coffee warmer hot plate, even using a similar 15-20 watts of power. Picked it up for $1 USD. And  now I can keep my drinks warm for hours at a very low price. Sure I loose precise temperature control, however having tried this candle warmer, I am finding that precise temperature control is not really needed. As long as my drink is not kept too hot, eg I am not getting burned on every sip, the difference between 110 and 122 is not noticeable in the long run. There is a nice list of other benefits too.
+I went to a local thrift store People Helping People  the next chance I got and found exactly what I was looking for. Labeled no less as a Candle Warmer its basically the same device as the coffee warmer hot plate, even using a similar 15-20 watts of power. Picked it up for $1 USD. And  now I can keep my drinks warm for hours at a very low price. Sure I loose precise temperature control, however having tried this candle warmer, I am finding that precise temperature control is not really needed. [(See my in-depth experiment to see how well my $1 replacement device works.)]({{<ref "posts/candle-mug-warmer-review/index">}}) As long as  I am not getting burned on every sip precise temperature control is not really needed, the difference between 110 and 122 is not noticeable in the long run.
+
+There is a nice list of other benefits too:
 
 - I can now continue using my favorite existing durable mugs.
 
 - And additionally if I want to insure my drinks are not too hot I can use a manual temperature probe inserted into the glass to see when its ready to drink thus getting that ember feature back, in a simple and low cost way.
-
-![Candle warmer mug with manual temperature probe in the beverage](MugWarmerWorking.png)
+    ![Candle warmer mug with manual temperature probe in the beverage](MugWarmerWorking.png)
 
 - Now this whole rig is not as portable as the ember was, but for 90% of my usage I had it sitting on the charger on my desk keeping my mug warm. And with the ember if I was not careful setting down the mug, it might not be charging and instead running the battery down, which in a short while would lead to a dead battery and cold drink anyway.
 
-If I really need portability, I can dump my perfect temp beverage into a well insulated travel mug to maintain the temperature so it does not get cold as would happen much faster in the open glass or ceramic mug.  To do this right make sure you dump hot water 160˚F to 212˚F into the travel mug to warm it up first, then dump your perfect temp beverage into the travel mug after discarding the hot water. Otherwise the travel mug will suck some of the temperature from your perfect temp beverage potentially making it cooler than you would prefer.
-
-## Conclusion
-
-While the ember allowed me to gain an appreciation of how luxuriant a indefinitely warm beverage could be at a precise temperature. I have to say embers implementation needs tremendous improvement, and I can not recommend purchasing this device, since no matter how well the thing works now, its going to have a disappointing end, and your going to need to spend another $100+ to keep this dream going. Thats not sustainable, and frankly its a product that I can't support, especially when $1 gets you a good solution. 
+- If I really need portability, I can dump my perfect temp beverage into a well insulated travel mug to maintain the temperature so it does not get cold as would happen much faster in the open glass or ceramic mug.  To do this right make sure you dump hot water 160˚F to 212˚F into the travel mug to warm it up first, then dump your perfect temp beverage into the travel mug after discarding the hot water. Otherwise the travel mug will suck some of the temperature from your perfect temp beverage potentially making it cooler than you would prefer.
 
 ## Improvement the Ember stuff needs to have to make them more worth it:
 
@@ -77,4 +74,8 @@ While the ember allowed me to gain an appreciation of how luxuriant a indefinite
 - Manual controls / temp display on the device itself, who needs an app but it can be there if you want it, just more stuff to maintain. 
 
 
-- Lastly maybe this is product that we don't really need. I found a $2 solution that already exists (including the price of a used mug)that delivers a similar experience, and the best part is you control all the choices with this path [(see my in-depth experiment to see how well my $1 replacement device works)]({{<ref "posts/candle-mug-warmer-review/index">}})
+- Lastly maybe this product is one that we don't really need. I found a $2 solution that already exists (including the price of a used mug)that delivers a similar experience, and the best part is you control all the choices with this path [(see my in-depth experiment to see how well my $1 replacement device works)]({{<ref "posts/candle-mug-warmer-review/index">}})
+
+## Conclusion
+
+While the ember allowed me to gain an appreciation of how luxuriant a indefinitely warm beverage could be at a precise temperature. I have to say embers implementation needs tremendous improvement, and I can not recommend purchasing this device, since no matter how well the thing works now, its going to have a disappointing end, and your going to need to spend another $100+ to keep this dream going. Thats not sustainable, and frankly its a product that I can't support, especially when $1 gets you a good solution. 
