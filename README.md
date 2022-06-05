@@ -6,7 +6,7 @@ Do a pull request to get the source code
 
     git clone https://github.com/djbrieck/brieckspro.git brieckspro
 
-Download the submodules needed to run the project this is the "LoveIt" theme, othere wise you will not see anything rended when you try to run.
+Download the submodules needed to run the project this is the "LoveIt" theme, othere wise you will not see anything rendered when you try to run using hugo.
 
     git submodule init
 
