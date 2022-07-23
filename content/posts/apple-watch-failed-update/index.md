@@ -1,15 +1,15 @@
 ---
 title: "Apple watchOS 8.5.1 update fails  on Apple Watch Series 4"
 date: 2022-07-22T18:34:35-07:00
-draft: true
+draft: false
 ---
 
 ## Introduction
 
 My lovely wife Darcy was telling me that her Apple Watch (model A1977) was having problems updating, so I check it out to see whats going on.
 
+## Troubleshooting
 
-## Troubleshooting 
 I attempt to manually run the  failing install on the watch and nothing ever seems to happen, every-time I go back into setting for the Software Update on the watch, its basically a fresh start all over, with no error message displayed for me trying to figure out what to fix or even what is going wrong.
 
 Only on the phone that is paired and in the Watch app do you get a hint of a problem, pretty terrible.
@@ -32,7 +32,7 @@ Taking a look at the Usage I noticed that the Music App on the watch was using 5
 
 The eventual fix was wait, and Apple must have put a patch out for this problem in the iPhone app since it was days / weeks later that the Apple Watch app eventually started working and Darcy was able to delete songs in bulk to free up some storage, and then the Update was able to proceed with out further issues. Now if you were in a rush your only quick options would be a Factory reset of your watch, or take the time to delete songs one at a time on the watchOS UI, yikes!!!
 
-## Conclusions 
+## Conclusions
 
 Two core problems Apple is having. One is shielding the user from the details of whats going wrong. This is making it more difficult for the users to solve their own problem, and its making the technical savvy folks job more difficult too. Two Apple's we know best security policy is bitting them in the butt since in this case not allowing the user opt out or even postpone the software update to just to use the watch app, to erase songs and other data preventing the successful install of the required update. Good software should not be leaving the users with the only option of deleting over a thousand songs by hand on the watch or doing a factory reset on the watch.
 
