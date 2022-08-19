@@ -10,26 +10,43 @@ A consise and practical guide to doing the Git Feature Branch Workflow, for more
 
 In short each change, story , feature, or defect gets its own branch, and that branch will get merged via a pull request back into `main` when its ready.
 
-# Getting started the Checkout
+## Getting started the Checkout
+
+    git clone https://gitserver.com/user/pathToYourRepo.git
 
 Feel free to replace `main` with `master` as needed depending on how your repo is configured.
 
     git checkout main
     git pull origin
-    git reset --hard origin/main --Optional but if you want to follow the approach with a clean slate use this
 
-# Creating the branch
+This reset is optional do it if you want a clean slate each time
 
-# Makeing changes
+    git reset --hard origin/main 
 
-# Keeping your branch up to date 
+## Create the branch
 
-# pushing your changes back to the repo
+## Makeing changes
 
-# opening the pull request
+## Keeping your branch up to date
 
-# Aprove or reject the changes
+Since if your working on a project with multpple developers you will soon discover this is needed.
 
-# Merge the changes 
+    git checkout master
 
-# Delete the branch
+    git pull
+
+    git checkout feature-branch-foo
+
+    git merge master
+
+    git push
+
+## Pushing your changes back to the repo
+
+## Opening the pull request
+
+## Aprove or reject the changes
+
+## Merge the changes
+
+## Delete the branch
