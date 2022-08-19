@@ -6,7 +6,7 @@ draft: false
 
 ## Introduction
 
-My lovely wife Darcy was telling me that her Apple Watch (model A1977) was having problems updating, so I check it out to see whats going on.
+Darcy was telling me that her Apple Watch (model A1977) was having problems updating, so I check it out to see whats going on.
 
 ## Troubleshooting
 
