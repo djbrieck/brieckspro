@@ -6,20 +6,15 @@ draft: false
 ---
 
 ## About Brieck's Pro
+
 This is the personal and professional website of `Daniel Brieck Jr` This site is about things that I would like to talk about thats on my mind and needs to be written down and shared publicly.
 
-## Value for Value
+This website is locally developed and hosted in northeastern Oregon, USA in Union County (Or where ever I happen to be working at)using IPFS. Checkout [IPFS](https://ipfs.io/) to help contribute to a decentralized internet. You can help too, install a browser or plugin that enables IPFS in your existing browser if you have not done so already.
 
-Did you find this site useful, informative, entertaining, please feel free to send back a portion of the value received.  [Send value via Strike](https://strike.me/mrdaniel) 
-
-## Source available on GitHub, contact and feedback welcome via Github. Paid Editing available.
+## Source available on GitHub, contact and feedback welcome via Github
 
 [Brieck's Pro source](https://github.com/djbrieck/brieckspro)
 
-###  Paid Editing $
- I don't have an editor and as a technical developer, grammar and writing is not my strong suite. If you see a problem and would like to help me fix it. Please see the [editing how to](/posts/how-to-edit-this-site/). I will pay a dollar (USD) per accepted fix. Payments will be made via Bitcoin Lightning network, [Strike](https://strike.me) is a good solution to get started but any Bitcoin lightning wallet will work. Also Strike is offering [a promo of you get $10 and I get $10 for a referral](https://invite.strike.me/2YX56D) if your interested in setting up Strike. 
+## Value 4 Value
 
-## Hand crafted in north eastern Oregon 
-This website is locally developed and hosted in northeastern Oregon, USA in Union County using IPFS. Checkout [IPFS](https://ipfs.io/) to help contribute to a decentralized internet. You can help too, install a browser or plugin that enables IPFS in your existing browser if you have not done so already.
-
-
+If you would like to help keep this site going please see the [Value 4 Value](/value-for-value) page.
