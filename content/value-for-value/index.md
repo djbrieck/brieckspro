@@ -7,7 +7,7 @@ Did you find this site useful, informative, entertaining, please feel free to se
 
 ## Send some coin
 
-[Send value via Strike](https://strike.me/mrdaniel) 
+[Send value via Strike](https://strike.me/mrdaniel)
 
 ## Referal links
 
