@@ -20,10 +20,3 @@ if [ $? -ne 0 ]; then
     echo  "IPFS Publish to IPNS failed"
     exit -2 
 fi
-
-echo "Attempting to pin to pinata remote"
-ipfs pin remote add /ipns/k51qzi5uqu5dhqkrs9rp0zup48eylg3uunpbzrshjs2kd2b6u2iuax74ktuk9f --service=pinata
-if [ $? -ne 0 ]; then
-    echo  "Pinning to pinata failed!"
-    exit -3 
-fi

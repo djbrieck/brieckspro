@@ -37,12 +37,18 @@ git commit
 
 hugo
 
-## IPFS Deployment
+# Scripted deployment
 
-# Add the public directory to ipfs
+./build_deploy.sh
+
+## Manual IPFS Deployment
+
+# Add the public directory to your local ipfs
 
 ipfs add -r public/
 
 ipfs name publish -key=bprokey <hash output for public dir of last command>
 
-ipfs pin remote add /ipns/k51qzi5uqu5dhqkrs9rp0zup48eylg3uunpbzrshjs2kd2b6u2iuax74ktuk9f --service=pinata
+#Optional Remote Pinning, if you have such a service available. 
+
+ipfs pin remote add /ipns/k51qzi5uqu5dhqkrs9rp0zup48eylg3uunpbzrshjs2kd2b6u2iuax74ktuk9f --service=aService
