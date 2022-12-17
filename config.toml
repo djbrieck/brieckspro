@@ -1,19 +1,55 @@
-defaultContentLanguage = "en"
 languageCode = "en-us"
+languageName = "English"
+hasCJKLanguage = false
 title = "Brieck's Pro"
 
 relativeURLs = true
 
 theme = "LoveIt"
 
-[markup.goldmark.renderer]
-    unsafe = true
+ [markup.goldmark.renderer]
+     unsafe = true
 
 [params]
     version="0.2.X"
     defaultTheme = "auto"
     gitRepo = "https://github.com/djbrieck/brieckspro"
     description = "This is the personal and professional website of Daniel Brieck Jr This site is about things that I would like to talk about thats on my mind and needs to be written down and shared publicly."
+    title = "Brieck's Pro"
+
+[params.header.title]
+    name = "Brieck's Pro"
+    typeit = false
+
+[params.home.profile]
+    enable = false
+    typeit = false
+
+ [params.page.share]
+      enable = false
+      Twitter = false
+      Facebook = false
+      Linkedin = true
+      Whatsapp = false
+      Pinterest = false
+      Tumblr = false
+      HackerNews = true
+      Reddit = false
+      VK = false
+      Buffer = false
+      Xing = false
+      Line = false
+      Instapaper = false
+      Pocket = false
+      Flipboard = false
+      Weibo = true
+      Blogger = false
+      Baidu = false
+      Odnoklassniki = false
+      Evernote = false
+      Skype = false
+      Trello = false
+      Mix = false
 
 [params.verification]
     bing = "7BD2A883C5B3DC557EA9AE85CD0D7C0A"
@@ -28,9 +64,12 @@ theme = "LoveIt"
     [[menu.main]]
         name = "Value 4 Value"
         url = "value-for-value"
+        weight = 2
     [[menu.main]]
+      identifier = 'about'
       name = "About"
       url = "/about"
+      weight = 3
      [[menu.main]]
         identifier = "posts"
         # you can add extra information before the name (HTML format is supported), such as icons
@@ -59,9 +98,17 @@ theme = "LoveIt"
 #Author Config
 [author]
 name = "Daniel Brieck Jr"
+link = "/about"
 
 [params.footer]
 hugo = false
 custom = "Brieck's Pro"
 since = 2021
 author = true
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/hugo-fixit/FixIt/issues/43)
+    noClasses = false
