@@ -1,7 +1,7 @@
 ---
 title: "iPad Pro connected to a Thunderbolt Dock with just a USB-C cable"
 date: 2022-12-17T22:49:50-08:00
-draft: true
+draft: false
 ---
 
 ## Introduction
