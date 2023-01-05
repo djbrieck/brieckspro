@@ -17,9 +17,14 @@ Did you find this site useful, informative, entertaining, please feel free to se
 
 [Send value via Strike](https://strike.me/mrdaniel)
 
+### Send gifts and value back via USPS Mail
+    Daniel Brieck 
+    PO Box 488
+    Union OR 97883
+
 ## Referal links
 
-Strike refferal [Where you an I get some money when you create a new Strike account](https://invite.strike.me/2YX56D)
+Strike refferal [Where we both get some money when you create a new Strike account](https://invite.strike.me/2YX56D)
 
 [US Mobile cell phone service $10 off](https://usmobile.com/referrals?data=Y29kZT1CV0hQR1lVJm5hbWU9RGFuaWVs)
 
