@@ -55,6 +55,19 @@ theme = "LoveIt"
     bing = "7BD2A883C5B3DC557EA9AE85CD0D7C0A"
     google = "nTKu27Z0DNVwY78Fg-gQhLJtrf3nrEONTYGL3ZMRKJQ"
 
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+[params.search]
+  enable = true
+  type = "lunr"
+  contentLength = 4000
+  placeholder = "Search"
+  maxResultLength = 10
+  snippetLength = 30
+  highlightTag = "em"
+  absoluteURL = false
+
 [sitemap]
     changefreq = "weekly"
     filename = "sitemap.xml"
