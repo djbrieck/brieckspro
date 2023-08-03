@@ -11,6 +11,9 @@ Are you running into a problem where you are trying to play some audio via headp
 
 
 ## The Fix
+
+#TODO add photo here of the fix in action
+
 Now for the fix, this will require a small hardware purchase to fix. The solution is adding a analog 3.5" inline volume control before your wired headphones.
 
 The one I found is the KOSS VC 20, I found  it new on eBay and was able to purchase including delivery for less than $15 USD. 
