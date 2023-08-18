@@ -1,7 +1,7 @@
 ---
 title: "Headphones too loud at lowest volume level"
 date: 2023-07-20T07:50:27-07:00
-draft: true
+draft: false
 ---
 
 ## The Problem
@@ -12,7 +12,7 @@ Are you running into a problem where you are trying to play some audio via headp
 
 ## The Fix
 
-![3.5mm Headphones cord plugged into a KOSS VC 20](KOSS_VC_20.png)
+![3.5mm Headphones cord plugged into a KOSS VC 20](KOSS_VC_20.jpg)
 
 Now for the fix, this will require a small hardware purchase to fix. The solution is adding a analog 3.5" inline volume control before your wired headphones.
 
