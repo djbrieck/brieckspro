@@ -21,3 +21,7 @@ $RECYCLE.BIN/
 
 # OSX
 .DS_Store
+
+# Editors
+.idea/
+.vscode/

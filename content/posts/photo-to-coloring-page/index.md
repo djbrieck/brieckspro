@@ -27,10 +27,9 @@ For this one you will need to have [GIMP - GNU Image Manipulation Program](https
 13. Save or Print the line drawing creation.
 
 ## TODO Add / make a screen recording doing this process
+    Add link to video on whatever, and add converted file here for downloading
 
-## Add link to video on whatever, and add converted file here for downloading
-
-## Add the orginal picture
+## Add the original picture
 
 ## add a converted one
 
