@@ -24,10 +24,15 @@ Did you find this site useful, informative, entertaining, please feel free to se
 
 ## Referal links
 
-Strike refferal [Where we both get some money when you create a new Strike account](https://invite.strike.me/2YX56D)
+- Strike referral [Where we both get some money when you create a new Strike account](https://invite.strike.me/2YX56D)
 
-[US Mobile cell phone service $10 off](https://usmobile.com/referrals?data=Y29kZT1CV0hQR1lVJm5hbWU9RGFuaWVs)
+- [Try Visible wireless](https://www.visible.com/get/?3S32PJN) When you use my friend code, 3S32PJN, you’ll get your first month of service for $20-off!
+
+- [US Mobile cell phone service $10 off](https://www.usmobile.com/referrals?referrer=fee51221cb1b416&name=Daniel)
 
 ## Paid or volunteer editing of this site
 
- I don't have an editor and  grammar and writing is not my strong suite. If you see a problem and would like to help me fix it. Please see the [editing how to](/posts/how-to-edit-this-site/). I will pay a dollar (USD) per accepted change. Payments will be made via Bitcoin Lightning network, if requested.
+ I don't have an editor and grammar and writing is not my strong suite.
+ If you see a problem and would like to help me fix it.
+ Please see the [editing how to](/posts/how-to-edit-this-site/).
+ I will pay a dollar (USD) per accepted change.
