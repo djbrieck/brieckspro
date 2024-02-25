@@ -22,7 +22,7 @@ Did you find this site useful, informative, entertaining, please feel free to se
     PO Box 488
     Union OR 97883
 
-## Referal links
+## Referral links
 
 - Strike referral [Where we both get some money when you create a new Strike account](https://invite.strike.me/2YX56D)
 
