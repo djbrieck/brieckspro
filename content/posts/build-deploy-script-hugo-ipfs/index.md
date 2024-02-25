@@ -4,17 +4,19 @@ date: 2022-03-05T19:36:18-08:00
 draft: false
 ---
 
-Just recently came up with this deployment script for this site, and this thing is  a real time saver. 
+Just recently came up with this deployment script for this site, and this thing is a real time saver. 
 
-Really speeds up the process, and makes the deployment process a lot less commands, with 4 commands in this one script. See below.
+It Really speeds up the process,
+and makes the deployment process a lot less commands, with four commands in this one script.
+See below.
 
-## The imporved workflow with this script:
+## The improved workflow with this script:
 
 1. Write your content
 
-2. Commit to github.
+2. Commit to GitHub.
 
-3. Run the script `./build_deploy.sh`, wait, and its done.
+3. Run the script `./build_deploy.sh`, wait, and it's done.
 
 
         #!/bin/bash
