@@ -10,7 +10,7 @@ Today this example was at a local Dollar Tree, but any value store will offer a 
 
 Taking note that the pre maid trail mix bags in Dollar Tree currently cost $1.25 per bag, for 2.5 oz of product.
 
-![TRail Mix of peanuts, raisins, and semi sweet chocolate from Dollar Tree](trailmixblend.jpeg)
+![Trail Mix of peanuts, raisins, and semi sweet chocolate from Dollar Tree](trailmixblend.jpeg)
 
 Simplifying things I just grabbed the following three products off the shelf to make my own trail mix in a pretty large quantity when compared to the individual packs and a much shorter ingredient list too.
 
@@ -20,7 +20,7 @@ Simplifying things I just grabbed the following three products off the shelf to 
 
 - 6 oz Saco Pantry Semi Sweet Chocolate Chips
 
-And if your not prepared to contain all the food you will need a pack of Quart storage bags to contain and mix the ingredients so add ($1.25) for that if needed.
+And if you're not prepared to contain all the food you will need a pack of Quart storage bags to contain and mix the ingredients so add ($1.25) for that if needed.
 
 So I spend 3.75 to buy all the ingredients + $1.25 to get the storage bags, since I did not have a clean container large enough to contain the ingredients and store them air tight in the car while on a quick trip. 
 

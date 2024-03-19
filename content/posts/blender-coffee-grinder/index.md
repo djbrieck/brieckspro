@@ -13,7 +13,7 @@ It’s not the most consistent way to ~~blend ~~ grind coffee beans, but it work
 ## Stuff needed:
 
 - Blender
-- roasted unground coffee beans
+- roasted un-ground coffee beans
 - 1 cup measuring cup
 - Wooden skewer or equivalent stick
 - Container/s to store the ground coffee (Optional 2nd Container to store  fine coffee good for using in an espresso maker, Moka pot, etc.)
