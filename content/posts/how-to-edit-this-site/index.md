@@ -6,11 +6,13 @@ draft: false
 
 Thank you for accepting the challenge of helping me to make this site better. 
 
-There are two requirements to get started. One you will need to have a [Github account](https://github.com/). And secondly be familiar with [Markdown syntax](https://www.markdownguide.org/getting-started/), all the context and posts are written in this format.
+There are two requirements to get started. First you will need to have a [GitHub account](https://github.com/). And secondly be familiar 
+with [Markdown syntax](https://www.markdownguide.org/getting-started/), all the context and posts are written in this format.
 
-## How to Fork a github project and make some changes
+## How to Fork a GitHub project and make some changes
 
-1. Visit [GitHub](https://github.com/) and login if you already have an account. Otherwise click the "Sign Up" and make a new free account. 
+1. Visit [GitHub](https://github.com/) and login if you already have an account. Otherwise, click the "Sign Up" and make a new free 
+account. 
 
 2. Once your logged into gitHub, then in the same browser open the source code repository for [Brieck's Pro](https://github.com/djbrieck/brieckspro). 
 
