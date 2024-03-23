@@ -23,7 +23,7 @@ ubiolabs | 5.08 |1.41  |7.16
 
 The device appears to be limited to (7 Watts) while charging using a USB-A to USB-c cable, which is a little disappointing. 
 
-The good news is that the iPad can still be charged using this cable, but useable as a slow trickle charge option, where you not in a hurry to charge your iPad.
+The good news is that the iPad can still be charged using this cable, but usable as a slow trickle charge option, where you not in a hurry to charge your iPad.
 
 
 ## Equipment list for this experiment:

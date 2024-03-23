@@ -8,7 +8,7 @@ draft: false
 
 Can't connect to hotel [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi).
 
-I got the normal pop up window for their [captive portal](https://en.wikipedia.org/wiki/Captive_portal) that shows as soon as I connected my Mac laptop to the hotel wifi. This was on a antique Apple MacBook Pro laptop running macOS high sierra 10.13.x.
+I got the normal pop up window for their [captive portal](https://en.wikipedia.org/wiki/Captive_portal) that shows as soon as I connected my Mac laptop to the hotel Wi-Fi. This was on an antique Apple MacBook Pro laptop running macOS high sierra 10.13.x.
 
 Also, Wi-Fi was working just fine on my iPhone and my Wives laptop running Windows 11, so their system was not broken for everyone else.
 
@@ -30,11 +30,11 @@ What eventually worked was doing the following:
 
 5. Clicked the TCP/IP Tab 
 
-6. Found  what the router IP was on the IHG Connected Wifi, copied that down.
+6. Found  what the router IP was on the IHG Connected Wi-Fi, copied that down.
     ![image macOS 10.13 System Preferences Network pane showing with red arrow pointing to field Router address ](images/SystemPreferencesNetworkRouteIP.png)
 
 7. Opened [ungoogled Chromium](https://ungoogled-software.github.io/), pasted in the IP, hit enter.
 
 8. The IHG Portal page loaded in the browser window, and it finally took the access code. 
 
-9. Tried loading another web site and internet was finally working...
+9. Tried loading another website and internet was finally working...

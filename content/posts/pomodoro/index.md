@@ -4,11 +4,11 @@ date: 2022-01-24T10:33:09-08:00
 draft: false
 ---
 
-This is one of the most useful things I was exposed to or discoverd while in college, the [Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique)
+This is one of the most useful things I was exposed to or discovered while in college, the [Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique)
 
-It is a time management strategy where you break up your stuff to get done into 25 minute chunks followed by a 5 min break . There is more to it, but this is what I do on a day to day basis, and has been extremely effective for job requiring me to sit a computer and do software development work.
+It is a time management strategy where you break up your stuff to get done into 25 minute chunks followed by a 5-minute break . There is more to it, but this is what I do on a day-to-day basis, and has been extremely effective for job requiring me to sit a computer and do software development work.
 
-During that five minutes I always stand up and walk around, and use the restroom and or get some water etc to drink as needed. It has been a very ergonomic way to work or it has been for me. Always keeping me moving at least twice an hour.
+During that five minutes I always stand up and walk around, and use the restroom and or get some water etc. to drink as needed. It has been a very ergonomic way to work, or at least it has been for me. Always keeping me moving at least twice an hour.
 
 Now the part that I would like to share with you is the file format method, sure there are a lot of fancy apps that probably make this process better by integrating all the details, but I never found one that sticks true to the Pomodoro technique as written in the books, but here is  what I do, yet another variation.
 
@@ -20,7 +20,7 @@ Now the part that I would like to share with you is the file format method, sure
 
 Every day using a text editor I create a new text file, with the current date as the file name.
 
-So for January 23, 2022 it would be `01232022.txt` and you put all these files into an appropriate folder and you have a system of record.
+So for January 23, 2022, it would be `01232022.txt` and you put all these files into an appropriate folder, and you have a system of record.
 
 In the files I mark at the very first line in the file when the work has started followed by a - the following when work ends. 
 
@@ -34,7 +34,7 @@ For example:
 
     800 - 1000 (2) 4 
 
-So that one was two, two hour block with a running total of four hours worked.
+So that one was two, two-hour block with a running total of four hours worked.
 
 Then the rest of the file is lines of things to work on.
 
@@ -48,7 +48,7 @@ Lines followed by - have been completed.
 
 Tasks that are not completed carry over to the next day, however their hours do not.
 
-Also I try to float all the completed tasks up in list, this helps with copying the unfinished tasks over to the next day. 
+Also, I try to float all the completed tasks up in list, this helps with copying the unfinished tasks over to the next day. 
 
 ## Example File for my typical work day 
 

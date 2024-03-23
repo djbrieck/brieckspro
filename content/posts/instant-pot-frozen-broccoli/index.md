@@ -16,10 +16,10 @@ Here is how you can cook frozen broccoli using an Instant Pot.
 
 5. Put lid on and set valve to sealing
 
-6. Set instant pot on pressure cook high for 0 minutes
+6. Set instant pot on pressure-cook high for 0 minutes
 
-7. When beeps done do a quick release and remove the lid
+7. When beeps done do a quick release and remove the lid as soon as the pressure has dropped.
 
-8. Turn off and unplug and carefully remove the steamer baskest to prevent over cooking from residual heating.
+8. Turn off and unplug and carefully remove the steamer basket to prevent over cooking from residual heating.
 
-Inspired and preceeded by [wholesomyum](https://www.wholesomeyum.com/instant-pot-broccoli/) but improved and de-cluttered right here!
+Inspired and preceded by [wholesomyum](https://www.wholesomeyum.com/instant-pot-broccoli/) but improved and de-cluttered right here!

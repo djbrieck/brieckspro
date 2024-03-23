@@ -8,6 +8,6 @@ Found a good way to test that your phones call audio headset, etc. is working pr
 
 No more bothering friends and family to test random hardware is working, now you call them after your sure its working.
 
-## Simply find and dial one of these numbers depending where you are:
+## Simply find and dial one of these numbers depending on where you are:
 
 On The Test Call page find the section [PSTN numbers](http://thetestcall.blogspot.com/?m=0) and dial the one closet to your local area.
