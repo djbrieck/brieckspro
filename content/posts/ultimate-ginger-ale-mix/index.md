@@ -24,6 +24,6 @@ This is a simple mix of ginger beer into carbonated water to lower the ginger po
 
 4. Put on water bottle lid and invert bottle to mix
 
-5. Label as “ginger ale” and refrigerate the bottle and it’s ready to drink
+5. Label as “ginger ale” and refrigerate the bottle, and it’s ready to drink
 
 Note: Drink remaining carbonated water from measuring cup, add some lemon or lime juice works out well, drink plain, come up with something creative, or rinse out the ginger beer bottle for a really light ginger taste.

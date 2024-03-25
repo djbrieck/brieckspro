@@ -10,9 +10,9 @@ Could not find a way to do this in the Toad program, so it must work differently
 
 ## Finding where the TNSNames file should be for Toad?
 
-Toad requires a Oracle Client be installed and that is where your TNSNames.ora file must live as well. As part of the login window labeled something like 
+Toad requires an Oracle Client be installed and that is where your TNSNames.ora file must live as well. As part of the login window labeled something like 
 
- "Toad for Oracle Database Login Version ..." Find the Installed Clients section of the window, usually the lower right. Then find the drop down Connect Using: Make sure there is at least one listed and selected.
+ "Toad for Oracle Database Login Version ..." Find the Installed Clients section of the window, usually the lower right. Then find the drop-down Connect Using: Make sure there is at least one listed and selected.
 
  Then click the button '...'
 

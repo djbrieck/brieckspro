@@ -6,14 +6,14 @@ draft: false
 
 Back in 2019 as we were preparing to move from the Memphis TN area to North East Oregon, most things in the house were packed and put in the moving truck or in the process of being packed.
 
-The problem was I still needed to work, and I needed a quiet place to do so so I turned to the great out doors and improvised and found the perfect solution an improvised standing desk. 
+The problem was I still needed to work, and I needed a quiet place to do so, so I turned to the great outdoors and improvised and found the perfect solution an improvised standing desk. 
 
-Since moving into the Tennessee house there was many things left hidden in the weeds, one such thing was a large rolling trash can, from trash company past "Southern Disposal". I had tried to get rid of it when the trash provider changed names again, and even they would not take it, so it stuck around as one of those things requiring extra effort to get rid of, so it never happened. However turns out it had a purpose as a desk. 
+Since moving into the Tennessee house there were many things left hidden in the weeds, one such thing was a large rolling trash can, from trash company past "Southern Disposal". I had tried to get rid of it when the trash provider changed names again, and even they would not take it, so it stuck around as one of those things requiring extra effort to get rid of, so it never happened. However, turns out it had a purpose as a desk. 
 
 So while scrambling to find a solution to comfortably continue working outdoors, I found the fix this old rolling trash can.
 
 ![image Trash can with open mac book pro on lid side view](IMG_0534.PNG)
-![image looking down view at the running MacBook Pro with NOAA website on screen with contigo travel mug on flat spot right side behind laptop ](IMG_0536.PNG)
+![image looking down view at the running MacBook Pro with NOAA website on screen with Contigo travel mug on flat spot right side behind laptop ](IMG_0536.PNG)
 
 ## Features 
 
@@ -25,17 +25,17 @@ So while scrambling to find a solution to comfortably continue working outdoors,
 
 - flat place to put your drink / wallet, etc.
 
-- moveable, it has wheels.
+- movable, it has wheels.
 
 ## Review 
 
-I was impressed by how well it worked as a standing desk, and really enjoyed the compact size of the unit. And the easy with which I could move the unit as the sun moved in the sky, so it was easy to stay in the shade. The negative tilt seemed to work well with me for typing. And had no issues with seeing the screen, although I could probably use more screen height I did not find it uncomfortable for the couple of day I worked like this. I had no complaints about the unit, but my brain was going on on with improvements that I could make to something like this.
+I was impressed by how well it worked as a standing desk, and really enjoyed the compact size of the unit. And the easy with which I could move the unit as the sun moved in the sky, so it was easy to stay in the shade. The negative tilt seemed to work well with me for typing. And had no issues with seeing the screen, although I could probably use more screen height I did not find it uncomfortable for the couple of day I worked like this. I had no complaints about the unit, but my brain was going on with improvements that I could make to something like this.
 
 ## Future additions to make something like this even better
 
 - I would consider adding some framing wood and boxing in a Sealed Lead Acid battery, charge controller, and an inverter into the bottom part of the bin. Effectively Turning this unit into a [Mobile Battery bank, in the Steven Harris fashion](http://www.battery1234.com/). And likely improve the stability of the unit with the added weight down low.
 
-- Add in a way to add Larger Screen, Keyboard and mouse. Possibly in a [old sewing machine fashion maybe adding in display flip up folding mechanism ](https://youtu.be/YNFiXOzL-2k?t=63)with keyboard & pointing device as well to make the usage experience even better than just what the laptop has to offer.
+- Add in a way to add Larger Screen, Keyboard and mouse. Possibly in an [old sewing machine fashion maybe adding in display flip up folding mechanism ](https://youtu.be/YNFiXOzL-2k?t=63)with keyboard & pointing device as well to make the usage experience even better than just what the laptop has to offer.
 
 - adding in a sleeve or pocket to set the laptop in, so that it can be out of the elements while the larger external screen is up
 
@@ -46,6 +46,6 @@ I was impressed by how well it worked as a standing desk, and really enjoyed the
 
 # Trash to Treasure
  
-Functional as is, however with a little work something like this could be a very nice outdoor mobile standing desk. That being said, if you have something like this laying around it can be an interesting experiment and low cost solution for an outdoor standing desk. It worked and was useable, better than my actual desk in the office at work, and probably cleaner too. And standing desks can cost hundreds to thousands of dollars, and this was free.
+Functional as is, however with a little work something like this could be a very nice outdoor mobile standing desk. That being said, if you have something like this lying around it can be an interesting experiment and low-cost solution for an outdoor standing desk. It worked and was usable, better than my actual desk in the office at work, and probably cleaner too. And standing desks can cost hundreds to thousands of dollars, and this was free.
 
 Building something like this may be more of a challenge in my new area since trash cans are literally close to half the size. Either way I will be keeping my eye out for a trashcan without a purpose, that is considered trash itself.

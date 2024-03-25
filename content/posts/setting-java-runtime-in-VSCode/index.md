@@ -8,7 +8,7 @@ As quoted from Microsoft Visual Studio code instructions, clear as mud.
 
 "
 ## Configure Runtime for Projects
-As Java evolves, it's common that developers work with multiple versions of JDK. You can map them to your local installation paths via the setting: java.configuration.runtimes. The setting has following format:
+As Java evolves, it's common that developers work with multiple versions of JDK. You can map them to your local installation paths via the setting: java.configuration.runtimes. The setting has the following format:
 
     "java.configuration.runtimes": [
     {
@@ -41,7 +41,7 @@ If that left you baffled a bit then continue on for clarification ...
 
 Which means open open user settings json.
 
-The keyboard short cut is `Ctrl Shift + P` (Windows NT & Linux)  `CMD + Shift + P` (Classic Mac OS ;-( )
+The keyboard shortcut is `Ctrl Shift + P` (Windows NT & Linux)  `CMD + Shift + P` (Classic macOS ;-( )
 
 Type in `settings json`
 
@@ -49,5 +49,5 @@ Select "Preferences: Open Settings (JSON)"
 
 Now you can add an entry like the above, but matched to your environment. 
 
-Also if your running windows NT derived Windows your paths will need to be fancy garbage as follows with the '\\\\' path delimiter:
+Also, if your running Windows NT derived Windows your paths will need to be fancy garbage as follows with the '\\\\' path delimiter:
     `"C:\\Program Files\\Microsoft\\jdk-17.0.1.12-hotspot"`
