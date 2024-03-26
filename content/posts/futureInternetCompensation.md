@@ -25,7 +25,7 @@ I think the future of the internet should work more along the lines with what is
 
 ### Brave Basic Attention Token
 
-Value for value for the web, well almost. The [Brave Rewards](https://brave.com/brave-rewards/) program is a very interesting concept. I am going to specifically references the implementations of Tipping and Auto Contribute, since the earning money or credits from looking at advertisements is really not the way I want things to go. The attention grabbing notifications on Brave had to be turned off, simply less than ideal.
+Value for value, for the web, well almost. The [Brave Rewards](https://brave.com/brave-rewards/) program is an interesting implementation. I am going to specifically references the implementations of Tipping and Auto Contribute, since the earning money or credits from looking at advertisements is really not the way I want things to go. The attention grabbing notifications on Brave had to be turned off, simply less than ideal.
 
 ### Tipping with Brave rewards
 This really make a lot of sense, and allows you to set up  a one time tip or set up a recurring monthly tip of your choosing. Downside is that there is a 0.25 BAT minimum tip. 

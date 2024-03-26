@@ -4,13 +4,13 @@ date: 2022-01-25T09:19:27-08:00
 draft: false
 ---
 
-Using github on windows in a corporate environment currently has a quirk for me, when the password gets changed on a corporate schedule. github stops working when you try to do a push. I will see
+Using GitHub on windows in a corporate environment currently has a quirk for me, when the password gets changed on a corporate schedule. GitHub stops working when you try to do a push. I will see
 
     git push
     remote: Invalid username or password.
     fatal: Authentication failed for 'https://github....
 
-... is your corporate domain for your internal private github
+... is your corporate domain for your internal private GitHub
 
 The fix is open "Credential Manager" program.
 
@@ -18,10 +18,10 @@ The fix is open "Credential Manager" program.
 
 2. Looks under “Generic Credentials”
 
-3. Try and find the entry thats for github, hint it may not say github since your corporate hosted github may not contain github in the domain.
-    For me I found an entry that looks like the following 
+3. Try and find the entry that's for GitHub, hint it may not say GitHub since your corporate hosted GitHub may not contain GitHub in the domain.
+    For me, I found an entry that looks like the following 
     `Microsoft_OC1:uri=…`
-    where … is your github email or username@domain details.
+    where … is your GitHub email or username@domain details.
 
 4. Click Edit
 
@@ -29,7 +29,7 @@ The fix is open "Credential Manager" program.
 
 6. Try the git push again
 
-7. Now you should be prompted in windows to re-login at least in 2 more times. First with a pop up page from  your internal github, and next a pop up window from Windows OS.
+7. Now you should be prompted in windows to re-login at least in 2 more times. First with a pop-up page from  your internal GitHub, and next a pop-up window from Windows OS.
 
 8. Now the push should finish successfully if you get all your passwords and such correct.
 
