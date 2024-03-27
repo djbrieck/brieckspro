@@ -9,7 +9,7 @@ I brief explainer on how to make sense of what your contributing in [podStation]
 
 ## What the heck is a millisat?
 
-This is all back to metric so we need to look at the [milli](https://en.wikipedia.org/wiki/Milli-) prefix. Which means 10<sup>-3</sup> or <em>thousandths</em> `.001` of a sat. For more information on [What are sats?](https://bitcoinmagazine.com/guides/what-are-sats)
+This is all back to metric, so we need to look at the [milli](https://en.wikipedia.org/wiki/Milli-) prefix. Which means 10<sup>-3</sup> or <em>thousandths</em> `.001` of a sat. For more information on [What are sats?](https://bitcoinmagazine.com/guides/what-are-sats)
 
 >“Sats,” which is shorthand for “satoshis” is a term used for the smallest possible denomination of BTC: 0.00000001 BTC, or 1 one-hundred-millionth of a bitcoin. The unit is named for the pseudonymous creator of Bitcoin, Satoshi Nakamoto.
 
@@ -35,32 +35,32 @@ With the information above your able to do the calculations now and set the valu
 
 <em>At this point let the fun numerology begin... </em>
 
-<label> Millisats per hour:</label> 
-<input type="number" id="msh" name="MilliSatPerHour" onkeyup="satsCalculator()">
+<label for="msh"> Millisats per hour:</label> 
+<input type="number" id="msh" name="MilliSatPerHour" onkeyup="satsCalculator()" />
 
 <label> Sats per hour: </label> <span id="sph"></span> 
 
 <label> Sats per minute: </label> <span id="spm"></span> 
 <script>
     function satsCalculator(){
-        milliSats = document.getElementById('msh').valueAsNumber;
+        let milliSats = document.getElementById('msh').valueAsNumber;
     
-        satsPerHour = milliSats * .001;
+        let satsPerHour = milliSats * .001;
         document.getElementById('sph').innerHTML = satsPerHour;
         
-        satsPerMinute = satsPerHour / 60;
+        let satsPerMinute = satsPerHour / 60;
         document.getElementById('spm').innerHTML = satsPerMinute;        
     }
 </script>
 
     <script>
         function satsCalculator(){
-            milliSats = document.getElementById('msh').valueAsNumber;
+            let milliSats = document.getElementById('msh').valueAsNumber;
     
-            satsPerHour = milliSats * .001;
+            let satsPerHour = milliSats * .001;
             document.getElementById('sph').innerHTML = satsPerHour;
         
-            satsPerMinute = satsPerHour / 60;
+            let satsPerMinute = satsPerHour / 60;
             document.getElementById('spm').innerHTML = satsPerMinute;        
         }
     </script>
