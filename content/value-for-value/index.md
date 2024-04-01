@@ -4,7 +4,7 @@ date: 2022-08-21T09:23:45-07:00
 draft: false
 ---
 
-Did you find this site useful, informative, entertaining, please feel free to send back a portion of the value received or feel free to help me out any way that you would like, see below for some ideas. Remember nothing is free on the internet. There is no advertising on this site, and with your support there will never need to be.
+Did you find this site useful, informative, entertaining, please feel free to send back a portion of the value received or feel free to help me out any way that you would like, see below for some ideas? Remember nothing is free on the internet. There is no advertising on this site, and with your support there will never need to be.
 
 ## Send some coin
 

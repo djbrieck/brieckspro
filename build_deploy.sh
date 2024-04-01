@@ -14,7 +14,7 @@ if [ $? -ne 0 ]; then
     exit -1 
 fi
 
-echo "Recieved public hash of: $PUBLIC_HASH so lets try to update IPNS to it"
+echo "Received public hash of: $PUBLIC_HASH so lets try to update IPNS to it"
 ipfs name publish -key=bprokey $PUBLIC_HASH 
 if [ $? -ne 0 ]; then
     echo  "IPFS Publish to IPNS failed"

@@ -11,7 +11,7 @@ I brief explainer on how to make sense of what your contributing in [podStation]
 
 This is all back to metric, so we need to look at the [milli](https://en.wikipedia.org/wiki/Milli-) prefix. Which means 10<sup>-3</sup> or <em>thousandths</em> `.001` of a sat. For more information on [What are sats?](https://bitcoinmagazine.com/guides/what-are-sats)
 
->“Sats,” which is shorthand for “satoshis” is a term used for the smallest possible denomination of BTC: 0.00000001 BTC, or 1 one-hundred-millionth of a bitcoin. The unit is named for the pseudonymous creator of Bitcoin, Satoshi Nakamoto.
+>“Sats,” which is shorthand for “satoshi” is a term used for the smallest possible denomination of BTC: 0.00000001 BTC, or 1 one-hundred-millionth of a bitcoin. The unit is named for the pseudonymous creator of Bitcoin, Satoshi Nakamoto.
 
 ## Understanding the default in podStation
 

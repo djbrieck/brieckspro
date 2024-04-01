@@ -6,13 +6,13 @@ Do a pull request to get the source code
 
     git clone https://github.com/djbrieck/brieckspro.git brieckspro
 
-Download the submodules needed to run the project this is the "LoveIt" theme, othere wise you will not see anything rendered when you try to run using hugo.
+Download the submodules needed to run the project this is the "LoveIt" theme, otherwise you will not see anything rendered when you try to run using hugo.
 
     git submodule init
 
     git submodule update
 
-If you are wanting to deploy using the build_deploy.sh script you will need to create a key called bprokey, note this will be new unique IPNS address for each developler in this case, and will not update contents at brieckspro.com
+If you are wanting to deploy using the build_deploy.sh script you will need to create a key called bprokey, note this will be new unique IPNS address for each developer in this case, and will not update contents at brieckspro.com
 
     ipfs key gen bprokey
 

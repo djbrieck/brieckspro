@@ -19,7 +19,7 @@ I think their [Support & Donation page](http://dvorak.org/na/) says it best in s
 
 - Next level is titles based on how much is paid. 
 
-For now I want to focus on value for value part, here are some examples from the No Agenda Donation page.
+For now, I want to focus on value for value part, here are some examples from the No Agenda Donation page.
 
 >Unlike any other broadcasts, No Agenda has decided to be a solely listener supported production. This means the listeners contribute to the show both financially and through volunteerism. If you feel you are getting value from this show, please help us by becoming a supporter and passing the word that No Agenda is THE BEST PODCAST IN THE UNIVERSE.
 >
