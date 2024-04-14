@@ -1,15 +1,18 @@
 ---
 title: "Convert Photo to line drawing for coloring"
 date: 2023-08-22T12:13:11-07:00
-draft: true
+draft: false
 ---
 
-This is for those times when you can't find the coloring page your looking for but can find plenty of photos or already colored drawings. This process will turn a photo into a line drawing.
+This is for those times when you can't find the coloring page your looking for but can find plenty of photos or already
+colored drawings.
+This process will turn a photo into a line drawing.
 
 
-For this one you will need to have [GIMP - GNU Image Manipulation Program](https://www.gimp.org/downloads/) installed on your computer.
+For this one, you will need to have [GIMP -
+GNU Image Manipulation Program](https://www.gimp.org/downloads/) installed on your computer.
 
-1. Open Gimp.
+1. Open the program GIMP.
 2. File > New
 3. Select Template aka paper size you will be printing on. 
    
@@ -27,16 +30,18 @@ For this one you will need to have [GIMP - GNU Image Manipulation Program](https
 13. Save or Print the line drawing creation.
 
 ## TODO Add / make a screen recording doing this process
-    Add link to video on whatever, and add converted file here for downloading
+    Add link to video on whatever
 
-## Add the original picture
+## The original photo
+   ![toy ship on purple octopus](IMG_3093.jpg)
 
-## add a converted one
+## The converted to coloring picture exported as PNG
 
-## Add the GNU file created
+   ![The Converted to line drawing version of ship on purple octopus for coloring](phototoColoring.png)
 
-
-
+## The GIMP file for reference, based on following the steps above, this is what you should end up with.
+   <a  href="phototoColoring.xcf.zip" target="_blank"> Download photo to coloring GIMP xcf zip compressed 6.6 MB</a> 
+ 
 Source 
 
 [Making a line drawing from a photo](https://www.reddit.com/r/GIMP/comments/edjrzn/making_a_line_drawing_from_a_photo/)
