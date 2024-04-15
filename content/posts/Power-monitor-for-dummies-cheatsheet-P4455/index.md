@@ -33,6 +33,6 @@ Here are the things one might need to do that are not obvious as indicated by th
 
 5. Press "Pro" button when done.  
 
-![Kill a watt P4455 Front](P4455Front.png)
+![Kill a watt P4455 Front](P4455Front.jpg)
 
-![Kill a watt P4455 Back](P4455Back.png)
+![Kill a watt P4455 Back](P4455Back.jpg)
