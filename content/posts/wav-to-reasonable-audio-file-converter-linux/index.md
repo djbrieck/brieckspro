@@ -1,10 +1,10 @@
 ---
-title: "How to convert WAV audio files to somethign more Reasonable on Linux Mint"
+title: "How to convert WAV audio files to something more Reasonable on Linux Mint"
 date: 2024-04-17T15:17:56-07:00
 draft: false
 ---
 
-So I have a few giant WAV files that I need to convert to something more reasonable in file size. 1HR audo track weighs in at nearly 500MB, yikes! 
+So I have a few giant WAV files that I need to convert to something more reasonable in file size. 1HR audio track weighs in at nearly 500MB, yikes! 
 
 Could not figure out how to do it.  Searched and Found this article [Easily Convert Audio File Formats on Linux](https://itsfoss.com/sound-converter-linux/)  and discovered
 the program [Sound Converter](https://soundconverter.org/), which is like [HandBrake](https://handbrake.fr/) for audio files, exactly what I was looking for.
