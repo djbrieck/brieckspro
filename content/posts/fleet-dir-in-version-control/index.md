@@ -1,5 +1,5 @@
 ---
-title: "Fleet Dir in Version Control"
+title: "Fleet Directory checked into Version Control"
 date: 2024-04-20T21:37:53-07:00
 draft: false
 ---
