@@ -10,7 +10,7 @@ will use in a Java or Python program this will be a handy tip, you don't have to
 1. In your current Worksheet right click and select "Embed/Expose..." Or press keyboard shortcut <kbd>Ctrl</kbd> + 
 <kbd>Shift</kbd> + <kbd>F7</kbd>
 
-    ![Embed Expose SQL Code Window shows drops to select where to output conversion and which language to convert to / from](Embed_ExposeSqlCodeWindow.png)
+   ![Embed Expose SQL Code Window shows drops to select where to output conversion and which language to convert to / from](Embed_ExposeSqlCodeWindow.png)
 
 2.  Set the output destination to "Clipboard" otherwise conversion will be done over your existing worksheet SQL.
 
