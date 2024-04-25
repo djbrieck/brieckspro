@@ -16,6 +16,6 @@ will use in a Java or Python program this will be a handy tip, you don't have to
 
 3. Select Output Type  To / From Java or Python
 
-4. Click 'Apply'
+4. Click `Apply` button.
 
 5. Finally, paste the conversion where you need it at.
