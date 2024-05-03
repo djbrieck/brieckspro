@@ -20,7 +20,7 @@ giving no indication of what going wrong besides the update not installing.
 
 ## The fix:
 
-1. Recognize from the window that this stuck package is a Flatpak package, hint its the Type column and the cube icon.
+1. Recognize from the window that this stuck package is a Flatpak package, hint it's the Type column and the cube icon.
 2. open the Terminal program.
 3. Run `flatpak update` as can be viewed in the output below. It appears the installed Ungoogled-chromium flatpak 
 package was marked as end-of-life and has been replaced by something at a new GitHub path. 
