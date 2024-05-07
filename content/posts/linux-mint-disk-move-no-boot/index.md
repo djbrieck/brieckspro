@@ -4,12 +4,13 @@ date: 2024-05-07T07:38:58-07:00
 draft: false
 ---
 
-
 ## The problem 
-I have stalled not fully starting  Mac Pro 3,1 after re-installing its SSD hard drive. 
+I have stalled not fully starting Mac Pro 3,1 after re-installing its SSD hard drive. 
 
-Upon reinstalling the SSD back into the Mac Pro the machine just hung on LM logo never booted any further. Recalling I 
-should be able to switch to a console output for booting with the chance of seeing any potential errors. I researched 
+Upon reinstalling the SSD back into the Mac Pro the machine just hung on LM logo never booted any further.
+Recalling, I 
+should be able to switch to a console output for booting with the chance of seeing any potential errors.
+I researched 
 and rediscovered <kbd>ctrl</kbd> + <kbd>ALT</kbd> + Choose one at a time <kbd>F1</kbd> through <kbd>F7</kbd> to switch 
 between consoles and [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface).
 
@@ -20,8 +21,8 @@ After switching to the `F1` console output I was seeing a wall of errors as pict
 In short was getting at a lot of errors reading the file system like the following: 
 `... EXT4-fs error (device sda2): __ext4_find_entry:1670: inode #2 ...`
 
-I restarted the system, and it was just going straight to a https://wiki.ubuntu.com/Initramfs prompt and not doing 
-anything useful, so something was up.
+I restarted the system, and it was just going straight to [Initramfs prompt](https://wiki.ubuntu.com/Initramfs) and not 
+doing anything useful.
 
 ## Here is how I fixed it
 
