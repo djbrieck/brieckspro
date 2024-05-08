@@ -14,7 +14,8 @@ otherwise you will not see anything rendered when you try to run using hugo.
     git submodule update
 
 If you are wanting to deploy using the build_deploy.sh script, you will need to create a key called bprokey, note this 
-will be a new unique [IPNS]() address for each developer in this case, and will not update contents at brieckspro.com
+will be a new unique [IPNS](https://docs-ipfs-tech.ipns.dweb.link/concepts/ipns/#how-ipns-works) address for each developer in this case, and will not update contents at brieckspro.com, if you would like to share one key among several peers see how here
+[How to publish to the same IPNS address from multiple IPFS peers](https://brieckspro.com/posts/deploy-ipns-from-multiple-peers/)
 
     ipfs key gen bprokey
 
