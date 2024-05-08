@@ -82,7 +82,7 @@ Add in adding of bookmarks
 
 Add in edit bookmarks
 
-Add  removing of bookmarks.
+Add removing of bookmarks.
 
 Add in import bookmarks
 
