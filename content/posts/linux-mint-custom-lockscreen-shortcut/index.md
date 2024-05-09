@@ -5,23 +5,25 @@ draft: true
 ---
 ## Intro
 
-This guide is for you If you try to lock your screen and instead are greeted with new window title [Melange] ()
+This is for you If you try to lock your screen like you do on most PC's and instead are greeted with new window titled
+`Melange - Cinnamon Debugger`.
 
-This is a guide on how to remap screen lock shortcut so that it's Win/Super + L instead of Linux Mint default of CTRL + ALT + L
+This is a guide on how to remap screen lock shortcut so that it's <kbd>Win/Super</kbd> + <kbd>L</kbd> instead of 
+Linux Mint default of <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>L</kbd> to lock the screen.
 
-Relevant for Debian, Linux Mint and possibly more Debian with Cinnamon based distributions of Linux
+Relevant for Debian, Linux Mint and possibly more Cinnamon-based UI Linux distributions.
 
-Search for Keyboard
+1. Open `Menu` type in `keyboard`
 
-Go to System Category
+2. Click `Shortcuts` tab
 
-Find Keyboard Shortcuts
+3. Under categories click "System" or if there is a filter box type in `lock`
 
-Click on "Lock screen"
+4. Click on "Lock screen"
 
-Click the Key binding to replace.
+5. Click the Key binding to replace.
 
-Press the keys super + L
+6. Press the keys <kbd>super</kbd> + <kbd>L</kbd>
 
 Pop up will show "This key combination, Super + L is currently in use by Toggle Looking Glass ..."
 Press Yes to reassign
