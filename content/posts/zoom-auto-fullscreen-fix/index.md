@@ -11,8 +11,8 @@ Zoom window goes full screen everytime someone shares their screen during a meet
 I have a very intentional placement of windows on the screen. So I can see my notes etc., so every time
 Zoom goes full screen, its bit of a disruption for my workflow.
 
-After a few times, I looked for a way to stop this from happening and found it. See below for I how I stopped the full 
-screen take over with Zoom meetings.
+After a few times, I looked for a way to stop this from happening and found it.
+See below for how I stopped the full screen take over with Zoom meetings.
 
 ## A Solution 
 
