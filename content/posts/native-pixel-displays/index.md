@@ -10,16 +10,19 @@ the screen.
 
 ## This historical standard
 
-This is how computer displays have generally worked since the beginning of computing. [CRTs]() had some level of resolution 
-changing, but generally speaking, there were only a handful of usable resolutions; most did not require any form of 
-resolution scaling unlike today, what was on the screen was all you could see, and it had to be usable as is since that's 
-all there was.
+This is how computer displays have generally worked since the beginning of computing. 
+[CRTs](https://en.wikipedia.org/wiki/Cathode-ray_tube) had some level of resolution changing, but generally speaking, 
+there were only a handful of usable resolutions where the display worked best with low flicker, etc. Most CRT displays 
+did not require any form of resolution scaling unlike today, what was on the screen was all you could see, and it had 
+to be usable as is since that's all there was.
 
-# The size up
+## The size up
 
-After that point, the screens got progressively larger over time and started having larger screen real estate.
+After that point, the screens got progressively larger over time and started having larger screen real estate and more 
+pixels as well.
 
 Eg I remember staring at resolutions something like the following since 1994:
+    280 x 192
     512 x 342 <--- Far past mid to late 1990s era 
     640 x 480 
     800 x 600
@@ -44,8 +47,8 @@ and has been one of the largest pieces of Screen real estate you could buy, sinc
 
 ## The biggest innovation since 2004 has been adding more pixel density, while maintaining the same or very similar working area
 
-How have we innovated since 2004, we added more pixels density, while maintaining a similar viewing area, as this old 
-display standard. For example, a modern 4K computer monitor in the 27" to 30" range, must use image scaling to scale up 
+How have we innovated since 2004, we added more pixels density, while maintaining a similar viewing area about the same 
+as this old 2K display standard. For example, a modern 4K computer monitor in the 27" to 30" range, must use image scaling to scale up 
 the size of everything on the screen otherwise details are too small to be practical.
 
 
