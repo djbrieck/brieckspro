@@ -48,8 +48,31 @@ and has been one of the largest pieces of Screen real estate you could buy, sinc
 ## The biggest innovation since 2004 has been adding more pixel density, while maintaining the same or very similar working area
 
 How have we innovated since 2004, we added more pixels density, while maintaining a similar viewing area about the same 
-as this old 2K display standard. For example, a modern 4K computer monitor in the 27" to 30" range, must use image scaling to scale up 
-the size of everything on the screen otherwise details are too small to be practical.
+as this old 2K display standard. For example, a modern 4K computer monitor in the 27" to 30" range, must use image 
+scaling to scale up the size of everything on the screen otherwise details are too small to be practical. This scaling
+technology started being called [Retina](https://en.wikipedia.org/wiki/Retina_display) displays on Apple stuff and 
+just scaling everywhere else.
+
+Which means in most cases your getting about the same usable desktop space, but your GPU is just pushing double the 
+pixels, to get better image quality. I havee not tried this yet other than on my iPhone / iPad where it really makes no 
+difference. I honestly get a better computing experience using my 27" Dell 2k ish monitor, and no I am not talking about the price ;).
+2K seems good enough for me.
+
+## Alternative reality
+
+These kind of things are not to popular beyond TV sets but 40" - 48" displays. Only a handful of display manufactures make such a beast.
+To mee these things are the alternative present reality you get full size native pixels to use and can enjoy the full 
+Quad 1080P experience while using just using one cable. Is that almost what apple promised with the Apple Display Connector, well no not really, but still using one cable instead of 4 is impressive to me.
+
+These are pretty reasonable in price as purpose built computer screen at around $700-$1000 USD.
+
+The hack you can buy a decent 4K TV and get the experience for a much lower price we are talking $300 to $600 price range all day long. And TV are usable by more people than used large pro level monitors. 
+
+## The future I am looking forward too
+
+The 8K TV / Monitor where we get our cake and can eat it two unless they jam all that into a 27" screen then it will be a waste... But in a 40"-50" display would be the upgrade I would be waiting for to get large real estate and better image quality. 
+
+
 
 
 Sources https://www.techjunkie.com/windows-10-display-scaling/
