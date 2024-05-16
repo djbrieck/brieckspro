@@ -1,18 +1,17 @@
 ---
-title: "How run Node Version Manager NVM without admin rights"
+title: "How run Node Version Manager NVM for Windows without admin rights"
 date: 2024-05-13T08:52:24-07:00
 draft: false
 ---
 
 Possible Alternative solution for [Stack Overflow - How to install node version manager without Admin](https://stackoverflow.com/questions/52208160/how-to-install-node-version-managernvm-without-admin-rights)
 
-Short answer is can't be installed it without admin privileges, yet. 
-However, you can manually use it and change node versions manually 
-without needing admin again nor having to manually manage installing various versions of Node.js using the 
-Node.js Windows installer ever again.
+The Short answer is [NVM For Windows](https://github.com/coreybutler/nvm-windows) can't be installed without admin 
+privileges, yet. However, you can manually use it and change node versions manually without needing admin again nor 
+having to manually manage installing various versions of Node.js using the Node.js Windows installer ever again.
 
-My solution is ask your local admin to install nvm for Windows for you and to install in a not locked-down folder path 
-on the C drive, something like `C:\nvm` worked for me.
+My solution is ask your local admin to install nvm for Windows for you and additionally to install it in a not 
+locked-down folder path on the C drive, something like `C:\nvm` worked for me.
 
 Then make the following changes yourself after the admin user has completed the installation of NVM.
 
