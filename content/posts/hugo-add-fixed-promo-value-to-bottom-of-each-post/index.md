@@ -26,3 +26,8 @@ While this works in getting the functionality added. I am noticing I am loosing 
 Lastly since this is not code in my project, is this a reasonable way to do this. I am guessing at best I need to fork the LoveIt theme to maintain my changes properly, but at the same time this seems like the wrong way to do this, since I am creating a dependency between this theme and my specific website, this feels like I am doing something wrong.
 
 What am I missing in is there another way to solve this problem / add this function without having to modify the theme in way that ties it to my specific website.
+
+
+## A Solution I came up with
+
+Place the same changes here in my project not in the theme itself. `layouts/partials/single/footer.html`
