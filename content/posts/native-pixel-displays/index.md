@@ -22,6 +22,7 @@ After that point, the screens got progressively larger over time and started hav
 pixels as well.
 
 Eg I remember staring at resolutions something like the following since 1994:
+
     280 x 192
     512 x 342 <--- Far past mid to late 1990s era 
     640 x 480 
@@ -54,25 +55,40 @@ technology started being called [Retina](https://en.wikipedia.org/wiki/Retina_di
 just scaling everywhere else.
 
 Which means in most cases your getting about the same usable desktop space, but your GPU is just pushing double the 
-pixels, to get better image quality. I havee not tried this yet other than on my iPhone / iPad where it really makes no 
-difference. I honestly get a better computing experience using my 27" Dell 2k ish monitor, and no I am not talking about the price ;).
-2K seems good enough for me.
+pixels, to get better image quality.
+I have not tried this yet other than on my iPhone / iPad where it really makes no 
+difference.
+I honestly get a better computing experience using my 27" Dell 2k ish monitor,
+and no, I am not talking about the price ;).
+2K seems good enough for me, but I have yet to try it.
+
+
+## The curveballs they want to sell you on
+
+The super wide curved display, with tons of horizontal resolution but very little vertical height. And these are also curved usually. These are yet another pricey option for displays and remind me a lot of the terrible 1440 x 900 resolution with low vertical height, which means more scrolling for documents and webpages that tend to require more in the up and down domain than they do in the right to left arena. 
 
 ## Alternative reality
 
-These kind of things are not to popular beyond TV sets but 40" - 48" displays. Only a handful of display manufactures make such a beast.
-To mee these things are the alternative present reality you get full size native pixels to use and can enjoy the full 
-Quad 1080P experience while using just using one cable. Is that almost what apple promised with the Apple Display Connector, well no not really, but still using one cable instead of 4 is impressive to me.
+These kind of things are not too popular beyond TV sets but 40" - 48" displays. Only a handful of display manufactures make such a beast.
+To me these things are the alternative present reality, you get full-size native pixels to use and can enjoy the full 
+Quad 1080P experience while using just using one cable. Is that almost what apple promised with the Apple Display 
+Connector, well no not really, but still using one cable instead of 4 is impressive to me, in at least four ways.
 
-These are pretty reasonable in price as purpose built computer screen at around $700-$1000 USD.
+These are pretty reasonable in price as a purpose-built computer screen at around $700-$1000 USD.
 
-The hack you can buy a decent 4K TV and get the experience for a much lower price we are talking $300 to $600 price range all day long. And TV are usable by more people than used large pro level monitors. 
+The hack you can buy a decent 4K TV and get the experience for a much lower price we are talking $300 to $600 price 
+range all day long. And TV are usable by more people than used large pro-level monitors. 
 
-## The future I am looking forward too
+## The future I am looking forward to that's already here...
 
-The 8K TV / Monitor where we get our cake and can eat it two unless they jam all that into a 27" screen then it will be a waste... But in a 40"-50" display would be the upgrade I would be waiting for to get large real estate and better image quality. 
+The 8K TV / Monitor where we get our cake and can eat it too unless they jam all that into a 27" screen then it will be 
+a waste... But in a 40"-50" display would be the upgrade I would be waiting for to get larger real estate and better 
+image quality too, that would be a real upgrade over this exisitng workspace area, not just higher image quality in the same working area.
 
+In fact if your willing to use the TV option, they are available now in the 55" + plus range and can be purchased for around $1500, which is very reasonable especially in the current world of price montitors, for example Apple wants 1599 for a 5K Studio Display witch would be about a 2.5K usable resolution. 
 
+https://www.bestbuy.com/site/lg-65-class-99-series-qned-mini-led-8k-uhd-smart-webos-tv/6461910.p?skuId=6461910
 
+With this TV you can do quite a lot 8K resolution and you can pick how you wnant to scale it for example 4 3K worth of real estate or push it to the limit at native resolution with four 4K screens, this would only be slightly higher PPI than using a 43" 4K so should be usable at 65". 
 
 Sources https://www.techjunkie.com/windows-10-display-scaling/
