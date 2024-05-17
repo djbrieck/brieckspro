@@ -4,9 +4,12 @@ date: 2024-05-15T06:12:11-07:00
 draft: true
 ---
 
-Coining my own set of terms since I can. Here it is it's called "Native Pixel Displays". This is effectively any 
+Coining my own set of terms since here, I can.
+So let's do it, I am calling it "Native Pixel Display" and its almost trademark ready.
+This is effectively any 
 computer display that is usable without the use of scaling or other forms of software magnification to be able to read 
-the screen.
+the content on the screen.
+It's 
 
 ## This historical standard
 
