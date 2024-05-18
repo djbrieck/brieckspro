@@ -5,12 +5,12 @@ draft: false
 ---
 
 I am running a hugo site this blog. I had the idea of how do I add a promotional Value for value note that would show at the 
-bottom of each post, since I am shooting for the advertisement-free [V4V]() model. I wanted to figure out how to do this.
+bottom of each post, since I am shooting for the advertisement-free [Value for Vale](https://value4value.info/) model. I wanted to figure out how to do this.
 
-I went to my current theme [LoveIt]() and looked through the layout options where I eventually found footer.html 
-`themes/LoveIt/layouts/partials/single/footer.html`.
+I went to my current theme [LoveIt](https://hugoloveit.com/) and looked through the layout options where I eventually found footer.html 
+[`themes/LoveIt/layouts/partials/single/footer.html`](https://github.com/dillonzq/LoveIt/blob/master/layouts/partials/single/footer.html).
 
-There I added the following, just after the post-footer `<div>`
+There I added the following, just after the post-footer `div`
 
         <div class="details admonition quote open">
             <div class="details-summary admonition-title">
