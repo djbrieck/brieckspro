@@ -4,20 +4,31 @@ date: 2024-05-20T06:50:36-07:00
 draft: true
 ---
 
-Problem: I need faster usb ports on a vintage 2011 MacBook Pro that has Thunderbolt 1.
+## Problem: I need faster usb ports on a vintage 2011 MacBook Pro that has Thunderbolt 1 what are my options?
 
-If you're using an older mac 2011 or newer, your probably ready for some upgrades. No, I am not talking about dropping near or more than $1200+ on a new MacBook Pro, or getting a whole new PC laptop, just yet either, luckily with that thunderbolt port some upgrades are possible on so called non-upgradeable hardware.:W
+For example, I have been using a MacBook Pro Late 2011.
+The slow USB 2 speed is one of my largest problem areas on this system.
 
+I realized my machine has a Thunderbolt port,
+that I had been using primarily as a mini display port to just connect an external display.
+This is a first generation Thunderbolt port, so it can go up to 10Gbit/s,
+which should be more than enough speed to enable a 5Gbit/s blue USB 3 port.
+And that is the port I need since most of my external backup hard drives now have USB 3 connectivity.
+And now it's not cost-effective to try and find firewire 800 external enclosures.
+USB 3+ including USB-C is the next standard for fast external drives and generally offers faster performance and enables possibilities for using high-performance SSD drives.
 
-For example, I have been using a MacBook Pro Late 2011. The machine has been great and I have no huge need to replace it yet, one problem I am running into is the slow USB 2 speeds; this box tops out at USB 2. Which is great for most things, but when you're trying to transfer large amounts of data to external drives, it starts taking forever really quick, especially with giant 3+ Terabyte drives.
+I started looking around for things I could connect to allow me to add some faster usb 3 ports. I was thinking small like a dongle, I should be able to grab a Thunderbolt to USB 3 adapter, really basic simple and should be economical right since Thunderbolt is pretty old standard now.
 
-I realized my machine has a Thunderbolt port, that I had been using primarily as a mini display port to just connect external displays. This is a first generation thunderbolt port so it can get up to 10Gbit/s, which should be more than enough speed to enable a 5Gbits/s blue USB 3 port. And that is the port I need since most of my external hard drives now have USB 3 connectivity. And now it's not cost-effective to try and find firewire 800 external enclosures. USB 3+ including USB-C is the next standard for fast external drives.
+To my surprise I was finding little of anything,
+and most of my searches where returning things meant for Thunderbolt 3. To say the least, I was pretty disappointed.
+Went to YouTube
+and saw others where having a similar problem [Am I the only one
+still using Thunderbolt 2](https://www.youtube.com/watch?v=ZHSoSRMYiYE&lc=UgxGym35SVNUKgltaFF4AaABAg.9ZNFgOY1TbQ9ZbTwiCVT9N).
+And while I found an adapter the cost was pretty high for an adapter that just adds one usb 3 port and an eSATA port.
+Price was $75 - $100 and that's all you get,
+and you loose your external display while using it, pretty lame in my opinion.
 
-So I started looking around for things I could connect, namely was thinking small, I should be able to grab a Thunderbolt to USB 3 adapter, really basic simple and should be cheap right since thunderbolt is pretty old standard now.
-
-To my surprise I was not finding much of anything, and most of my searches where returning things meant for Thunderbolt 3. To say the least I was pretty disappointed. Went to youtube and saw others where having a similar problem [Am I the only one still using Thunderbolt 2](https://www.youtube.com/watch?v=ZHSoSRMYiYE&lc=UgxGym35SVNUKgltaFF4AaABAg.9ZNFgOY1TbQ9ZbTwiCVT9N). And while I found an adapter the cost was pretty high for an adapter that just adds one usb 3 port and an eSATA port. Price was $75 - $100 and thats all you get, and you loose your external display while using it, pretty lame in my opinion.
-
-Then I recalled why not just get a Thunderbolt Docking station, since that is a benefit with having something like thunderbolt on your system, but always has been excessively expensive to purchase new. These docks will add a few usb ports, some video out port/s, ethernet, audio, all of which could be useful to have outside the already full ports on the laptop, and those should be dirt cheap at this point used for a used dock.
+Then I recalled why not just getting a Thunderbolt Docking station, since that is a benefit with having something like thunderbolt on your system, but always has been excessively expensive to purchase new. These docks will add a few usb ports, some video out port/s, ethernet, audio, all of which could be useful to have outside the already full ports on the laptop, and those should be dirt cheap at this point used for a used dock.
 
 Searched for that and found next to nothing still available for sale. Went  to eBay and results were similar, a lot of Thunderbolt 3 stuff and a few Thunderbolt 2 things sprinkled in. Also, good luck finding a Thunderbolt 1 dock, like searching for a needle in a haystack of newer Thunderbolt things and its pretty hard to filter for just Thunderbolt. And used prices are much better but still $50-$100 for used things. Still better than buying the single use device, but still not great especially for an older Thunderbolt 1/2 dock.
 
