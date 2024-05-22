@@ -33,7 +33,7 @@ Next experiment 1 liter thermos with 2 scopes of grounds or about (4 teaspoons)
 
 Natural release took 46 - 53 minutes
 
-Need to check the output temperature hopefully it's at least 160 degrees farenheight. Was around 173 after the natural release.
+Need to check the output temperature hopefully it's at least 160 degrees Fahrenheit. Was around 173 after the natural release.
 
 After the natural release I ran the results though the coffee stand filter right into the mug / insulated thermos for  storage.
 
