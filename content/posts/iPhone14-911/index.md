@@ -8,7 +8,7 @@ Thinking this was like phone setup I I
 thought I could just lock the screen to get out of it and sort of re-start the setup later was my intention. 
 
 So I pressed the power button,
-to try to dismiss the alert I did not want to answer on the phone since I was helping some else set up a new phone.
+t to try to dismiss the alert I did not want to answer on the phone since I was helping some else set up a new phone.
 
 Upon pressing the power button to attempt to unlock the phone again, I see the alert is still showing.
 And it's over the lock screen, and the Don't Allow and Allow buttons are the only thing that responds,
