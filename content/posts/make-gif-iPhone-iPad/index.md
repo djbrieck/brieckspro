@@ -11,18 +11,20 @@ There is here is what I found.
 
 1. Open the [Shortcuts](https://apps.apple.com/us/app/shortcuts/id915249334) application.
 
-2. Click +
+2. Go to All Shortcuts 
 
-Search for 'gif'
+3. Click `+`
 
-Select Make gif
+4. Search for 'gif'
 
-Configure it to prompt for selecting a photo
+5. Select `Make GIF`
 
-Press play button to run the new shortcut
+6. Configure it to prompt for selecting a photo
 
-Select video to convert
+7. Press play button to run the new shortcut
 
-After conversion
+8. Select video to convert
 
-Click the share button and save as an image or file 
+9. After conversion
+
+10. Click the share button and save as an image or file 
