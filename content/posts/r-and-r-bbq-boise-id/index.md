@@ -9,7 +9,7 @@ places out here. In the Memphis Area, you had probably four or more different BB
 corner. All were pretty decent too, really was no such thing as BAD BBQ out in Memphis, even the worst was leaps and 
 bounds better than fast food garbage.
 
-While on a trip to downtown Boise ID. I located a BBQ place called [R and R BBQ] (https://randrbbq.com/) `150 N 8th St.` 
+While on a trip to downtown Boise ID. I located a BBQ place called [R and R BBQ](https://randrbbq.com/) at `150 N 8th St.` 
 Have to say it was fantastic. I got their `Pineapple Pulled pork sandwich with fries`. It was just what I was looking 
 for. This downtown location was very nice, and the food was well-prepared, hot and ready to eat. I am impressed with 
 this chain reminds me a lot of my favorite local chain from Memphis [Baby Jacks](https://www.babyjacks.com/)
