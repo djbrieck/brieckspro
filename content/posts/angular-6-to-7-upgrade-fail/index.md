@@ -4,24 +4,25 @@ date: 2024-05-28T18:19:38-06:00
 draft: true
 ---
 
-I have some old Angular applications to update.
+I had an old Angular application to update. Here is what I ran into and how I resolved the issues.
 
-Just try and do this, why you should not use angular :-0 and let it get to far out of date.
+Just try and do this, any maybe why you should not use Angular :-0 and let it get too far out of date.
 
-Here is what I was attempting to upgrade [Angular 6 to Angular 7.2](https://angular.dev/update-guide?v=6.0-7.2&l=1)
+Here is what I was attempting to upgrade from [Angular 6 to Angular 7.2](https://angular.dev/update-guide?v=6.0-7.2&l=1)
 
+## Setup recreating the madness
 
-First run through failed https://stackoverflow.com/questions/56575028/invalid-rule-result-function
+For starters, I had a project with angular core 6.0.3 and angular cli of 6.0.8
 
-For starters, I had a project with core 6.0.3 and cli of 6.0.8
+1. Install [nvm](https://github.com/nvm-sh/nvm) if available on your platform of choice. 
 
-nvm use v8.17.0
+2. Then run `nvm install v8.17.0` to install Node.js.
 
-Install Angular CLI 6.0.3
+3. Next set the Node.js version to run with the following `nvm use v8.17.0`
 
-ng i -g @angular/cli@6.0.3
+4. Install Angular CLI 6.0.3 with the following: `npm i -g @angular/cli@6.0.3`
 
-ng new angular-six-start
+5. Start the new old project fresh again: `ng new angular-six-start`
 
 update rxjs version from ^6.0.0 to 6.0.0
 
@@ -53,3 +54,5 @@ other useful links referenced
 https://github.com/angular/angular-cli/tree/v6.2.9
 
 https://angular.io/guide/versions
+
+First run through failed https://stackoverflow.com/questions/56575028/invalid-rule-result-function
