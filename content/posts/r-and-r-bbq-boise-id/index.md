@@ -10,6 +10,7 @@ corner. All were pretty decent too, really was no such thing as BAD BBQ out in M
 bounds better than fast food garbage.
 
 While on a trip to downtown Boise ID. I located a BBQ place called [R and R BBQ](https://randrbbq.com/) at `150 N 8th St.` 
+![r and r bbq at 150 N 8th St interior photo boise idaho](rr-bbq-boise.jpg)
 Have to say it was fantastic. I got their `Pineapple Pulled pork sandwich with fries`. It was just what I was looking 
 for. This downtown location was very nice, and the food was well-prepared, hot and ready to eat. I am impressed with 
 this chain reminds me a lot of my favorite local chain from Memphis [Baby Jacks](https://www.babyjacks.com/)
