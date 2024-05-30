@@ -20,17 +20,30 @@ For starters, I had a project with angular core 6.0.3 and angular cli of 6.0.8
 
 3. Next set the Node.js version to run with the following `nvm use v8.17.0`
 
+before install the version you want you man need to uninstall run `ng --version` then uninstall `npm uninstall -g @angular/cli`
+
 4. Install Angular CLI 6.0.3 with the following: `npm i -g @angular/cli@6.0.3`
 
 5. Start the new old project fresh again: `ng new angular-six-start`
 
-update rxjs version from ^6.0.0 to 6.0.0
+6. `cd angular-six-start/`
+7.  Try to run it `ng serve`
 
-npm i
+Should see errors like the following:
 
-ng serve
+    ERROR in node_modules/rxjs/internal/types.d.ts(90,44): error TS1005: ';' expected.
+    node_modules/rxjs/internal/types.d.ts(90,74): error TS1005: ';' expected.
+    node_modules/rxjs/internal/types.d.ts(90,77): error TS1109: Expression expected.
+    node_modules/rxjs/internal/types.d.ts(91,52): error TS1005: ';' expected.
+    node_modules/rxjs/internal/types.d.ts(91,88): error TS1005: ';' expected.
+    node_modules/rxjs/internal/types.d.ts(91,92): error TS1109: Expression expected.
 
-Should have working project now ;)
+8. Manually Update rxjs version from ^6.0.0 to 6.0.0 in package.json or run `npm install rxjs@6.0.0 --save-exact`
+
+9. Re run `ng serve`
+
+
+Should have a working project now ;) That looks like this ![angular 6 running](angular6run.png)
 
 Now before following the angular upgrade steps
 
