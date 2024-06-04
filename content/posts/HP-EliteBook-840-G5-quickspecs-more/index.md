@@ -8,7 +8,7 @@ I am taking ownership and putting up my own source, so I and others can find thi
 
 ## HP EliteBook 840 G5 Quick Specs 
 
-[HP ELiteBook 840 G5 QuickSpecs - PDF](HP_EliteBook_840_G5-QuickSpecs.pdf)
+[HP EliteBook 840 G5 QuickSpecs - PDF](HP_EliteBook_840_G5-QuickSpecs.pdf)
 
 ## HP EliteBook 840 G5 User Guide
 
