@@ -1,5 +1,5 @@
 ---
-title: "Apple Mac Book Pro 13 Late 2011"
+title: "Apple MacBook Pro 13 Late 2011"
 date: 2024-06-05T05:49:36-07:00
 draft: false
 ---
