@@ -1,7 +1,7 @@
 ---
 title: "Corn on the Cob Grill Recipe"
 date: 2024-06-10T14:54:59-07:00
-draft: true
+draft: false
 ---
 1. Heat up the gill setting to Medium heat
 
