@@ -18,8 +18,7 @@ Here were my initial thoughts:
 
 Nope, none of those pay no attention to dependency being referenced in this case since we are having a general problem transferring through our local Artifactory, and not having an issue with the referenced dependency in this case. The dependency is readily available [Maven repo link for jersey-hk2](https://mvnrepository.com/artifact/org.glassfish.jersey.inject/jersey-hk2/2.26).
 
-
-The fix in this case is not trying to track down certificates relating to org.glassfish.jersey.inject:jersey-hk2 but instead focus on the local instance of Artifactory you are trying to connect through, in my case I need to import certificates from there, and that is what I ended up doing that finally worked.
+The fix in this case is not trying to track down certificates relating to org.glassfish.jersey.inject:jersey-hk2 but instead focus on the local instance of Artifactory you are trying to connect through, in my case I need to import certificates from it, and that is what I ended up doing that finally worked.
 
 Browse to your locally hosted artifactory url in a browser and export the certificate saving it to file.
 
