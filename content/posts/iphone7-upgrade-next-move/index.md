@@ -4,7 +4,7 @@ date: 2024-07-20T08:03:24-06:00
 draft: true
 ---
 
-I have had quite the story on Plus size phones. After being fed up with my last Android phone  and my last personal new phone purchase a Google Nexus 6 Plus, which was a giant phone at the time, and seems like a good price new of $399.99 back in 2015. I was inspired by Apples long term commitment to provide updates and a usable software experience, so I selected a iPhone 6 Plus, since it was pretty affordable used back in 2018 at around $254. I was immediately impressed back then with how well it was performing especially when compared spec for spec to the newer Nexus 6. Selecting the 6 Plus at this point was a mistake 
+I have had quite the story on Plus size phones. After being fed up with my last Android phone  and my last personal new phone purchase a Google Nexus 6 Plus, which was a giant phone at the time, and seems like a good price new of $399.99 back in 2015. I was inspired by Apples long term commitment to provide updates and a usable software experience, so I selected a iPhone 6 Plus, since it was pretty affordable used back in 2018 at around $254. I was immediately impressed back then with how well it was performing especially when compared spec for spec to the newer Nexus 6. Selecting the 6 Plus at this point was a mistake now that I look back on it
 
 I ran this iPhone 7 Plus until the very last moment for me and now have an idea of exactly how long I can keep an old phone usable for me. While this was an older iPhone functionally everything I needed to work worked for me.
 
