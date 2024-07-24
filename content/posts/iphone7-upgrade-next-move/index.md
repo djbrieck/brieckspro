@@ -1,5 +1,5 @@
 ---
-title: "iPhone 7 Plus time to Upgrade and my Next Move is"
+title: "iPhone 7 Plus time to Upgrade and my Next Move is 12 Pro"
 date: 2024-07-20T08:03:24-06:00
 draft: true
 ---
