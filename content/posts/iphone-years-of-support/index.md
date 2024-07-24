@@ -20,7 +20,7 @@ The model name of the Apple iPhone being referenced e.g. "iPhone 12 Mini"
 
 
 ## first announced date
-This is most critical date for updating timing, but its when this device was announced / released in writing for the first time officially by Apple.
+This is the most critical date for updating timing, but It's when this device was announced / released in writing for the first time officially by Apple.
 
 This information was sourced from [EveryMac](https://everymac.com/systems/apple/iphone/index-iphone-specs.html) and [Wikipedia iPhone](https://en.wikipedia.org/wiki/IPhone) entries for each model of phone listed.
 
@@ -28,7 +28,7 @@ This information was sourced from [EveryMac](https://everymac.com/systems/apple/
 ## year discontinued 
 Is the date that apple pulled this device from the Apple Store, usually in occurrence with the new model replacing this one for sale.
 
-Right now this information is probably a column that could be removed since it seems to have no correlations to anything meaningful. Something to keep in mind when you buy an older new iPhone eg buying a new iPhone 13 in July 2024 does not really buy you any extra guaranteed support since its all based on when it was first announced.
+Right now this information is probably a column that could be removed since it seems to have no correlations to anything meaningful. Something to keep in mind when you buy an older new iPhone e.g. buying a new iPhone 13 in July 2024 does not really buy you any extra guaranteed support since its all based on when it was first announced.
 
 This information was sourced from [EveryMac](https://everymac.com/systems/apple/iphone/index-iphone-specs.html) and [Wikipedia iPhone](https://en.wikipedia.org/wiki/IPhone) entries for each model of phone listed.
 
@@ -36,7 +36,7 @@ This information was sourced from [EveryMac](https://everymac.com/systems/apple/
 ##  Current iOS support dropped on
 This is the date when Apple releases the Next latest version of iPhone OS that this device will not be able to officially install. 
 
-This date is based on the records of `Initial release` or `General availability' dates for iOS as recorded on [Wikipedia iOS pages](https://en.wikipedia.org/wiki/IOS) 
+This date is based on the records of `Initial release` or `General availability` dates for iOS as recorded on [Wikipedia iOS pages](https://en.wikipedia.org/wiki/IOS) 
 
 
 ## six years later date
@@ -57,4 +57,4 @@ This is the recorded last major version of iOS that the iPhone supported. For ex
 This is the number of years of support calculated from when announced to when current iOS support was dropped. I used the LibreOffice Calc formula to calculate the year `=DATEDIF(B2,D2,"y")` Where B* is the `first announced date` and D* is the `Current iOS support dropped on` date.
 
 ## software years supported after hardware discontinued date
-This is date difference between the discontinue date of the iPhone and when Current OS support was pulled. I used the following LibreOffice Calc formula `=DATEDIF(B2,C2,"y")`  Where B* is the `first announced date` and C* is the `year discontinued` date.t 
+This is date difference between the discontinue date of the iPhone and when Current OS support was pulled. I used the following LibreOffice Calc formula `=DATEDIF(B2,C2,"y")`  Where B* is the `first announced date` and C* is the `year discontinued` date.
