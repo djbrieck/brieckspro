@@ -12,7 +12,7 @@ with. If you're not a fan of that like me, the good news is this is easy to fix.
 ### Windows 11
 1. Open Start Menu search for "snap".
 2. Select `Snap window settings`
-3. On the Snap Window panel to the right of the On Toggle click the downward pointing Arrow to expand.
+3. On the Snap Windows panel, to the right of the `On Toggle`, click the downward pointing Arrow to expand.
 4.  Uncheck `When I snap a window, suggest what I can snap next to it`
 
 ![Windows 11 System Multitasking Snap windows settings panel](windows11snapupdate.png)
