@@ -57,4 +57,4 @@ This is the recorded last major version of iOS that the iPhone supported. For ex
 This is the number of years of support calculated from when announced to when current iOS support was dropped. I used the LibreOffice Calc formula to calculate the year `=DATEDIF(B2,D2,"y")` Where B* is the `first announced date` and D* is the `Current iOS support dropped on` date.
 
 ## software years supported after hardware discontinued date
-This is date difference between the discontinue date of the iPhone and when Current OS support was pulled. I used the following LibreOffice Calc formula `=DATEDIF(B2,C2,"y")`  Where B* is the `first announced date` and C* is the `year discontinued` date.
+This is date difference between the discontinue date of the iPhone and when Current OS support was pulled. I used the following LibreOffice Calc formula `=DATEDIF(B2,C2,"y")`  Where B* is the `first announced date` and C* is the `year discontinued` date.t 
