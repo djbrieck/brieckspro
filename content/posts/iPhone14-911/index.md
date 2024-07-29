@@ -1,11 +1,11 @@
 ---
-title: "iPhone14 accidental 911 call"
+title: "iPhone14 setup glitch and accidental 911 call"
 date: 2024-05-23T10:45:04-07:00
-draft: true
+draft: false
 ---
 The Home app or some other initial setup component was prompted by a notification pop up asking to set preferences on how I wanted to be alerted in this app.
-Thinking this was like phone setup I I
-thought I could just lock the screen to get out of it and sort of re-start the setup later was my intention. 
+Thinking this was like the initial iPhone setup I
+thought I could just lock the screen to get out of it and sort of reset the setup for later was my intention. 
 
 So I pressed the power button,
 to try to dismiss the alert I did not want to answer on the phone since I was helping some else set up a new phone.
