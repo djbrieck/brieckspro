@@ -4,9 +4,13 @@ date: 2024-07-20T08:03:24-06:00
 draft: true
 ---
 
-I have had quite the story on Plus size phones. After being fed up with my last Android phone  and my last personal new phone purchase a Google Nexus 6 Plus, which was a giant phone at the time, and seems like a good price new of $399.99 back in 2015. I was inspired by Apples long term commitment to provide updates and a usable software experience, so I selected a iPhone 6 Plus, since it was pretty affordable used back in 2018 at around $254. I was immediately impressed back then with how well it was performing especially when compared spec for spec to the newer Nexus 6. Selecting the 6 Plus at this point was a mistake now that I look back on it
+I have had quite the story on Plus size phones. After being fed up with my last Android phone and my last personal new phone purchase a Google Nexus 6 Plus, which was a giant phone at the time, and seemed like a good price new of $399.99 back in 2015. I was inspired by Apples long term commitment to provide updates and a usable software experience, so I selected a iPhone 6 Plus to buy with the hype, since it was pretty affordable used back in 2018 at around $254. I was immediately impressed back then with how well it was performing especially when compared spec for spec to the newer Nexus 6. Selecting the 6 Plus at this point was a mistake now that I look back on it. When I switched carries later I ended up correcting the mistake anyways by moving to a 6S Plus. Now the 7 Plus a phone I had purchased used for my mom to use. Battery ended up expanding out of the phone and mom needed a new one, I was able to salvage the 7 Plus and get a new battery installed and used that phone for about a year. 
 
-I ran this iPhone 7 Plus until the very last moment for me and now have an idea of exactly how long I can keep an old phone usable for me. While this was an older iPhone functionally everything I needed to work worked for me.
+I ran this iPhone 7 Plus until the very last moment for me and now have an idea of exactly how long I can keep an old phone usable for me. While this was an older iPhone in numbers, functionally everything I needed to work worked for me, until it did not on June 15, 2024.
+
+## Reason for needing a new phone
+
+    The primary reason was a banking application I use for mobile check deposit stopped working when the app started requiring iOS 16 or later in order to be able to reliably open anymore. There was no other way  to do this deposit, tried mobile website and it did not offer the mobile check deposit option. 
 
 
 
