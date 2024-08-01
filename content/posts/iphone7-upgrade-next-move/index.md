@@ -10,9 +10,7 @@ I ran this iPhone 7 Plus until the very last moment for me and now have an idea 
 
 ## Reason for needing a new phone
 
-    The primary reason was a banking application I use for mobile check deposit stopped working when the app started requiring iOS 16 or later in order to be able to reliably open anymore. There was no other way  to do this deposit, tried mobile website and it did not offer the mobile check deposit option. 
-
-
+The primary reason was a banking application I use for mobile check deposit stopped working when the app started requiring iOS 16 or later in order to be able to reliably open anymore. There was no other way  to do this deposit, tried mobile website and it did not offer the mobile check deposit option. 
 
 iPhone 7 notes
 
@@ -24,7 +22,7 @@ when it stopped working option for me June 15, 2024
 
 July 7 2024 date I put the iPhone 12 into service.
 
-First off I have been very happy with my iPhone 7 Plus thus far its been a great short run and for only the price of fixing a bulging battery for about $60 it was a great value too. Now I finally and unfortunately reached the point where a mission critical application is no longer working.
+First off I have been very happy with my iPhone 7 Plus thus far its been a great short run and for only the price of fixing a bulging battery for about $60 it was a great value too. Now I finally and unfortunately reached the point where a mission-critical application is no longer working.
 
 Its one of those cases where it is a banking application and it does work but they are choosing in principle to not work due too so called lack of OS support, which is giving me the mark of needing to be running at least 1 behind current. Anyways app developers do support as far back as you can, since this is the front line on app support and the true indicator for how long a device could be usable to someone.
 
