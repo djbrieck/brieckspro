@@ -9,7 +9,7 @@ I have had quite the story on Plus size phones. After being fed up with my last 
 
 ## iPhone 7 Plus the last of the Classic Plus size iPhones for Me
 
-First off I have been very happy with my iPhone 7 Plus thus far its been a great short run and for only the price of fixing a bulging battery for about $60 it was a great value too. Now I finally and unfortunately reached the point where a mission-critical application is no longer working.
+First off I have been very happy with my iPhone 7 Plus thus far it's been a great short run and for only the price of fixing a bulging battery for about $60 it was a great value too. Now I finally and unfortunately reached the point where a mission-critical application is no longer working.
 
 I ran this iPhone 7 Plus until the very last moment for me and now have an idea of exactly how long I can keep an old phone usable for me. While this was an older iPhone in numbers, functionally everything I needed to work worked for me, until it did not anymore on June 15, 2024.
 
@@ -25,13 +25,13 @@ Last Major OS Update was iOS 15 on September 2021
 
 Apple dropped current OS support status with the release of iOS 16 on September 2022
 
-August 26, 2023 date I put into full time service as my Primary phone.
+August 26, 2023, date I put into full time service as my Primary phone.
 
-When I first ran into a mission-critical application that was a dealbreaker for keeping the device June 15, 2024
+When I first ran into a mission-critical application that was a deal-breaker for keeping the device June 15, 2024
 
 ## Choosing the next iPhone for me process
 
-My first instinct was to continue the tradition and just pick up an iPhone 8 Plus and be able to reuse my old case etc. While this option would have worked and would be arguable the least expensive option only if you have working iPhone 7 Plus to sell. I was not looking forward to all the work of having to buy and sell a iPhone every year. Also the price on a iPhone 8 seemed steep for getting less than a year of support based on the track record from the app that stopped working for me. Anyway this time I wanted to come up with a chart and do a comparison of almost all the options from the used market to just buying new from Apple or authorized dealer like Costco.
+My first instinct was to continue the tradition and just pick up an iPhone 8 Plus and be able to reuse my old case etc. While this option would have worked and would be arguable the least expensive option only if you have working iPhone 7 Plus to sell. I was not looking forward to all the work of having to buy and sell a iPhone this year and possible next year as well. Also the price on a iPhone 8 seemed steep for getting less than a year of support based on the track record from the app that stopped working for me. Anyway this time I wanted to come up with a chart and do a comparison of almost all the options from the used market to just buying new from Apple or authorized dealer like Costco.
 
 So with all of that my initial list of possible phones to jump to looked like:
 
@@ -41,7 +41,7 @@ So with all of that my initial list of possible phones to jump to looked like:
 - iPhone 12
 - iPhone 12 Pro
 
-My goals was to spend less than $300 on a replacement phone, and also to pick and figure out what the approximate cost per year is on various iPhone models old and new. And also factor in how many more years I could expect to use the phones in my initial list. My end goal was to find the best value iPhone in my price budget.
+My goals as it were was to spend less than $300 on a replacement phone, and also to pick and figure out what the approximate cost per year is on various iPhone models old and new. And also factor in how many more years I could expect to use the phones in my initial list. My end goal was to find the best value iPhone in my price budget.
 
 ## The table 
 [iPhonesAfter7ToConsider - ODS Spreadsheet](iPhonesAfter7NextMove.ods)
