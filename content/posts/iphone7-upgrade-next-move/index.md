@@ -43,10 +43,22 @@ So with all of that my initial list of possible phones to jump to looked like:
 
 My goals as it were was to spend less than $300 on a replacement phone, and also to pick and figure out what the approximate cost per year is on various iPhone models old and new. And also factor in how many more years I could expect to use the phones in my initial list. My end goal was to find the best value iPhone in my price budget.
 
-## The table 
+# iPhones after 7 Plus to Consider Spreadsheet 
 [iPhones After 7 To Consider - ODS Spreadsheet](iPhoneAfter7NextMove.ods)
 
-## The Model I choose 
+# Column Notes
+The description and notes for each of the columns included in this spreadsheet.
+
+## Cost of Phone
+The  price to obtain cira July 2024
+
+## Cost of accessories 
+This is the price of a case, screen protector and any other repairs like replacing a battery as needed.
+
+## Total cost to BUY
+This is the price of the phone + the cost of accessories using formula 
+
+# The Model I ended up choosing
 
 July 7 2024 date I put the iPhone 12 into service.
 
