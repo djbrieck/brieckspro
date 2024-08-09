@@ -44,7 +44,7 @@ So with all of that my initial list of possible phones to jump to looked like:
 My goals as it were was to spend less than $300 on a replacement phone, and also to pick and figure out what the approximate cost per year is on various iPhone models old and new. And also factor in how many more years I could expect to use the phones in my initial list. My end goal was to find the best value iPhone in my price budget.
 
 ## The table 
-[iPhones After 7 To Consider - ODS Spreadsheet](iPhonesAfter7NextMove.ods)
+[iPhones After 7 To Consider - ODS Spreadsheet](iPhoneAfter7NextMove.ods)
 
 ## The Model I choose 
 
