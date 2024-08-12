@@ -60,6 +60,6 @@ This is the price of the phone + the cost of accessories using formula
 
 # The Model I ended up choosing
 
-July 7 2024 date I put the iPhone 12 into service.
+July 7, 2024, date I put the iPhone 12 into service.
 
 Now if I bought new how much more would I pay?
