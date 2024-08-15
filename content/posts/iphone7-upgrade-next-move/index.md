@@ -56,7 +56,10 @@ The  price to obtain cira July 2024
 This is the price of a case, screen protector and any other repairs like replacing a battery as needed.
 
 ## Total cost to BUY
-This is the price of the phone + the cost of accessories using formula 
+This is the price of the phone + the cost of accessories using formula  =B*+C* where the * is just the current row #.
+
+## years of support left
+
 
 # The Model I ended up choosing
 
