@@ -60,6 +60,19 @@ This is the price of the phone + the cost of accessories using formula  =B*+C* w
 
 ## years of support left
 
+This is based on my calculated column "official support left estimate" from post  [iPhone Years of Support]({{< ref "posts/iphone-years-of-support/">}}).
+
+## cost per year
+
+This is generally speaking the total cost of the phone + accessories divided by numbers of years of support left or just 1 if the device has 0 years of supported estimated.
+
+## 1 iOS version behind current works for me
+
+This is a thing just for me but I am finding I can use 1 version behind the current release and have no problems with App supported, this number may be something you can tweak based on your app support experience, past the currently supported version. How long can you go on the old iPhone hardware until you need to buy newer hardware?
+
+## Best Value for me
+
+
 
 # The Model I ended up choosing
 
