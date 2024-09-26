@@ -24,7 +24,7 @@ Tried a brief experiment using my standard  mug (12-14oz) filled with water and 
 8. Pour coffee thought a filter to filter out the grounds using a paper filter, these grounds will be ultra fine and may cause the filter to plug up.
 
 The results were unexpectedly good, to me the coffee seemed to have extra strength and a better flavor,
-almost so that I could have probably used just half the grounds that I normally do. Also I found the flavor to be somewhere in between cold brew and drip, I need to do more tests with coffee tasting experts.
+almost so that I could have probably used just half the grounds that I normally do. Also, I found the flavor to be somewhere in between cold brew and drip, I need to do more tests with coffee tasting experts.
 
 
 ## Making a full liter of coffee or about 2.5 mugs worth 
@@ -33,10 +33,9 @@ Next experiment 1 liter thermos with 2 scopes of grounds or about (4 teaspoons)
 
 Natural release took 46 - 53 minutes
 
-Need to check the output temperature hopefully it's at least 160 degrees Fahrenheit. Was around 173 after the natural release.
+ Was around 173 degrees Fahrenheit after the natural release.
 
-After the natural release I ran the results though the coffee stand filter right into the mug / insulated thermos for  storage.
+After the natural release I ran the results though the coffee stand filter right into a insulated thermos for hot storage.
 
 Was very strong in flavor using same amounts as done in my improved cowboy process.
-
-https://www.adventuresofanurse.com/instant-pot-coffee-concentrate/
+Inspired by https://www.adventuresofanurse.com/instant-pot-coffee-concentrate/, but in practice I am using a different methodology here using a lot less coffee for a batch.
