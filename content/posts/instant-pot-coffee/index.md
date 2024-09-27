@@ -1,6 +1,6 @@
 ---
 title: "Instant Pot Pressure Cooker Coffee"
-date: 2024-05-21T12:25:04-07:00
+date: 2024-09-26T12:25:04-07:00
 draft: false
 ---
 
