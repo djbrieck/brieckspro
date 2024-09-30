@@ -1,6 +1,6 @@
 ---
 title: "Thunderbolt 1 Thunderbolt 2 to USB 3 USB-C Thunderbolt 3 Adapter"
-date: 2024-05-20T06:50:36-07:00
+date: 2024-09-30T06:50:36-07:00
 draft: true
 ---
 
@@ -59,7 +59,7 @@ Did some searching on eBay and found a deal on a [Startech Thunderbolt 3 hub TB3
 
 "As a bidirectional adapter, it can also connect new Thunderbolt 3 devices to a Mac with a Thunderbolt or Thunderbolt 2 port and macOS Sierra or later."
 
-Reading in between the lines, I noticed that my MacBook had a version of macOS that is supported,
+Reading in between the lines, I noticed that my MacBook had a version of macOS that it supported,
 so in theory, the OS should have all the drivers already to run this dock built in.
 
 So I decided to test it out and dropped $59.95 USD including free shipping on a used Startech TB3DK2DPPD on eBay. How this thing is 59.95 is beyond me but new retail on this box is $376.99, whoa... Also make sure when buying a used dock cheap that its not broken and also includes the AC adapter or prepare to spend $20 or so to replace that.
@@ -79,12 +79,12 @@ Tested:
 - 10 Gbits/s support over usb-c on the downstream thunderbolt 3 port.
 
 TODO Test Performance possible on this old box, how well does it perform
+    
+    USB 2 HDD on laptop directly
 
-USB 2 HDD on laptop directly
+    USB 3 HDD on Dock
 
-USB 3 HDD on Dock
-
-USB 3 SSD on Dock
+    USB 3 SSD on Dock
 
 
 I am Blown away that this is possible and I just upgraded a 11-year-old laptop to have current ports, sure the machine may not be able to max out those speeds, and will be limited to the Thunderbolt 1 speeds, but it will enable me to choose any one device and run it at a pretty fast speed well above the USB 2.0 standard and FireWire 800 standards.
@@ -101,16 +101,16 @@ and it actually works and is relatively affordable, with used market pricing!
 
 $123.44 well spent, and at this price it makes sense, paying full price for the dock and the Apple adapter and cable would be hard to swallow at $464.99 not including the display port adapter, at that price I could be well on my way to newer hardware with high performance built in.
 
-I am surprised that the Dock manufactures are not more open about this backwards compatibility, it seems like they could sell maybe a few more docks to folks with older hardware, wanting to add some more faster ports. Currently the users first impression is this is it's not even an option, I had the same bias early on and I was wrong, no its possible and does work just fine, if you do your homework first.
+I am surprised that the Dock manufactures are not more open about this backwards compatibility, it seems like they could sell maybe a few more docks to folks with older hardware, wanting to add some faster ports. Currently, the users first impression is this is it's not even an option, I had the same bias early on and I was wrong, no its possible and does work just fine, if you do your homework first.
 
 ## Choosing a Dock that is very likely to work
 
 Choosing a compatible dock if you're willing to take the risk and buy a dock and see if it works.
-Sad to say it but you need to ignore what the Dock manufactures say on the thunderbolt requirements completely.
+Sad to say it, but you need to ignore what the Dock manufactures say on the thunderbolt requirements completely.
 
-Instead pay attention to what Operating Systems are supported by the Thunderbolt 3+ dock especially for Mac compatibility,
+Instead, pay attention to what Operating Systems are supported by the Thunderbolt 3+ dock especially for Mac compatibility,
 when making a purchase decision. If the dock supports your current Operating System version running on your older Mac / PC, then it's very likely to have all the drivers it needs already baked into macOS and you should be good to go. Otherwise, you may end up in a case where x, works by y and Z do not work.
 
-Also, at this point, I would avoid buying manufacture specific docks eg ones made by DELL, HP, Lenovo or any PC manufacture specific device. Its seems a lot of these docks are only made to work properly with specific systems, so do your research. Some may work, and many can be found for dirt cheap. Also on a later note many HP docks list MacOS compatibility as always check OS version support to see if your system will be likely to work. The Startech TB3DK2DPPD dock should work on macOS 10.12 - 10.15, 11.0, 12.0 and Windows 7 to 11. My next test is how well it will work on Linux since Startech does not mention Linux support, but I am sure it will likely work just fine on Linux. 
+Also, at this point, I would avoid buying manufacture specific docks eg ones made by DELL, HP, Lenovo or any PC manufacture specific device. Its seems a lot of these docks are only made to work properly with specific systems, so do your research. Some may work, and many can be found for dirt cheap. Also on a later note many HP docks list macOS compatibility as always check OS version support to see if your system will be likely to work. The Startech TB3DK2DPPD dock should work on macOS 10.12 - 10.15, 11.0, 12.0 and Windows 7 to 11. My next test is how well it will work on Linux since Startech does not mention Linux support, but I am sure it will likely work just fine on Linux. 
 
 I was able to test this with a HP ELite Book 840 G5, and can confirm this dock works fine on Windows 10, 11 and Linux Mint 21.x.
