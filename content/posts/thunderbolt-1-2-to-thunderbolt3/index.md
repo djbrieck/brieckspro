@@ -12,13 +12,15 @@ drives.
 
 I realized my machine has a Thunderbolt port,
 that I had been using primarily as a mini display port to just connect an external display.
-This is a first generation Thunderbolt port, so it can go up to 10Gbit/s,
+This is a first generation Thunderbolt port, so it can go up to some theoretical speed of 10Gbit/s,
 which should be more than enough speed to enable a 5Gbit/s USB 3 port.
+
 And that is the port I need since nearly all of my external backup hard drives now have USB 3 connectivity.
-And now it's not cost-effective to try and find firewire 800 external enclosures nor worth it since USB3 is 
-significantly faster.
-USB 3+ including USB-C is the standard for fast external drives and generally offers faster performance and enables 
-using high-performance SSD drives.
+And now it's not cost-effective nor worth it to try and find firewire 800 external enclosures, since USB3 is 
+significantly faster and cheaper.
+
+USB 3+ including USB-C is the standard for fast external hard drives and generally offers faster performance and enables 
+using high-performance SSD drives at their full potential.
 
 I started looking around for things I could connect to allow me to add some faster usb 3 ports. I was thinking small like a dongle, I should be able to grab a Thunderbolt to USB 3 adapter, really basic simple and should be economical right since Thunderbolt is pretty old standard now.
 
