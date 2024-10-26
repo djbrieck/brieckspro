@@ -111,7 +111,7 @@ Choosing a compatible dock if you're willing to take the risk and buy a dock and
 Sad to say it, but you need to ignore what the Dock manufactures say on the thunderbolt requirements almost completely.
 
 Instead, pay attention to what Operating Systems are supported by the Thunderbolt 3+ dock especially important for Mac compatibility,
-when making a purchase decision. If the dock supports your current Operating System version running on your older Mac / PC, then it's very likely to have all the drivers it needs already baked into macOS and you should be good to go. Otherwise, you may end up in a case where x works but y and Z do not work.
+when making a purchase decision. If the dock supports your current Operating System version running on your older Mac / PC, then it's very likely to have all the drivers it needs already baked into the operating system, and you should be good to go. Otherwise, you may end up in a case where x works but y and Z do not work.
 
 Also, at this point, I would avoid buying first gen manufacture specific thunderbolt docks e.g. ones made by DELL, HP, Lenovo or any PC manufacture specific device. Its seems a many of these docks were only made to work properly with specific systems, so do your research. Some may work, and many can be found for dirt cheap. Also as an update, many HP docks list macOS compatibility now so as always check OS version support to see if your system will be likely to work with the dock. The StarTech TB3DK2DPPD dock should work on macOS 10.12 - 10.15, 11.0, 12.0 and Windows 7 to 11. My next test is how well it will work on Linux since StarTech does not mention any official Linux support, but I am sure it will likely work just fine on Linux. 
 
