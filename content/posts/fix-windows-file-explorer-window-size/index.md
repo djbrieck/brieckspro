@@ -1,7 +1,7 @@
 ---
 title: "Fix Windows File Explorer Window default size"
 date: 2024-06-07T08:34:07-07:00
-draft: true
+draft: false
 ---
 
 For some unknown reason to me, my Windows file explorer window started defaulting to a tiny window size about the size of a four postage stamps square. Here is what I found that worked on Windows 10, to get File Explorer to remember the new window size that I want to start with. 
