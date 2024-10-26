@@ -1,7 +1,7 @@
 ---
 title: "Thunderbolt 1 Thunderbolt 2 to USB 3 USB-C Thunderbolt 3 Adapter"
-date: 2024-09-30T06:50:36-07:00
-draft: true
+date: 2024-10-25T06:50:36-07:00
+draft: false
 ---
 
 ## Problem: I need faster usb ports on a vintage MacBook Pro that has Thunderbolt 1 what are my options?
@@ -23,7 +23,7 @@ significantly faster and cheaper.
 USB 3+ including USB-C is the standard for fast external hard drives and generally offers faster performance and enables 
 using high-performance SSD drives at their full potential.
 
-## Starting to find a thunderbolt solution for faster usb ports on a 2011 Mac Book Pro
+## Starting to find a thunderbolt solution for faster usb ports on a 2011 MacBook Pro
 
 I started looking around for things I could connect to allow me to add some faster usb 3 ports. I was initially thinking of something small like a dongle, I should be able to grab a Thunderbolt to USB 3 adapter, really basic simple and should be economical right since Thunderbolt is pretty old standard now.
 
@@ -57,14 +57,14 @@ I came across this discovery while searching for Thunderbolt to Thunderbolt 3 ad
 
 So with a compatible dock and the only one that admits backwards compatibility upfront is the [CalDigit Thunderbolt 3 devices] (https://www.caldigit.com/is-my-caldigit-thunderbolt-3-device-compatible-with-apple-thunderbolt-1-and-2-computers/) Unfortunately, it is pretty expensive new ($299.99 USD) and used ($140 USD on eBay)
 
-Did some searching on eBay and found a deal on a [Startech Thunderbolt 3 hub TB3DK2DPPD](https://www.startech.com/en-us/cards-adapters/tb3dk2dppd), now according to StarTech specifications listed there is no mention of backwards compatibility, in fact the requirements of the dock state as a System Requirement you need to have "Thunderbolt 3 equipped computer with a Thunderbolt 3 port." Contacted StarTech technical support, and they concluded you can't  even go Thunderbolt 2 to Thunderbolt 3 , which is not the case at all, even Apple notes in the description for their [Thunderbolt 3 to Thunderbolt2 adapter](https://www.apple.com/shop/product/MMEL2AM/A/thunderbolt-3-usb-c-to-thunderbolt-2-adapter) is bidirectional with the following words.
+Did some searching on eBay and found a deal on a [StarTech Thunderbolt 3 hub TB3DK2DPPD](https://www.startech.com/en-us/cards-adapters/tb3dk2dppd), now according to StarTech specifications listed there is no mention of backwards compatibility, in fact the requirements of the dock state as a System Requirement you need to have "Thunderbolt 3 equipped computer with a Thunderbolt 3 port." Contacted StarTech technical support, and they concluded you can't  even go Thunderbolt 2 to Thunderbolt 3 , which is not the case at all, even Apple notes in the description for their [Thunderbolt 3 to Thunderbolt2 adapter](https://www.apple.com/shop/product/MMEL2AM/A/thunderbolt-3-usb-c-to-thunderbolt-2-adapter) is bidirectional with the following words.
 
 "As a bidirectional adapter, it can also connect new Thunderbolt 3 devices to a Mac with a Thunderbolt or Thunderbolt 2 port and macOS Sierra or later."
 
 Reading in between the lines, I noticed that my MacBook had a version of macOS that was supported,
 so in theory, the OS should have all the drivers already to run this dock built in.
 
-So I decided to test it out and dropped $59.95 USD including free shipping on a used Startech TB3DK2DPPD on eBay. How this thing is 59.95 is beyond me but new retail on this box is $376.99, whoa... Also make sure when buying a used dock cheap that it's not broken and also includes the AC adapter or prepare to spend $20 or so to replace that.
+So I decided to test it out and dropped $59.95 USD including free shipping on a used StarTech TB3DK2DPPD on eBay. How this thing is 59.95 is beyond me but new retail on this box is $376.99, whoa... Also make sure when buying a used dock cheap that it's not broken and also includes the AC adapter or prepare to spend $20 or so to replace that.
 
 Also, I found another auction on eBay for the required Apple Thunderbolt 3 to Thunderbolt 2 adapter with the Thunderbolt 2 cable in one auction. Won that and paid a total of $55.50 for the adapter and cable including shipping, nice. New from Apple you can expect to pay $88.00 for this stuff.
 
@@ -89,7 +89,7 @@ Future TODO Test Performance possible on this old box, how well does it perform 
     USB 3 SSD on Dock
 
 
-I am Blown away that this is possible and I just upgraded a 11-year-old laptop to have current ports, sure the machine may not be able to max out those speeds, and will be limited to the Thunderbolt 1 speeds, but it will enable me to choose any one device and run it at a pretty fast speed well above the USB 2.0 standard and FireWire 800 standards.
+I am Blown away that this is possible and I just upgraded an 11-year-old laptop to have current ports, sure the machine may not be able to max out those speeds, and will be limited to the Thunderbolt 1 speeds, but it will enable me to choose any one device and run it at a pretty fast speed well above the USB 2.0 standard and FireWire 800 standards.
 Lastly,
 it should make it possible to copy as fast as the hard drive can go via USB 3 at the 5Gbits/s external hard drives.
 
@@ -113,6 +113,6 @@ Sad to say it, but you need to ignore what the Dock manufactures say on the thun
 Instead, pay attention to what Operating Systems are supported by the Thunderbolt 3+ dock especially important for Mac compatibility,
 when making a purchase decision. If the dock supports your current Operating System version running on your older Mac / PC, then it's very likely to have all the drivers it needs already baked into macOS and you should be good to go. Otherwise, you may end up in a case where x works but y and Z do not work.
 
-Also, at this point, I would avoid buying first gen manufacture specific thunderbolt docks eg ones made by DELL, HP, Lenovo or any PC manufacture specific device. Its seems a many of these docks were only made to work properly with specific systems, so do your research. Some may work, and many can be found for dirt cheap. Also as an update, many HP docks list macOS compatibility now so as always check OS version support to see if your system will be likely to work with the dock. The Startech TB3DK2DPPD dock should work on macOS 10.12 - 10.15, 11.0, 12.0 and Windows 7 to 11. My next test is how well it will work on Linux since Startech does not mention any official Linux support, but I am sure it will likely work just fine on Linux. 
+Also, at this point, I would avoid buying first gen manufacture specific thunderbolt docks e.g. ones made by DELL, HP, Lenovo or any PC manufacture specific device. Its seems a many of these docks were only made to work properly with specific systems, so do your research. Some may work, and many can be found for dirt cheap. Also as an update, many HP docks list macOS compatibility now so as always check OS version support to see if your system will be likely to work with the dock. The StarTech TB3DK2DPPD dock should work on macOS 10.12 - 10.15, 11.0, 12.0 and Windows 7 to 11. My next test is how well it will work on Linux since StarTech does not mention any official Linux support, but I am sure it will likely work just fine on Linux. 
 
-I was able to later test and confirm this with a HP ELiteBook 840 G5, and can confirm this dock works fine on Windows 10, 11 and Linux Mint 21.x on this laptop.
+I was able to later test and confirm this with an HP ELiteBook 840 G5, and can confirm this dock works fine on Windows 10, 11 and Linux Mint 21.x on this laptop.
