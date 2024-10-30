@@ -74,7 +74,7 @@ For example, a Dell UltraSharp 49 Curved USB-C Hub Monitor - U4924DW cost $1359.
 5150 x 1440 curved screen, which is the same resolution as buying two 27" monitors like this 
 Dell 27 USB-C Monitor - S2722DC at $259.99 each which two of would cost you $519.98 which  means the integration of these
 two into a curved slightly small unit cost a whopping $840.00 premium. In this case I will just take the two for cheaper, and have plenty of 
-saving to get a nice dual monitor stand. Actually this curved thing is overpriced enough you could buy 4 of the dell 27" screens and still have some left over for a quad monitor stand. Just an example of how the price for what you get does not make a lot of sense. Again I would buy 4 of the 27" and still have about 300 left over more than enough for a quad screen and maybe a GPU upgrade too.
+saving to get a nice dual monitor stand. Actually this curved thing is overpriced enough you could buy 4 of the dell 27" screens and still have some left over for a quad monitor stand, and with that 4 monitor setup you would get a legit screen real estate upgrade, just in its clunky lots of wires and stand form. Just an example of how the price for what you get does not make a lot of sense for these curved screens. 
 
 ## Alternative reality
 
