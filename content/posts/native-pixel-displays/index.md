@@ -116,4 +116,5 @@ With these TV you can do quite a lot with the 8K resolution, and you can pick ho
 
 
 
-Sources https://www.techjunkie.com/windows-10-display-scaling/
+## Sources
+[Windows Display Scaling](https://www.techjunkie.com/windows-10-display-scaling/)
