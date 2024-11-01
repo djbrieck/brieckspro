@@ -1,14 +1,14 @@
 ---
 title: "Native Pixel Display a new definition on a old thing"
-date: 2024-05-15T06:12:11-07:00
-draft: true
+date: 2024-10-31T06:12:11-07:00
+draft: false
 ---
-
+## Defining a Native Pixel Display
 Coining my own terms since I can and should.
 So let's do it, I am calling it "Native Pixel Display."
 This is effectively any 
-computer display that is usable without the use of any scaling or other forms of software magnification to be able to read 
-the content on the screen.
+computer display that is usable without the use of any scaling or other forms of software magnification to have someone 
+with normal or corrected vision be able to read the content on the screen.
 
 ## This is the historical standard
 
@@ -18,7 +18,7 @@ there were only a handful of usable resolutions where the display worked best wi
 did not require any form of resolution scaling unlike today, what was on the screen was all you could see, and it had 
 to be usable as is since that's all there was.
 
-## The size up
+## The LCD size up
 
 After that point, the screens got progressively larger over time and started having larger screen real estate and more 
 pixels as well.
@@ -34,8 +34,15 @@ Eg I remember staring at resolutions something like the following since 1994:
     1440 X 900 
     1920 X 1080
     1900 X 1200
-    2560 X 1440
-    2560 X 1600  <--- More recent past
+    2560 X 1440  2K
+    2560 X 1600  2K<--- More recent past
+    3440 X 1440
+    3840 x 2160 4K
+    5120 X 1440
+    5120 x 2880 Apple Studio Display Circa 2024
+    6016 x 3384 Apple Pro Display XDR
+    6144 x 3456 6K
+    7680 x 4320 8K
 
 ## The workspace peak at the 2K size
 
@@ -65,16 +72,17 @@ and no, I am not talking about the price ;).
 2K seems good enough for me, but I have yet to try anything higher yet.
 
 
-## The curveballs they want to sell us on
+## The curveballs they want to sell us on, that I am not buying
 
-The super wide curved display, with more horizontal resolution but the about the same vertical height as the old 2K screen and most are stuck on the 1440px height. And widths range from 3440 to 5120. These are innovative in that you can get the resolution of about two 2K displays put 
-into one seamless display. But that curve and lack of center bezels comes in at quite a premium price. 
+The super wide curved cool cockpit looking display, with more horizontal resolution but the about the same vertical height as the old 2K screen and most are stuck on the 1440px height. And widths range from 3440 to 5120. These are innovative in that you can get the resolution of about two 2K displays put 
+into one seamless display. But that curve and lack of center bezels comes in at quite a premium price.
 
-For example, a Dell UltraSharp 49 Curved USB-C Hub Monitor - U4924DW cost $1359.99 as of October 2024. This is a 
-5150 x 1440 curved screen, which is the same resolution as buying two 27" monitors like this 
-Dell 27 USB-C Monitor - S2722DC at $259.99 each which two of would cost you $519.98 which  means the integration of these
-two into a curved slightly small unit cost a whopping $840.00 premium. In this case I will just take the two for cheaper, and have plenty of 
-saving to get a nice dual monitor stand. Actually this curved thing is overpriced enough you could buy 4 of the dell 27" screens and still have some left over for a quad monitor stand, and with that 4 monitor setup you would get a legit screen real estate upgrade, just in its clunky lots of wires and stand form. Just an example of how the price for what you get does not make a lot of sense for these curved screens. 
+### The largest curve is the price a comparison of Dell Technologies displays large curved vs regular flat groupings
+For example, a Dell UltraSharp 49 Curved USB-C Hub Monitor - U4924DW cost $1359.99 new as of October 2024. This is a 
+5120 x 1440 curved screen the "high resolution" curved option, which is just 20 more pixel wider resolution as buying two 27" monitors like this 
+Dell 27 USB-C Monitor - S2722DC at $259.99 (2550 x 1440) each which two of would cost you $519.98 which  means the integration of these
+two into a curved slightly smaller and 20 more pixels wider cost a whopping $840.00 premium. In this case, I will just take the two or more for cheaper, and have plenty of 
+savings to get a nice monitor stand. Actually this curved thing is so much overpriced I can extend the comparison to include 4 of the dell 27" screens and still have some leftover cash value for a quad monitor stand, and with that 4 monitor setup you would get a legit screen real estate spread over the four screens at 5100 X 2880.  This is not as elegant as the all-in-one solution, but certain does allow for more productivity space in its clunkier lots of wires and stand form. Just an example of how the price for what you get does not make a lot of sense for these curved screens.
 
 ## Alternative reality
 
@@ -87,18 +95,25 @@ These are pretty reasonable in price as a purpose-built computer screen at aroun
 
 The hack way here is you can buy a decent 4K TV and get the experience for a much lower price, we are talking $300 to $600 price 
 range all day long. And TV are usable by more people than used large pro-level monitors, which tend to become closer to 
-worthless after you buy one and try to sell its.  
+worthless after you buy one and try to sell it later.  
 
-## The future I am looking forward to that's already here in, but its not cheap yet
+## The future I am looking forward to that's already here, but it's not cheap yet, but can be reasonable
 
-The 8K TV / Monitor where we get our cake and can eat it too unless they jam all that into a 27" screen then it will be 
+The 8K TV / Monitor where we get our cake and can eat it too unless they jam all that into a 27" to 30" screen then it will be 
 a waste... But in a 40"-50" display would be the upgrade I would be waiting for to get larger real estate and better 
-image quality too, that would be a real upgrade over this existing workspace area, not just higher image quality in the same working area.
+image quality too, that would be a real upgrade over this existing workspace area, not just higher image quality in the same working area, like has been happening since 2004.
 
-In fact if you're willing to use the TV option, they are available now in the 55" + plus range and can be purchased for around $1500, which is very reasonable especially in the current world of pricey monitors, for example Apple wants $1599 for a 5K Studio Display witch would be about a 2.5K usable workspace in real screen estate. 
+In fact if you're willing to use the TV option, 8K TVs are available now in the 65" + plus range and can be purchased for around $1200 $1600 starting refurbished, which is very reasonable especially in the current world of pricey fancy monitors, for example Apple wants $1599 for a 5K Studio Display which would be about a 2.5K usable workspace in real screen estate. 
 
-https://www.bestbuy.com/site/lg-65-class-99-series-qned-mini-led-8k-uhd-smart-webos-tv/6461910.p?skuId=6461910
+With these TV you can do quite a lot with the 8K resolution, and you can pick how you want to scale it for example 4 3K worth of real estate or push it to the limit at native resolution with four 4K screens worth, this would only be slightly higher PPI than using a 43" 4K so could be usable at 65", but wow what an upgrade this will be when these start to come down in price. Also, you will need to factor in what computer / GPU you will need to drive this since not everything can drive a single 8K display.
 
-With this TV you can do quite a lot 8K resolution and you can pick how you wnant to scale it for example 4 3K worth of real estate or push it to the limit at native resolution with four 4K screens, this would only be slightly higher PPI than using a 43" 4K so should be usable at 65". 
+### Some example 8K TVs
+
+[LG QNED MiniLED 99 Series 2021 65 inch Class 8K Specs](https://www.displayspecifications.com/en/model/fb343b45)
+
+[$1500 as of 2024 Samsung QN65QN800A 65 Inch Neo QLED 8K ](https://www.amazon.com/Samsung-QN65QN800A-Inch-QLED-Smart/dp/B094PPGQ3S)
+[Samsung QN800A 8k QLED Specs](https://www.displayspecifications.com/en/model/8f4e23e4)
+
+
 
 Sources https://www.techjunkie.com/windows-10-display-scaling/
