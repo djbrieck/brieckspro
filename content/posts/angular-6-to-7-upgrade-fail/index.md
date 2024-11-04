@@ -1,12 +1,12 @@
 ---
 title: "Angular 6 to 7 Upgrade Fail"
-date: 2024-05-28T18:19:38-06:00
-draft: true
+date: 2024-11-04T18:19:38-06:00
+draft: false
 ---
 
 I had an old Angular application to update. Here is what I ran into and how I resolved the issues.
 
-Just try and do this, any maybe why you should not use Angular :-0 and let it get too far out of date.
+Just try and do this, any maybe why you should not use Angular :-0 can be a bit of maintenance nightmare if it gets too far out of date.
 
 Here is what I was attempting to upgrade from [Angular 6 to Angular 7.2](https://angular.dev/update-guide?v=6.0-7.2&l=1)
 
@@ -27,7 +27,8 @@ before install the version you want you man need to uninstall run `ng --version`
 5. Start the new old project fresh again: `ng new angular-six-start`
 
 6. `cd angular-six-start/`
-7.  Try to run it `ng serve`
+ 
+8. Try to run it `ng serve`
 
 Should see errors like the following:
 
@@ -42,26 +43,24 @@ Should see errors like the following:
 
 9. Re run `ng serve`
 
-
 Should have a working project now ;) That looks like this ![angular 6 running](angular6run.png)
 
-Now before following the angular upgrade steps
-
+10. Now before following the angular upgrade steps
 update the installed cli to the latest 6.x release which appears to now be 6.2.9
 
-npm i -g @angular/cli@6.2.9
+    npm i -g @angular/cli@6.2.9
 
-Update the dev dep cli to 6.2.9
+11. Update the dev dep cli to 6.2.9
 
-ng update @angular/cli@6.2.9
+    ng update @angular/cli@6.2.9
 
-Then lastly update
-NG_DISABLE_VERSION_CHECK=1 npx @angular/cli@7 update @angular/cli@7 @angular/core@7
+12. Then lastly run update angular 7 update as directed
 
+    NG_DISABLE_VERSION_CHECK=1 npx @angular/cli@7 update @angular/cli@7 @angular/core@7
 
-TRy this once more locally but this time change the nodejs 8.17.0a
+TRy this once more locally but this time change the Node.js 8.17.0a
 
-WORKS, but fails on WINDOWS NT bullshit at work
+WORKS on linux mint , but fails on WINDOWS 10 at work
 
 other useful links referenced
 https://github.com/angular/angular-cli/tree/v6.2.9
