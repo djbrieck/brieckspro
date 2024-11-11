@@ -1,7 +1,7 @@
 ---
 title: "How to make a GIF on iPhone or iPad"
-date: 2024-05-27T20:29:17-06:00
-draft: true
+date: 2024-11-11T13:45:17-06:00
+draft: false
 ---
 
 After finding the #images share favorite on Apple Messages, I wondered if there was a way to make a [GIF](https://en.wikipedia.org/wiki/GIF) right on iPhone / iPad.
