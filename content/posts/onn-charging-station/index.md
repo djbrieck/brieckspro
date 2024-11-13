@@ -64,3 +64,5 @@ This is a decent charger and does its job quite well, wish it was available for 
 ![Back side of the onn charging station showing regulatory markings on the charger](onnBackSideOfCharger.jpg)
 
 The source for the above stock text and images as quoted from [Walmart - onn. 100W Multi-Port Charging Station 3-in-1 Charger, for Laptop and iPhone, White](https://www.walmart.com/ip/onn-100W-Multi-Port-Charging-Station-3-in-1-Charger-for-Laptop-and-iPhone-White/1769453001?from=/search)
+
+[PDF - Walmart - onn. 100W Multi-Port Charging Station 3-in-1 Charger, for Laptop and iPhone, White](onn.%20100W%20Multi-Port%20Charging%20Station%203-in-1%20Charger,%20for%20Laptop%20and%20iPhone,%20White%20-%20Walmart.com.pdf)
