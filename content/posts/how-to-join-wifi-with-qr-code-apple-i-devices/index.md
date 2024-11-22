@@ -13,9 +13,13 @@ There are at least two ways to connect to Wi-Fi using a Wi-Fi QR Code on most iP
 
 2. Point camera at QR code for Wi-Fi
 
-3. Click the Link that shows up
+    ![Scan QR for Wi-Fi using the iOS Camera application](ScanWifiQRinCameraApp.PNG)
 
-4. Click Join the Wi-Fi network
+3. Touch the yellow Link that shows up in this example its labeled "Join MeeHomeWifi Netw..." then you should see something like.
+   
+   ![Pop up prompt to Join or Cancel fpr a wifi network called MeeHomeWifi](JoinMeHomeWifi.PNG)
+
+4. Click "Join" to connect to the network as advertised and expected for your environment.
 
 
 ## Using the Scan QR Code Control Center widget.
@@ -23,10 +27,14 @@ There are at least two ways to connect to Wi-Fi using a Wi-Fi QR Code on most iP
 You may need to add the Scan QR widget if one is not present see [Customize  Control Center](https://support.apple.com/guide/iphone/use-and-customize-control-center-iph59095ec58/ios)
 
 1. Open [Control Center](https://support.apple.com/en-us/108330)
+   ![Control center with red arrow and text indicating the icon to tap for the Scan QR code feature](MyControlCenter.png)
 
-2. Tap the Scan QR Code icon
+2. Tap the Scan QR Code icon and a camera like view opens made for scanning QRs
+
+   ![Camera view after tapping the Scan QR code control center icon](ScanQRScreen.PNG)
+   
 
 3. Point camera at the Wi-Fi QR code
 
-4. Click "Join" to connect to the network as advertised.
+4. Click "Join" to connect to the network as advertised and expected for your environment.
 
