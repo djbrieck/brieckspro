@@ -37,17 +37,14 @@ You may need to add the Scan QR widget if one is not present see [Customize  Con
 2. Tap the Scan QR Code icon and a camera like view opens made for scanning QRs
 
    ![Camera view after tapping the Scan QR code control center icon](ScanQRScreen.PNG)
-   
 
 3. Point camera at a Wi-Fi QR code
 
 ![Point the camera a Wi-Fi QR and go straight to the JOIN](ScanCodeQRAndJoin.PNG)
 
-
 4. Click "Join" to connect to the network as advertised and expected for your environment.
 
-## A Note on the QR Pictured
-
+## A Note on the QR Pictured its no secret I know
 
 ![MeeHomeWifiQR Code](MeeHomeWifiQR.PNG)
 
@@ -58,4 +55,5 @@ just like this one using an iPhone or iPad.
    SSID:`MeeHomeWifi`
    Password:`yLTnxcrPnEWCM0LWoFBv`
 
-RAW QR text this is what your devices reads to be able to connect to Wi-Fi:  `WIFI:S:MeeHomeWifi;T:WPA;P:yLTnxcrPnEWCM0LWoFBv;;` courtesy of [ScanQR.org](https://scanqr.org/)
+RAW QR text this is what your devices reads to be able to connect to Wi-Fi:  
+`WIFI:S:MeeHomeWifi;T:WPA;P:yLTnxcrPnEWCM0LWoFBv;;` courtesy of [ScanQR.org](https://scanqr.org/)
