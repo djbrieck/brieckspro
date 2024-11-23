@@ -1,6 +1,6 @@
 ---
 title: "How to connect to Wifi using a QR code on Apple Devices"
-date: 2024-11-23T15:11:11-08:00
+date: 2024-11-25T05:30:11-08:00
 draft: false
 ---
 This was a mystery to many myself included, but I say it is possible to connect to Wi-Fi using a QR code. It's not well 
