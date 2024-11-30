@@ -49,8 +49,8 @@ You may need to add the Scan QR widget if one is not present see [Customize  Con
 ![MeeHomeWifiQR Code](MeeHomeWifiQR.PNG)
 
 The QR in this post pictured above is an example one with the following information embedded, feel free to use it to 
-test, fear not this is not an actual Wi-Fi network I use. I will show in a later post how to generate your own QR codes 
-just like this one using an iPhone or iPad.
+test, fear not this is not an actual Wi-Fi network I use. I will show in a later post [how to generate your own QR codes 
+just like this one using an iPhone or iPad]({{<ref "posts/make-wifi-qr-on-idevice/">}}).
 
    SSID:`MeeHomeWifi`
    Password:`yLTnxcrPnEWCM0LWoFBv`
