@@ -25,8 +25,8 @@ In the past I relegated prayer to something done once a day at bedtime. Saying t
     For thine is the kingdom, the power. and the glory forever.
     Amen.
 
-Now I provide God the more exact words of the problems I am facing. And following the model to fill in the rest. But there is real value in talking things out with God, and being open to receive influence back and taking the opportunity to allow yourself that space and time. This may be a potential origin of the scarceness of praying to God. But with the limitless potential of God why should we severally limit our time and important communications. So to me this means talk about the most important things and don't act like your putting a entertainment show suitable for a large audience.
+Now I provide God the more exact words of the problems I am facing. And following the model to fill in the rest. But there is real value in talking things out with God, and being open to receive influence back and taking the opportunity to allow yourself that space and time. This may be a potential origin of the scarceness of praying to God. But with the limitless potential of God why should we severally limit our time and important communications. So to me this means talk about the most important things and don't act like your putting an entertainment show suitable for a large audience.
 
-Just the same you need to pray and keep that faith in God no matter how you do it, doing it is the important part. Don't let limits discourage you.
+Just the same you need to pray and keep that faith in God no matter how you do it, doing it is the important part. Don't let any limits discourage you.
 
 [Matthew 7:7 “Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.](https://www.biblegateway.com/passage/?search=Matthew%207%3A7&version=NKJV)
