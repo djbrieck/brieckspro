@@ -3,7 +3,7 @@ title: "First Miracle I am really giving God the credit due, prayer works"
 date: 2024-12-03T15:13:24-08:00
 draft: true
 ---
-## Introduction
+## Introduction 
 When your first getting started with believe in God some want to have a miracle that can be seen that proves that God exists. This specific example is mentioned in the bible, and if you seek this nothing will be provided as proof for you. As noted in the bible in  [Mathew 12:39 But He answered and said to them, “An evil and adulterous generation seeks after a sign, and no sign will be given to it except the sign of the prophet Jonah.](https://www.biblegateway.com/passage/?search=mathew%2012%3A39&version=NKJV)
 
 ## A miracle for me and a start to change how I pray
