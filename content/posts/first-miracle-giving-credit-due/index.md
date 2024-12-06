@@ -1,5 +1,5 @@
 ---
-title: "First Miracle I am really giving God the credit due, prayer works"
+title: "First Miracle I am really giving God the credit due for it, prayer works"
 date: 2024-12-03T15:13:24-08:00
 draft: true
 ---
