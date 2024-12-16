@@ -1,7 +1,7 @@
 ---
 title: "First Miracle I am really giving God the credit due for it, prayer works"
 date: 2024-12-03T15:13:24-08:00
-draft: true
+draft: false
 ---
 ## Introduction 
 When your first getting started with believe in God some want to have a miracle that can be seen that proves that God exists. This specific example is mentioned in the bible, and if you seek this nothing will be provided as proof for you. As noted in the bible in  [Mathew 12:39 But He answered and said to them, “An evil and adulterous generation seeks after a sign, and no sign will be given to it except the sign of the prophet Jonah.](https://www.biblegateway.com/passage/?search=mathew%2012%3A39&version=NKJV)
@@ -11,14 +11,14 @@ When your first getting started with believe in God some want to have a miracle 
 I was in a low state at work and need help as I was at my limit and stuck for weeks on a problem. I took my problem to God. I prayed about it and the next day.  
 It all came together and was resolved. 
 
-That was really proof for me that God exists and listened to me and helped me solve my problems. And in turn I am giving God all the credit for this one.
+That was really proof for me that God exists and listened to me and helped me solve my problems. And in turn I am giving God all the credit for this one and everything else.
 
 In the past I relegated prayer to something done once a day at bedtime. Saying to myself or out loud the [Matthew 6:5-13 - Lord's model Prayer](https://www.biblegateway.com/passage/?search=Matthew%206%3A5-13&version=NKJV). Here is the version below that I have memorized.
 
     Our father who art in heaven
     hallowed be thy name,
     thy kingdom come,
-    thy will be done on earth as its done in heaven.
+    thy will be done on earth as its done in Heaven.
     Give us this day or daily bread.
     Foregive us our trespassors, as we forgive those who trespass against us.
     Lead us not into temptation, but deliver us from evil.
