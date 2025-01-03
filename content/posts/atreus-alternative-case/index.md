@@ -3,6 +3,9 @@ title: "Atreus Alternative Case"
 date: 2024-12-30T13:47:12-08:00
 draft: true
 ---
+
+I a Keyboardio Atreus keyboard, its one of the smallest mechanical keyboards I have and of course I would like to take it with me to travel, problem is I don't want to just throw it in my backpack.
+
 Wanted a nicer travel case for a [Keyboardio Atreus keyboard](https://shop.keyboard.io/products/keyboardio-atreus), did 
 not want to spend [$30 on a soft nylon bag style case from the Keyboardio store](https://shop.keyboard.io/products/keyboardio-atreus-travel-case?variant=44336384246051), esp since I only paid $50 for the keyboard itself.
 
