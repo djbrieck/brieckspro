@@ -1,5 +1,5 @@
 ---
-title: "How to cook eggs with out sticking  with a stainless steel frying pan"
+title: "How to cook eggs using a stainless steel frying pan"
 date: 2025-01-08T15:44:19-08:00
 draft: false
 ---
