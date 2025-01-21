@@ -8,7 +8,7 @@ I have been running Linux Mint for years and often see various error messages pr
 
 ![Laptop showing a photo of a message displayed quickly at boot that's near impossible to try and read at boot, only displayed for 1-2 seconds](LinuxMintBootErrorMessagePhoto.jpg)
 
-    dmesg --level=err+
+    dmesg --level=err
 
 
 Here is the output from the above pictured system. and as we can compare it matches what was flashed on the screen and also appears to show one more that was not displayed on the boot screen.
