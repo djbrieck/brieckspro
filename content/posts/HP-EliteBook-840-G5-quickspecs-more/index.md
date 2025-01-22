@@ -1,6 +1,6 @@
 ---
 title: "HP EliteBook 840 G5 QuickSpecs and more"
-date: 2024-01-21T16:23:57-06:00
+date: 2025-01-21T16:23:57-06:00
 draft: false
 ---
 Since, I am frequently needing to reference and re-find and search for this information on this HP EliteBook 840 G5 Laptop I own. I am taking ownership and putting up my own source of this information so it does not go missing, and maybe other may find the info useful as well. 
