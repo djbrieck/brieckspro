@@ -8,16 +8,14 @@ A list of all the links for the Business and resources here in Union, Oregon 978
 
 ## North Bound Towards La Grande West Side of town.
 
-Jo Fabric? https://duckduckgo.com/?q=jo+fabric+union+oregon&t=brave&ia=web&iaxm=maps&source=places
+[Jo's Fabric & Craft](https://www.yelp.com/biz/jos-fabric-and-craft-union?adjust_creative=duckduckgo)
 
-Union High School
-https://www.union.k12.or.us/
+[Union High School | Union Middle |
+Union Elementary](https://www.union.k12.or.us/)
 
-Union Middle
+[City of Union](https://cityofunion.com/)
 
-Union Elementary
-
-City of Union
+[City of Union Chamber of Commerce](https://cityofunionchamber.com/)
 
 RattleTale
 
