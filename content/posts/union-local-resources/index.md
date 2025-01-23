@@ -4,9 +4,9 @@ date: 2025-01-22T15:52:21-08:00
 draft: true
 ---
 
-A  list of all the links for the things in town I have found all put in one place.
+A list of all the links for the Business and resources here in Union, Oregon 97883.
 
-## North Bound Towards La Grande
+## North Bound Towards La Grande West Side of town.
 
 Jo Fabric? https://duckduckgo.com/?q=jo+fabric+union+oregon&t=brave&ia=web&iaxm=maps&source=places
 
@@ -45,7 +45,7 @@ VFW Hall
 
 Church of Christ Later day saints
 
-## SOUTHBound Towards North Powder
+## South Bound Towards North Powder East Side of town.
 
 Platz Produce
 
@@ -57,7 +57,7 @@ Carpenters house Church
 
 Sinclair Gas Station
 
-Gravy Daves
+[Gravy Daves](https://bafybeiajsz5rfqyexs3qpuyf2cnxoxz4qzg7slogyj3crtyfu6epnnlz5q.ipfs.dweb.link/)
 
 Mee mawas
 
