@@ -21,9 +21,9 @@ Union Elementary](https://www.union.k12.or.us/)
 
 [The Union Merc](https://www.facebook.com/profile.php?id=100089977361547&mibextid=LQQJ4d)
 
-[USPS Union Post Office](https://tools.usps.com/locations/details/1385396)
+[Masons - Grande Ronde Valley Lodge 56](https://www.masonpost.com/or/granderondevalley56/profile.html)+
 
-[Masonic Lodge](https://www.masonpost.com/or/granderondevalley56/profile.html)+
+[USPS Union Post Office](https://tools.usps.com/locations/details/1385396)
 
 [Hometown Hardware](https://www.facebook.com/profile.php?id=100057097524489&sk=about)+
 
