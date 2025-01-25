@@ -17,31 +17,31 @@ Union Elementary](https://www.union.k12.or.us/)
 
 [City of Union Chamber of Commerce](https://cityofunionchamber.com/)
 
-RattleTale
+[RattleTale](https://www.facebook.com/RattleTale)+
 
-union merc
+[The Union Merc](https://www.facebook.com/profile.php?id=100089977361547&mibextid=LQQJ4d)
 
-USPS
+[USPS Union Post Office](https://tools.usps.com/locations/details/1385396)
 
-Masonic Lodge
+[Masonic Lodge](https://www.masonpost.com/or/granderondevalley56/profile.html)+
 
-Hometown Hardware
+[Hometown Hardware](https://www.facebook.com/profile.php?id=100057097524489&sk=about)+
 
-Barber Shop
+Barber  / hair saloon???
 
-Tile place???
+[Parkstone Manufacturing](https://parkstone.rocks/)
 
-Stoplight
+[Union Stoplight](https://www.facebook.com/profile.php?id=100063703503456)+
 
-Union Market
+[Union Market](https://unionmarketoregon.com/)
 
-Union Carnegie Library
+[Union Carnegie Library](https://cityofunion.com/directory/city-library/)+
 
-Historic Union Hotel
+[Historic Union Hotel](https://thehistoricunionhotel.com/)
 
-VFW Hall
+[VFW High Valley Post 4060](https://vfw4060.org/)
 
-Church of Christ Later day saints
+[The Church Of Jesus Christ of Latter-Day Saints](https://local.churchofjesuschrist.org/en/us/or/union/702-north-main-street)
 
 ## South Bound Towards North Powder East Side of town.
 
