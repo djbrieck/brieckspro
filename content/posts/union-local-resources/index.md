@@ -1,14 +1,16 @@
 ---
 title: "Union Local Resources and Business"
 date: 2025-01-22T15:52:21-08:00
-draft: true
+draft: false 
 ---
 
-A list of all the links for the resources here in Union, Oregon [97883](https://www.unitedstateszipcodes.org/97883/).
+A list of all the links for the local resources here in Union, Oregon [97883](https://www.unitedstateszipcodes.org/97883/).
 
 ## North Bound Towards La Grande West Side of town.
 
 [Jo's Fabric & Craft](https://www.yelp.com/biz/jos-fabric-and-craft-union?adjust_creative=duckduckgo)
+
+[La Grande Mini Storage](https://www.lagrandeministorage.com/)
 
 [Union High School | Union Middle |
 Union Elementary](https://www.union.k12.or.us/)
@@ -33,6 +35,10 @@ Union Elementary](https://www.union.k12.or.us/)
 
 [Union Stoplight](https://www.facebook.com/profile.php?id=100063703503456)+
 
+[Sacred Heart Catholic Church](https://olvcatholic.org/about-olv/mission-parishes/)
+
+[Point Prominence Press](https://www.pointprominence.com/)
+
 [Union Market](https://unionmarketoregon.com/)
 
 [Union Carnegie Library](https://cityofunion.com/directory/city-library/)+
@@ -42,6 +48,8 @@ Union Elementary](https://www.union.k12.or.us/)
 [Veterans of Foreign Wars High Valley Post 4060](https://vfw4060.org/)
 
 [The Church Of Jesus Christ of Latter-Day Saints](https://local.churchofjesuschrist.org/en/us/or/union/702-north-main-street)
+
+[Catherine Creek Hides](https://www.catherinecreekhides.com/)
 
 ## South Bound Towards North Powder East Side of town.
 
@@ -56,7 +64,6 @@ Union Elementary](https://www.union.k12.or.us/)
 [Sinclair Gas Station Union](https://stations.sinclairoil.com/or/union/363-n-main-st)
 
 [Gravy Daves](https://ipfs.io/ipfs/bafybeiajsz5rfqyexs3qpuyf2cnxoxz4qzg7slogyj3crtyfu6epnnlz5q/)
-
 
 [Meemaw’s Daily Sourdough](https://linktr.ee/Meemaws)+
 
@@ -74,15 +81,19 @@ Union Elementary](https://www.union.k12.or.us/)
 
 [LJ Brewskis](https://ipfs.io/ipfs/bafybeielwosjh37bxln4fw5ehnhfz3gjfa35tms4xqyfqjn7gyg6ai7mpi/)
 
-Union Museum
+[Union County Museum](https://ucmuseumoregon.com/)
 
-Union Collision Center
+[Union Collision Center](https://www.carwise.com/auto-body-shops/union-collision-center-union-or-97883/493765)+
 
-Union GRH Clinic
+[Union Family Dental](https://southcountyhd.com/)
 
-Old West FCU
+[Grande Ronde Hospital Union Clinic](https://www.grh.org/our-services/clinics/union-clinic/)
 
-Golf Course
+[Old West Federal Credit Union](https://www.oldwestfcu.org/about-us/locations-hours.html)
+
+[Union Head Start Center](https://eouheadstart.org/centers/)
+
+[Buffalo Peak Golf Course](https://www.buffalopeakgolf.com/)
 
 [RPM Storage by Catherine Creek Property Management](https://catherinecreekpm.com/)
 
