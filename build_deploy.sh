@@ -4,19 +4,19 @@ echo "Attempting to build project with hugo"
 hugo
 if [ $? -ne 0 ]; then
     echo  "Hugo Build failed!"
-    exit 0
+    exit 1
 fi
 
 echo "Attempting to add public directory to ipfs"
 PUBLIC_HASH=$(ipfs add -rQ public/ )
 if [ $? -ne 0 ]; then
     echo  "Add to IPFS failed!"
-    exit -1 
+    exit 2
 fi
 
 echo "Received public hash of: $PUBLIC_HASH so lets try to update IPNS to it"
 ipfs name publish -key=bprokey $PUBLIC_HASH 
 if [ $? -ne 0 ]; then
     echo  "IPFS Publish to IPNS failed"
-    exit -2 
+    exit 3
 fi
