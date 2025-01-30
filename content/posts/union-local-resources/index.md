@@ -63,7 +63,7 @@ Union Elementary](https://www.union.k12.or.us/)
 
 [Sinclair Gas Station Union](https://stations.sinclairoil.com/or/union/363-n-main-st)
 
-[Gravy Daves](https://ipfs.io/ipfs/bafybeiajsz5rfqyexs3qpuyf2cnxoxz4qzg7slogyj3crtyfu6epnnlz5q/)
+[Gravy Daves](https://k51qzi5uqu5dhnk7ngyzko5athq7wjrs05ohta5xr9pfz0jk74szb8qt5zpau9.ipns.dweb.link/)
 
 [Meemaw’s Daily Sourdough](https://linktr.ee/Meemaws)+
 
