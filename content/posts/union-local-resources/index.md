@@ -79,7 +79,7 @@ Union Elementary](https://www.union.k12.or.us/)
 
 [Catherine Creek Gardens & Gifts](https://www.facebook.com/CatherineCreekGardens/)
 
-[LJ Brewskis](https://ipfs.io/ipfs/bafybeielwosjh37bxln4fw5ehnhfz3gjfa35tms4xqyfqjn7gyg6ai7mpi/)
+[LJ Brewskis](https://k51qzi5uqu5dlr44wospfhm3h896r5hlml2ctjnf1lvyr9kth119np0gar4sx0.ipns.dweb.link/)
 
 [Union County Museum](https://ucmuseumoregon.com/)
 
