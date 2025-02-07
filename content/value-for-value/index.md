@@ -28,7 +28,7 @@ Did you find this site useful, informative, entertaining, please feel free to se
 
 - [Try Visible wireless](https://www.visible.com/get/?3S32PJN) When you use my friend code, 3S32PJN, you’ll get your first month of service for $20-off!
 
-- [US Mobile cell phone service $10 off](https://www.usmobile.com/referrals?referrer=fee51221cb1b416&name=Daniel)
+- [US Mobile cell phone service $25 Sign up bonus](https://www.usmobile.com/referrals?referrer=1CB1B416&name=Daniel&utm_campaign=monster_referral)
 
 ## Paid or volunteer editing of this site
 
