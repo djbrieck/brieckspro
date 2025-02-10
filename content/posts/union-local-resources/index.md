@@ -1,12 +1,12 @@
 ---
 title: "Union Local Resources and Business"
-date: 2025-01-27T16:58:21-08:00
+date: 2025-02-10T14:42:21-08:00
 draft: false 
 ---
 
 A list of all the links for the local resources here in Union, Oregon [97883](https://www.unitedstateszipcodes.org/97883/).
 
-## North Bound Towards La Grande West Side of town.
+## West Side of town - North Bound Towards La Grande
 
 [Jo's Fabric & Craft](https://www.yelp.com/biz/jos-fabric-and-craft-union?adjust_creative=duckduckgo)
 
@@ -51,7 +51,7 @@ Union Elementary](https://www.union.k12.or.us/)
 
 [Catherine Creek Hides](https://www.catherinecreekhides.com/)
 
-## South Bound Towards North Powder East Side of town.
+## East Side of town - South Bound Towards North Powder
 
 [Platz Family Farm](https://www.platzfamilyfarm.com/)
 
@@ -80,6 +80,8 @@ Union Elementary](https://www.union.k12.or.us/)
 [Catherine Creek Gardens & Gifts](https://www.facebook.com/CatherineCreekGardens/)
 
 [LJ Brewskis](https://k51qzi5uqu5dlr44wospfhm3h896r5hlml2ctjnf1lvyr9kth119np0gar4sx0.ipns.dweb.link/)
+
+[Union Sanitation](https://www.facebook.com/UnionSanitation)
 
 [Union County Museum](https://ucmuseumoregon.com/)
 
