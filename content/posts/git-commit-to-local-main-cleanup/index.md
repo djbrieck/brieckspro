@@ -1,32 +1,42 @@
 ---
-title: "git commited to Master or Main when I wanted to create and make a branch to commit there instead"
+title: "Clean up accidental commit on Main or Master and moving changes to a new branch using Git"
 date: 2025-02-12T15:27:55-08:00
 draft: true
 ---
 
-So I accidentally did all the work and committed to main or master  without creating a branch like I wanted too while using git version control. I did not push the changes back to the git repository but only committed locally to git on my system in this case.
+## Introduction Summary
 
-In my cases I made some changes on main / master
+So I accidentally committed locally to main or master  without creating a branch first like I wanted to. 
+I did not push the changes back to the git repository but only committed to git on my system.
 
-Then I committed like so:
+## Here is what I did to get into trouble.
 
-git commit -a
+1. I made some changes on main / master
 
-The fix I found is to run the following
+2. Then I committed like so:
 
-git reset --soft HEAD^
+    git commit -a
+
+## The cleanup 
+
+ The fix I found that worked to fix my problem is to run the following
+
+    git reset --soft HEAD^
 
 then
 
-git stash
+    git stash
 
-Then make the branch
+Then make the branch like I wanted to.
 
-git checkout -b the_branch_I_wanted
+    git checkout -b the_branch_I_wanted
 
-git stash pop
+    git stash pop
 
-Now Do the
-git commit -a
+Now back to doing the commit at the right time now.
 
-[add in title for reference](https://stackoverflow.com/questions/2845731/how-to-uncommit-my-last-commit-in-git)
+    git commit -a
+
+## Reference
+
+[Stack Overflow - How to uncommit my last commit in Git](https://stackoverflow.com/questions/2845731/how-to-uncommit-my-last-commit-in-git)
