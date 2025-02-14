@@ -1,25 +1,22 @@
 ---
 title: "Clean up accidental commit on Main or Master and moving changes to a new branch using Git"
 date: 2025-02-12T15:27:55-08:00
-draft: true
+draft: false
 ---
 
-## Introduction Summary
+## Summary
 
-So I accidentally committed locally to main or master  without creating a branch first like I wanted to. 
-I did not push the changes back to the git repository but only committed to git on my system.
+I accidentally committed to main or master without creating a branch first. I did not push the changes to the repository, only committed locally.
 
-## Here is what I did to get into trouble.
+## Problem
 
-1. I made some changes on main / master
-
-2. Then I committed like so:
+Made changes on main/master and ran the following command:
 
     git commit -a
 
-## The cleanup 
+## Solution
 
- The fix I found that worked to fix my problem is to run the following
+To fix this, run:
 
     git reset --soft HEAD^
 
@@ -27,13 +24,15 @@ then
 
     git stash
 
-Then make the branch like I wanted to.
+Create the branch:
 
     git checkout -b the_branch_I_wanted
 
+Apply the stashed changes:
+
     git stash pop
 
-Now back to doing the commit at the right time now.
+Now commit:
 
     git commit -a
 
