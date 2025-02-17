@@ -12,9 +12,9 @@ draft: true
 
 4. Pick LocalScript option, Script will not work
 
-Add the following to the script
+Add the following to the LocalScript
 
-local Players = game:GetService("Players")
-local player = Players.localPlayer
+    local Players = game:GetService("Players")
+    local player = Players.localPlayer
 
-player.CameraMode = Enum.CameraMode.LockFirstPerson
+    player.CameraMode = Enum.CameraMode.LockFirstPerson
