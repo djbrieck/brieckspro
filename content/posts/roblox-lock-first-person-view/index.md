@@ -1,7 +1,7 @@
 ---
 title: "Roblox Lock First Person View"
 date: 2025-02-17T15:37:01-08:00
-draft: true
+draft: false
 ---
 
 If you would like to force your Roblox Game to always be in the first person view, you can do so by adding a LocalScript to the StarterPlayerScripts service.
