@@ -1,7 +1,7 @@
 ---
 title: "ONLC Docker Fundamentals Certificate and Synopsis"
 date: 2025-03-03T20:54:13-08:00
-draft: true
+draft: false
 ---
 
 The certificate of completion and training synopsis for the Docker Fundamentals course taken on May 28-30, 2024 in Boise, ID .
