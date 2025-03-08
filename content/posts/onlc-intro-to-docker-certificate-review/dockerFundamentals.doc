@@ -1,0 +1,148 @@
+<!-- Cache: c:\inetpub\temp\outline\XDOC01ONLINE.xml 2/13/2024 10:33:21 AM-->
+
+<html>
+<!-- If you are using Word 97 you need to go to the 
+     Tools menu, Options dialog, General tab and 
+     check the Confirm Conversions on Open option.
+
+     Then go back to the prior web page and click the
+     View in MS Word link again.
+
+     Choose Convert from HTML and click Ok if you
+     get a registry error message.      
+  -->
+<head>
+  <title>ONLC Training Centers - "Docker Fundamentals</title>
+  <meta name="robots" content="noindex,nofollow">
+  <link href="https://www.onlc.com/onlc.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div style="width:6in;">
+  <table border="0" width="100%">
+    <tr>
+      <td valign="top">
+        <font size="2"><b>Docker Fundamentals</b></font><br>
+         
+      </td>
+      <td align="right" valign="top">
+        <img border="0" src="https://www.onlc.com/graphics/logos/onlc-logo-150w.gif">
+      </td>
+    </tr>
+  </table>
+
+  <hr noshade>
+  <!-- UnNumbered -->
+<b>Overview</b><br/>
+You will learn the difference between the container and the virtual machine. This course will take you through the life cycle of the container and the various stages of development. Moreover, this course will train you to install Docker on various platforms, will create your first container, image, push and pull to the registry hub, will learn how to install your own local registry, volumes, container networking, orchestrating containers, and will learn how to debug your containers. You will build an HTTP server image, run as a service, and connect to it. Also, Finally, you will learn how to create<br/>
+a swarm and prepare your containers for production.<br/>
+<br/>
+<b>Who this class is for</b><br/>
+It is for developer, operation managers, and IT professionals who would like to learn Docker.<br/>
+<br/>
+<b>Prerequisites</b><br/>
+No prior knowledge of Docker is required.<br/>
+Docker is open-source, so no subscriptions are required.<br/>
+<br/>
+<b>Number of Days</b><br/>
+3 days<br/>
+<br/>
+<b>COURSE OUTLINE</b><br/>
+<br/>
+<b>Getting started with Docker</b><br/>
+What is Docker?<br/>
+What is the difference between VM and Containerization?<br/>
+Installing Docker<br/>
+Docker Architecture<br/>
+Docker Flow<br/>
+Download your first image<br/>
+Run your first container<br/>
+Terminology<br/>
+Working with Docker image<br/>
+Working with interactive container<br/>
+<br/>
+<b>Handling Docker Containers</b><br/>
+Controlling Docker Container<br/>
+Detach Docker<br/>
+Container Lifecycle<br/>
+Housekeeping commands<br/>
+Docker's integrated image building system<br/>
+Docker logs<br/>
+<br/>
+<b>Building images</b><br/>
+Docker's integrated image building system<br/>
+A quick overview of the Dockerfile's syntax<br/>
+Dockerfile build instructions<br/>
+How to remove images<br/>
+How to remove containers<br/>
+Best practices for writing Dockerfiles and Multi-Stage Builds<br/>
+<br/>
+<b>Publishing image</b><br/>
+Understanding the Docker Hub<br/>
+How to push images to the Docker Hub<br/>
+Automatic building of images<br/>
+Private repositories on the Docker Hub<br/>
+Creating organizations on the Docker Hub<br/>
+<br/>
+<b>Running your private Docker infrastructure</b><br/>
+The Docker registry and index<br/>
+Docker registry use cases<br/>
+Run your own index and registry<br/>
+Push the image to a newly created registry<br/>
+<br/>
+<b>Running services in a container</b><br/>
+Overview of container networking<br/>
+User-Defined Networks<br/>
+Envisaging Container as a Service (CaaS)<br/>
+Exposing container services<br/>
+Retrieving the container port<br/>
+<br/>
+<b>Sharing data volumes</b><br/>
+Stateful versus Stateless Container/Services<br/>
+Docker Volumes and Stateful Persistence<br/>
+Volume’s Types<br/>
+Anonymous Volumes—Within Container’s scope<br/>
+Named Volumes—Outside Container’s scope<br/>
+Sharing volumes between containers<br/>
+Sharing volumes between host and container<br/>
+Running a PostgreSQL Container with a Volume<br/>
+Filesystem vs. Volume<br/>
+<br/>
+<b>Orchestrating containers</b><br/>
+User-defined networks<br/>
+Orchestrating<br/>
+Example of docker-compose<br/>
+<br/>
+<b>Testing with Docker</b><br/>
+What is CI/CD?<br/>
+Integrating Docker testing into Jenkins (CI/CD)<br/>
+<br/>
+<b>Debugging containers</b><br/>
+Namespaces<br/>
+Process level isolation<br/>
+Network Namespace<br/>
+Mount Namespace<br/>
+Control groups<br/>
+Docker debugging commands<br/>
+<br/>
+<b>Securing Docker containers</b><br/>
+Non-root privilege in Dockerfile<br/>
+Is Docker secure?<br/>
+Best practices for container security<br/>
+<br/>
+<b>Swarms</b><br/>
+Set up your cluster<br/>
+Scale your app to run on more nodes<br/>
+Distribute your app across a cluster<br/>
+Nodes Types and Load-balancing<br/>
+
+  <hr noshade>
+
+  <b>XDOC01 ONLINE</b><hr noshade>
+
+  <br>
+  <!-- #EndEditable --> 
+  <div align="center">
+  © 2024, ONLC Training Centers  800-288-8221
+  </div>
+</body>
+</html>
