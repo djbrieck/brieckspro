@@ -144,5 +144,5 @@ ONLC provided top-notch training with a small class size. The all participants r
 
 [ONLC Dock Fundamentals Course Outline](dockerFundamentals.doc)
 
-[ONLY Docker Fundamentals Slides LibreOffice Impress - password secured](Docker_intro.odp)
+[ONLC Docker Fundamentals Slides LibreOffice Impress - password secured](Docker_intro.odp)
 
