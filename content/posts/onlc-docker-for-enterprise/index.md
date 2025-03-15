@@ -1,10 +1,10 @@
 ---
-title: "Onlc Docker for Enterprise"
+title: "ONLC Docker for Enterprise Developers Certificate"
 date: 2025-03-11T19:57:12-07:00
-draft: true
+draft: false
 ---
 
-The certificate of completion for the Docker for Enterprise course taken on July26-?2024 .
+The certificate of completion for the ONLC Docker for Enterprise Developers course taken on July 25-26,2024.
 
 
 ## Certificate
@@ -15,3 +15,8 @@ The certificate of completion for the Docker for Enterprise course taken on July
 
 
 ## Resources
+[ONLC Docker Training Classes & Certification](https://www.onlc.com/docker-training-classes.htm)
+
+[ONLC Docker for Enterprise Developers outline - pdf](dockerED.pdf)
+
+[ONLC Docker For Enterprise LibreOffice Impress - password secured](ONLCDockerForEnterprise.odp)
