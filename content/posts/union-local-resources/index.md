@@ -19,6 +19,8 @@ Union Elementary](https://www.union.k12.or.us/)
 
 - [City of Union Chamber of Commerce](https://cityofunionchamber.com/)
 
+- [Business Directory - City of Union Chamber of Commerce](https://cityofunionchamber.com/business-directory/)
+
 - [RattleTale](https://k51qzi5uqu5dgtvtf0l8i0x0ymdxb84vvs7mcpjzs1dae5wizjol212xit3qrk.ipns.dweb.link/)
 
 - [The Union Merc](https://www.facebook.com/profile.php?id=100089977361547&mibextid=LQQJ4d)
@@ -89,7 +91,7 @@ Union Elementary](https://www.union.k12.or.us/)
 
 - [Union Family Dental](https://southcountyhd.com/)
 
-- [Grande Ronde Hospital Union Clinic](https://www.grh.org/our-services/clinics/union-clinic/)
+- [Grande Ronde Hospital Union Clinic](https://www.grh.org/locations/grh-union-clinic/)
 
 - [Old West Federal Credit Union](https://www.oldwestfcu.org/about-us/locations-hours.html)
 
