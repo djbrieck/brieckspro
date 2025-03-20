@@ -1,6 +1,6 @@
 ---
 title: "Union Local Resources and Business"
-date: 2025-02-11T14:42:21-08:00
+date: 2025-03-19T17:45:00-07:00
 draft: false 
 ---
 
@@ -31,7 +31,7 @@ Union Elementary](https://www.union.k12.or.us/)
 
 - [Hometown Hardware](https://www.facebook.com/profile.php?id=100057097524489)+
 
-- [OBie’s Hair Salon](https://www.facebook.com/profile.php?id=100084536531905)
+- OBie’s Hair Salon ?
 
 - [Parkstone Manufacturing](https://parkstone.rocks/)
 
@@ -93,7 +93,7 @@ Union Elementary](https://www.union.k12.or.us/)
 
 - [Grande Ronde Hospital Union Clinic](https://www.grh.org/locations/grh-union-clinic/)
 
-- [Old West Federal Credit Union](https://www.oldwestfcu.org/about-us/locations-hours.html)
+- [Old West Federal Credit Union - Union Branch](https://www.oldwestfcu.org/about-us/locations-hours.html)
 
 - [Union Head Start Center](https://eouheadstart.org/centers/)
 
