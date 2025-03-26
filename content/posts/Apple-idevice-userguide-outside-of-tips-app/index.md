@@ -3,7 +3,7 @@ title: "Apple User Guides outside of the Tips App and small screens"
 date: 2025-03-25T20:39:07-07:00
 draft: false
 ---
-If you use Apple devices like iPhone, iPad, or Watch, I highly recommend checking out their User Guides. After over 5 years of using various iPhones I hadn't looked at a user guide until I picked up a used iPhone 12 Pro in 2024. 
+If you use Apple devices like iPhone, iPad, or Apple Watch, I highly recommend checking out their User Guides. After over 5 years of using various iPhones I hadn't looked at a user guide until I picked up a used iPhone 12 Pro in 2024. 
 
 The user guide are mentioned in the [Apple Tips](https://apps.apple.com/us/app/tips/id1069509450) app, but you can also view it on any computer by visiting [Apple Support](https://support.apple.com/) and finding the User Guide for your Apple products. This information is usually at the bottom of the product support page and can be hard to find quickly.
 
