@@ -8,7 +8,7 @@ draft: true
 
 The goal here is to have an app launcher icon than can be placed in the menu / taskbar on Linux mint to start the ipfs daemon and leave a terminal window open.
 
-This is an alternative to doing this manually or setting up a system service to start and stop manually. Stopping the service even if scripted like this would likely require a password entry to start and stop. This way is dirt simple and great for mobile application, where you don't want ipfs running eg running on the laptop battery or other limited power situation.
+This is an alternative to doing this manually or setting up a system service to start and stop manually.
 
 With the following workflow
 
