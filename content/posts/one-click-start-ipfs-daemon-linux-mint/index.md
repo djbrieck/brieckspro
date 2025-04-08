@@ -1,10 +1,14 @@
 ---
-title: "How to one click start ipfs daemon on Linux Mint Cinnamon"
+title: "How to one click start IPFS daemon on Linux Mint Cinnamon"
 date: 2025-04-07T20:03:33-07:00
 draft: true
 ---
 
-The goal here is to have a app icon I can place in the menu / taskbar on Linux mint to start the ipfs daemon and leave a terminal window open. This is an alternative to doing this manually or setting up a system service to start and stop manually. Stopping the service even if scripted like this would likely require a password entry to start and stop. This way is dirt simple and great for mobile application, where you don't want ipfs running eg running on the laptop battery or other limited power situation.
+## Introduction
+
+The goal here is to have an app launcher icon than can be placed in the menu / taskbar on Linux mint to start the ipfs daemon and leave a terminal window open.
+
+This is an alternative to doing this manually or setting up a system service to start and stop manually. Stopping the service even if scripted like this would likely require a password entry to start and stop. This way is dirt simple and great for mobile application, where you don't want ipfs running eg running on the laptop battery or other limited power situation.
 
 With the following workflow
 
