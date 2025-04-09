@@ -1,7 +1,7 @@
 ---
 title: "How to one click start IPFS daemon on Linux Mint Cinnamon"
 date: 2025-04-07T20:03:33-07:00
-draft: true
+draft: false
 ---
 
 ## Introduction
