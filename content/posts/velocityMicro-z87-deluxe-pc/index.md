@@ -1,5 +1,5 @@
 ---
-title: "Velocity Micro with Asus Z87 Deluxe Motherboard"
+title: "Velocity Micro GX 1 PC with Asus Z87 Deluxe Motherboard"
 date: 2025-04-14T15:22:54-07:00
 draft: true
 ---
@@ -8,39 +8,43 @@ draft: true
 
 I was looking for a newer computer to replace my Aging Mac Pro 3,1. I was running into several issues that made it clear it was time to move off of this computer as my full time computer.
 
-- The loud fan issue with the open source GPU driver support for my ATI Radeon HD 5770 GPU . Everything worked well enough it was just that  the GPU fan was out of control when running any kind of current Linux version, with constant cycling sound as the fan changed RPMs.  AMD had dropper driver support and only opensource drivers are available for the HD 5770. I was on Linux Mint 21.x at the time. 
+- The loud fan  with the open source GPU driver support for my ATI Radeon HD 5770 GPU . Everything worked well enough it was just that  the GPU blower fan is out of control when running any kind of current open source driver version, with constant cycling noise as the fan changed RPMs for almost every graphical action.  AMD had dropped driver support and only opensource drivers are available for the ATI Radeon HD 5770. I was on Linux Mint 21.x at the time. 
 
-- High power consumption was a bit out of hand as well, at nearly 300 watts idle for the entire Mac Pro, which is about what our space heater draws on low power, and for a system that's on 24/7 it was a bit much and with an east facing window as well.
+- High power consumption was a bit out of hand as well, at nearly 300 watts idle for the entire Mac Pro, which is about what our space heater draws on low power, and for a system that's on 24/7 it was a bit much.
 
 - Ram was lacking too I had 16GB and a couple of modules had failed leaving with me only 12GB of ram. And RAM since it requires ECC and special heat sinks is not cheap for this system.
 
-- Limited GPU upgrade support if I want to see a boot screen, which I do want, LOL. Also, my best upgrade option for my use case is an Nvidia Quadro K5000 Mac Edition or  Mac EFI flashed PC card. Such a hassle and trying to maintain compatibility with MAc Os 10.11 as installed as well is a goal of mine with this system. Since I have no interest installing with installing a newer macOS  on it. Also since it seems like no one is running this card on this Mac with a modern linux I have no guarantee if it will work any better than the HD 5770 on linux. 
+- Limited GPU upgrade support if I want to see a boot screen, which I do want, LOL. Also, my best upgrade option for my use case is an Nvidia Quadro K5000 Mac Edition or  Mac EFI flashed PC Quadro K5000 card. Such a hassle and trying to maintain compatibility with MAc Os 10.11 as installed as well is a goal of mine with this system. Since I have no interest installing any newer macOS  on it. Also since it seems like no one is running this card on this Mac with a modern linux I have no guarantee if it will work any better than the HD 5770 does when running Linux. 
 
 ## Finding a better solution
 
-I started looking for something else and started looking at used computer systems  for sale on [eBay](https://www.ebay.com). Looking at old Dell, HP, Lenovo workstations, CPU Mother board Combos and custom PC.  And I managed to spot this one for sale under a brand of  [Velocity Micro](https://velocitymicro.com/). Had no idea  about Velocity Micro. I did catch the case, which looked very much like a Lian Li Pc case of yore that I always wanted to try. So after reviewing the Specs it was quite a deal and even a decent upgrade over the current 2008 Mac Pro 3,1.  
+I started looking for something else and started looking at used computer systems for sale on [eBay](https://www.ebay.com). Looking at old Dell, HP, Lenovo workstations, CPU Mother board Combos and custom PC.  And I managed to spot this one for sale under a brand of  [Velocity Micro](https://velocitymicro.com/). 
+    
+   ![Photo from eBay Listing](velocityMicoeBayPhoto.jpg)
+
+I have never heard of the Velocity Micro custom PC building brand before. I did catch the case, which looked very much like a Lian Li aluminum case of yore that I always liked the looks of. So after reviewing the Specs it was quite a deal and even a decent upgrade over my current Apple 2008 Mac Pro 3,1.  
 
 The selling points for me:
 
-- Nice Lian Li like case with room for many drives including optical  5.25 bays, classic.
+-  Lian Li case with room for many drives including optical three 5.25 bays, five bays for 3.5" drives and the thing even has wheels and a brake lever too.
 
 - Asus Z-87 Deluxe Motherboard with tons of Sata ports and plenty of PCIE slots.
 
 - And a former high-end [Intel i7 4770K As you can see quite a nice upgrade over the Dual Xeon E5462 Mac Pro](https://www.cpubenchmark.net/compare/1919vs1237.2/Intel-i7-4770K-vs-Intel-Xeon-E5462)
 
-- The whole thing was a bundle deal and was around $123 not including shipping.
+- The whole thing was a bundle deal and was purchased $123.50 on August 31, 2022 price does not including $82.14 for shipping.
 
 After receiving the system I was able to confirm the Case was manufactured by Lian Li so this is a real deal high quality aluminum case.
 
 - Also as added bonus the system came with a high-end LG Blu-ray reading / burner drive installed. 
 
-- Very impressed with Velocity Micro, the system used quality parts and was well put together, and they still helped me get the parts I needed on something over 11 years old.
+- Very impressed with Velocity Micro, the system uses quality parts and was well put together, and Velocity Micro still helped me get the accessory parts I needed on something over 11 years old.
 
 ## Fixes needed to get started using this as my primary system
 
 -  No Hard drive mounting brackets / screws
 - No GPU
-- Creaky Blue LED fans
+- Creaky Blue LED fans needed to be replaced
 
 
 As it was received I was a bit short on a few things, no GPU but it does have integrated GPU, so that was enough to get the thing running . The other  issues was hard drives, this cases requires something special to mount the 3.5" disk drives, it did not have the needed parts. I need to be able to move over the four drives from the Mac Pro and not have then laying loose in the case. Luckily this was a Velocity Miro build and I was able to contact support and they mailed me out a parts bag for like $20
