@@ -6,21 +6,21 @@ draft: true
 
 ## Backstory
 
-I was looking for a newer computer to replace my Aging Mac Pro 3,1. I was running into several issues that made it clear it was time to move of this computer as my full time computer.
+I was looking for a newer computer to replace my Aging Mac Pro 3,1. I was running into several issues that made it clear it was time to move off of this computer as my full time computer.
 
 - The loud fan issue with the open source GPU driver support for my ATI Radeon HD 5770 GPU . Everything worked well enough it was just that  the GPU fan was out of control when running any kind of current Linux version, with constant cycling sound as the fan changed RPMs.  AMD had dropper driver support and only opensource drivers are available for the HD 5770. I was on Linux Mint 21.x at the time. 
 
-- Also The power consumption was a bit out of hand as well, at nearly 300 watts idle for the entire Mac Pro, which is about what our space heater draws on low power, and for a system thats on 24/7 it was a bit much and with an east facing window, it was not helping with the cooling of the room.
+- High power consumption was a bit out of hand as well, at nearly 300 watts idle for the entire Mac Pro, which is about what our space heater draws on low power, and for a system that's on 24/7 it was a bit much and with an east facing window as well.
 
 - Ram was lacking too I had 16GB and a couple of modules had failed leaving with me only 12GB of ram. And RAM since it requires ECC and special heat sinks is not cheap for this system.
 
-- Limited GPU upgrade support if I want to see a boot screen, which I do. Also, my best upgrade option for my use case was a Quadro K5000 Mac or similar EFI flashed. Such a hassle and trying to maintain compatibility with MAc Os 10.11 as installed as well. Since I have no interest installing any newer macOS  on it. Also since it seems like no one is running this card on this Mac with a modern linux I have no qurante if it will work any better than the HD 5770 on linux. And it would be a hassle to lose EFI boot support and have to swap out GPUs to be able to choose what OS to boot from with any ease.
+- Limited GPU upgrade support if I want to see a boot screen, which I do want, LOL. Also, my best upgrade option for my use case is an Nvidia Quadro K5000 Mac Edition or  Mac EFI flashed PC card. Such a hassle and trying to maintain compatibility with MAc Os 10.11 as installed as well is a goal of mine with this system. Since I have no interest installing with installing a newer macOS  on it. Also since it seems like no one is running this card on this Mac with a modern linux I have no guarantee if it will work any better than the HD 5770 on linux. 
 
 ## Finding a better solution
 
-I started looking for something else and started looking at used computer systems  for sale on eBay. Looking at old Dell, HP, Lenovo workstations, CPU Mother board Combos and custom PC.  And I managed to spot this one for sale under a brand of  Velocity Micro. Had no idea  about Velocity Micro. I did catch the case, which looked very much like a Lian Li Pc case of yore that I always wanted to try. So after reviewing the Specs it was quite a deal and even a decent upgrade over the current 2008 Mac Pro 3,1 with dual quad Xeons E5462.
+I started looking for something else and started looking at used computer systems  for sale on [eBay](https://www.ebay.com). Looking at old Dell, HP, Lenovo workstations, CPU Mother board Combos and custom PC.  And I managed to spot this one for sale under a brand of  [Velocity Micro](https://velocitymicro.com/). Had no idea  about Velocity Micro. I did catch the case, which looked very much like a Lian Li Pc case of yore that I always wanted to try. So after reviewing the Specs it was quite a deal and even a decent upgrade over the current 2008 Mac Pro 3,1.  
 
-The selling points:
+The selling points for me:
 
 - Nice Lian Li like case with room for many drives including optical  5.25 bays, classic.
 
@@ -33,6 +33,8 @@ The selling points:
 After receiving the system I was able to confirm the Case was manufactured by Lian Li so this is a real deal high quality aluminum case.
 
 - Also as added bonus the system came with a high-end LG Blu-ray reading / burner drive installed. 
+
+- Very impressed with Velocity Micro, the system used quality parts and was well put together, and they still helped me get the parts I needed on something over 11 years old.
 
 ## Fixes needed to get started using this as my primary system
 
