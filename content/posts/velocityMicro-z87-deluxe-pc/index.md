@@ -8,17 +8,17 @@ draft: true
 
 I was looking for a newer computer to replace my Aging Mac Pro 3,1. I was running into several issues that made it clear it was time to move off of this computer as my full time computer.
 
-- The loud fan  with the open source GPU driver support for my ATI Radeon HD 5770 GPU . Everything worked well enough it was just that  the GPU blower fan is out of control when running any kind of current open source driver version, with constant cycling noise as the fan changed RPMs for almost every graphical action.  AMD had dropped driver support and only opensource drivers are available for the ATI Radeon HD 5770. I was on Linux Mint 21.x at the time. 
+- The loud fan  with the ATI Radeon HD 5770 GPU . Everything worked well enough it was just that  the GPU blower fan is out of control when running any kind of current open source driver with constant cycling noise as the fan changed RPMs for almost every graphical action.  AMD had dropped driver support and only opensource drivers are available for the ATI Radeon HD 5770. I was on Linux Mint 21.x at the time. 
 
 - High power consumption was a bit out of hand as well, at nearly 300 watts idle for the entire Mac Pro, which is about what our space heater draws on low power, and for a system that's on 24/7 it was a bit much.
 
 - Ram was lacking too I had 16GB and a couple of modules had failed leaving with me only 12GB of ram. And RAM since it requires ECC and special heat sinks is not cheap for this system.
 
-- Limited GPU upgrade support if I want to see a boot screen, which I do want, LOL. Also, my best upgrade option for my use case is an Nvidia Quadro K5000 Mac Edition or  Mac EFI flashed PC Quadro K5000 card. I do want to maintain native compatibility with MAc Os 10.11 as installed on this system. Since I have no interest in installing any newer macOS  on it. Also since it seems like no one is running this K5000 card on this Mac with a modern linux I have no guarantee if it will work any better than the HD 5770 does when running Linux in terms of fan noise. 
+- Limited GPU upgrade options if I want to see a boot screen, which I do want, LOL. Also, my best upgrade option for my use case is an Nvidia Quadro K5000 Mac Edition or  Mac EFI flashed PC Quadro K5000 card, but either way it makes a $50 GPU now cost $120 or more. I do want to maintain native compatibility with MAc Os 10.11 as installed on this system. Since I have no interest in installing any newer macOS  on it. Also since it seems like no one is running this K5000 card on this Mac with a modern linux I have no guarantee if it will work any better than the HD 5770 does when running Linux in terms of fan noise. 
 
 ## Finding a better solution
 
-I started looking for something else and started looking at used computer systems for sale on [eBay](https://www.ebay.com). Looking at old Dell, HP, Lenovo workstations, CPU Mother board Combos and custom PC.  And I managed to spot this one for sale under a brand of  [Velocity Micro](https://velocitymicro.com/). 
+I started looking for something else and started looking at used computer systems for sale on [eBay](https://www.ebay.com). Initially Looking at old Dell, HP, Lenovo workstations, then later I discovered CPU Mother board Combos and custom PC.  And I managed to spot this one for sale under a brand of  [Velocity Micro](https://velocitymicro.com/). 
     
    ![Photo from eBay Listing](velocityMicoeBayPhoto.jpg)
 
@@ -26,7 +26,7 @@ I had never heard of the Velocity Micro custom PC building brand before. I did c
 
 The selling points for me:
 
--  Lian Li case with room for many drives including optical three 5.25 bays, five bays for 3.5" drives and the thing even has wheels and a brake lever too.
+-  Lian Li case with room for many drives including three 5.25" bays, five 3.5" bays and the thing even has wheels and a brake lever too.
 
 - Asus Z-87 Deluxe Motherboard with tons of Sata ports and plenty of PCIE slots.
 
@@ -68,7 +68,7 @@ Lastly I had to remove the front logo LED board. It was just too blue  and brigh
 - 
 - RGB Fan for the lower intake to add some custom LED lighting effects and at some light back to the front case in a more controllable manner
 
-- Upgrade to a newer Motherboard, a NVME upgrade would be a huge improvement since my current workflows if trying to do too much at once easily swamps the sata SSDs I have.
+- Upgrade to a newer Motherboard, a NVME upgrade would be a huge improvement since my current workflows if trying to do too much at once easily swamps the I/O of the sata SSDs I have.
 
 - Upgrade the GPU maybe someday when I really need a faster one.
 
