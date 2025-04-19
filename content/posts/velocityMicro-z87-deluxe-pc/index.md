@@ -20,7 +20,7 @@ I was looking for a newer computer to replace my Aging Mac Pro 3,1. I was runnin
 
 I started looking for something else and started looking at used computer systems for sale on [eBay](https://www.ebay.com). Initially Looking at old Dell, HP, Lenovo workstations, then later I discovered CPU Mother board Combos and custom PC.  And I managed to spot this one for sale under a brand of  [Velocity Micro](https://velocitymicro.com/). 
     
-   ![Photo from eBay Listing](velocityMicoeBayPhoto.jpg)
+   ![Photo from eBay Listing](velocityMicro-eBayPhoto.jpg)
 
 I had never heard of the Velocity Micro custom PC building brand before. I did catch the case, which looked very much like a Lian Li aluminum case of yore that I always liked the looks of. So after reviewing the Specs it was quite a deal and even a decent upgrade over my current Apple 2008 Mac Pro 3,1.  
 
