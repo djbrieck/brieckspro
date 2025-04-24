@@ -6,7 +6,7 @@ draft: true
 
 ## Backstory
 
-I was looking for a newer computer to replace my Aging Mac Pro 3,1. I was running into several issues that made it clear it was time to move off of this computer as my full time computer.
+I was looking for a newer computer to replace the aging [Apple Mac Pro 3,1](https://lowendmac.com/2008/mac-pro-early-2008/). I was running into several issues that made it clear it was time to move off of this computer as my full time computer.
 
 - The loud fan  with the ATI Radeon HD 5770 GPU . Everything worked well enough it was just that  the GPU blower fan is out of control when running any kind of current open source driver with constant cycling noise as the fan changed RPMs for almost every graphical action.  AMD had dropped driver support and only opensource drivers are available for the ATI Radeon HD 5770. I was on Linux Mint 21.x at the time. 
 
@@ -18,13 +18,15 @@ I was looking for a newer computer to replace my Aging Mac Pro 3,1. I was runnin
 
 ## Finding a better solution
 
-I started looking for something else and started looking at used computer systems for sale on [eBay](https://www.ebay.com). Initially Looking at old Dell, HP, Lenovo workstations, then later I discovered CPU Mother board Combos and custom PC.  And I managed to spot this one for sale under a brand of  [Velocity Micro](https://velocitymicro.com/). 
+I started looking for something else and started looking at used computer systems for sale on [eBay](https://www.ebay.com). Initially I was looking at old Dell, HP and Lenovo workstations. Then I discovered CPU Mother board Combos and custom PC builds as well.  And I managed to spot this one computer for sale under a brand of  [Velocity Micro](https://velocitymicro.com/). 
     
    ![Photo from eBay Listing](velocityMicro-eBayPhoto.jpg)
 
-I had never heard of the Velocity Micro custom PC building brand before. I did catch the case, which looked very much like a Lian Li aluminum case of yore that I always liked the looks of. So after reviewing the Specs it was quite a deal and even a decent upgrade over my current Apple 2008 Mac Pro 3,1.  
+I had never heard of the [Velocity Micro](https://velocitymicro.com/) custom PC building brand before. I did catch the case, which looked very much like a Lian Li aluminum case of yore that I always liked the looks of. So after reviewing the Specs it was quite a deal and even a decent performance upgrade over my current Apple 2008 Mac Pro 3,1 dual quad.  
 
 The selling points for me:
+
+   ![Velocity Micro GX2 Case](OrginalLookOfSystem.jpg)
 
 -  Lian Li case with room for many drives including three 5.25" bays, five 3.5" bays and the thing even has wheels and a brake lever too.
 
@@ -38,22 +40,41 @@ After receiving the system I was able to confirm the Case was manufactured by Li
 
 - Also as an added bonus the system came with an LG Blu-ray  drive WH14NS40 installed which is worth nearly $100 on its own. 
 
-- Very impressed with Velocity Micro, the system uses quality parts and was well put together, good cable management, nothing was loose or rattling around even after this used system was shipped across the country.
+    ![LG Blu-ray Drive](LGBlueRay.JPG)
+
+- I am very impressed with [Velocity Micro](https://velocitymicro.com/), the system used quality parts and was well put together, good cable management, nothing was loose or rattling around even after this used system was shipped across the country.
+  
+![First run test hard drive not mounted](FirstRunTest.jpg)
 
 ## Fixes needed to get started using this as my primary system
 
 ### No Hard drive mounting brackets / screws
 
-As it was received I was a bit short on a few things, no GPU, but it does have integrated GPU, so that was enough to get the thing running . The other  issues was hard drives, this cases requires something special to mount the 3.5" disk drives, it did not have the needed parts. I need to be able to move over the four drives from the Mac Pro and not have then laying loose in the case. Luckily this was a Velocity Miro build, and I was able to contact support, and they mailed me out a parts bag for like $20
+As it was received I was a bit short on a few things, no GPU, but it does have integrated GPU, so that was enough to get the thing running . The other  issues was hard drives, this cases requires something special to mount the 3.5" disk drives, it did not have the needed parts. I need to be able to move over the four drives from the Mac Pro and not have then laying loose in the case. Luckily this was a Velocity Miro build, and I was able to contact support, and they mailed me out an extra parts bag for like $20
+
+   ![Drive Mounting Parts](VelocityMicroHardDriveMountingScrews.jpg)
+   ![Drive parts on the ssd drive](DriveMountingPartsInstalled.jpg)
+   ![Drive properly installed](driveProperlyInstalled.jpg)
 
 ### No GPU
-
+![evga gtx 1050 ti from facebook Marketplace](gtx1050ti.jpg)
 The GPU part I solved with Facebook marketplace, I found a whole computer with an Nvidia GTX 1050 Ti GPU for $100, which at the time was what the GPU itself was worth. So I picked it up and some more problems with it, another case although this one was a missing side door and GPU with a missing L mounting bracket to fully secure it in the case. But all things considered I received another whole working computer for only $100 so it was another good deal.
+
+![evga gtx 1050 ti from facebook Marketplace showing missing bracket piece](gtx1050ti_missingBracket.jpg)
+
+![evga gtx 1050 ti improvised bracket method using zip ties and gpu support](GPUInstalledBestAsICouldRig.jpg)
 
 ### The original Lian Li Blue LED fans needed to be replaced 
 
+![Lian li blue LED fan](BlueLEDFanGlory.jpg)
+
+[Lian li blue LED fan video with fan noise](LianLiOrginalFanNoise.MOV)
+
 The case fans had to go, they were the original Lian Li that came with case.  In fact, they were so old that they did not even support PWM like the motherboard in the system did. I am guessing this system was upgraded by Velocity Micro to the Z-87 board as part of system refresh / update, something you can do at any time with your old system send it back to Velocity Micro to have them upgraded for you, very nice. Anyway the fans had a lot of bearing noise a sound similar to crickets chirping but at a lower pitch. I found three [Noctua NF-P12 Redux-1700 rpm PWM 120 mm  fans](https://noctua.at/en/nf-p12-redux-1700-pwm) used on eBay. I bought the quiet server fans, which replaced the chirping with the quiet roar of airflow. At some point I may try to find something more quiet but for now these work well enough, I would like a little more quiet, like the Mac Pro is sans its Linux GPU driver trouble noise which on its on rivals and exceeds the entire array of all the fans in Velocity Micro system combined.
 
+![Noctua NF-P12 Redux-1700 rpm PWM 120 mm  fans](NoctuaFanUpgrade.jpg)
+
+[Noctua fan video with sound as installed](Noctua.MOV)
 
 ## Other changes made after using the system for almost a year
 
