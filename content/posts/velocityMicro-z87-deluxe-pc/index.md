@@ -57,40 +57,71 @@ As it was received I was a bit short on a few things, no GPU, but it does have i
    ![Drive properly installed](driveProperlyInstalled.jpg)
 
 ### No GPU
-![evga gtx 1050 ti from facebook Marketplace](gtx1050ti.jpg)
-The GPU part I solved with Facebook marketplace, I found a whole computer with an Nvidia GTX 1050 Ti GPU for $100, which at the time was what the GPU itself was worth. So I picked it up and some more problems with it, another case although this one was a missing side door and GPU with a missing L mounting bracket to fully secure it in the case. But all things considered I received another whole working computer for only $100 so it was another good deal.
+![Evga gtx 1050 ti from facebook Marketplace](gtx1050ti.jpg)
+The GPU part I solved with Facebook marketplace, I found a whole computer with an Evga Nvidia GTX 1050 Ti GPU for $100, which at the time was what the GPU itself was worth. So I picked it up and some more problems with it, another case although this one was a missing side door and GPU with a missing L mounting bracket to fully secure it in the case. But all things considered I received another whole working computer for only $100 so it was another good deal.
 
-![evga gtx 1050 ti from facebook Marketplace showing missing bracket piece](gtx1050ti_missingBracket.jpg)
+![Evga gtx 1050 ti from facebook Marketplace showing missing bracket piece](gtx1050ti_missingBracket.jpg)
 
-![evga gtx 1050 ti improvised bracket method using zip ties and gpu support](GPUInstalledBestAsICouldRig.jpg)
+![Evga gtx 1050 ti improvised bracket method using zip ties and gpu support](GPUInstalledBestAsICouldRig.jpg)
 
 ### The original Lian Li Blue LED fans needed to be replaced 
 
 ![Lian li blue LED fan](BlueLEDFanGlory.jpg)
 
-[Lian li blue LED fan video with fan noise](LianLiOrginalFanNoise.MOV)
+<div>
+<video controls width="50%">
+  <source src="LianLiOriginalFanNoise.webm" type="video/webm" />
 
-The case fans had to go, they were the original Lian Li that came with case.  In fact, they were so old that they did not even support PWM like the motherboard in the system did. I am guessing this system was upgraded by Velocity Micro to the Z-87 board as part of system refresh / update, something you can do at any time with your old system send it back to Velocity Micro to have them upgraded for you, very nice. Anyway the fans had a lot of bearing noise a sound similar to crickets chirping but at a lower pitch. I found three [Noctua NF-P12 Redux-1700 rpm PWM 120 mm  fans](https://noctua.at/en/nf-p12-redux-1700-pwm) used on eBay. I bought the quiet server fans, which replaced the chirping with the quiet roar of airflow. At some point I may try to find something more quiet but for now these work well enough, I would like a little more quiet, like the Mac Pro is sans its Linux GPU driver trouble noise which on its on rivals and exceeds the entire array of all the fans in Velocity Micro system combined.
+  Playback is not working download 
+  <a href="LianLiOriginalFanNoise.webm">Lian Li fan noise video in WEBM format</a>
+  video.
+</video>
+</div>
+
+The case fans had to go, they were the original Lian Li that came with case.  In fact, they were so old that they did not even support PWM like the motherboard in the system did. I am guessing this system was upgraded by Velocity Micro to the Z-87 board as part of system refresh / update, something you can do at any time with your old system send it back to Velocity Micro to have them upgraded for you, very nice. Anyway the fans had a lot of bearing noise a sound similar to crickets chirping but at a lower pitch. I found three [Noctua NF-P12 Redux-1700 rpm PWM 120 mm  fans](https://noctua.at/en/nf-p12-redux-1700-pwm) used on eBay. I bought the quiet server fans, which replaced the chirping with the quiet roar of airflow. At some point I may try to find something more quiet but for now these work well enough, I would like a little more quiet, like the Mac Pro is sans its Linux GPU driver trouble noise which on its on rivals and exceeds the entire array of all the fans in Velocity Micro system combined in terms of level of annoyance.
 
 ![Noctua NF-P12 Redux-1700 rpm PWM 120 mm  fans](NoctuaFanUpgrade.jpg)
 
-[Noctua fan video with sound as installed](Noctua.MOV)
+<div>
+<video controls width="250">
+  <source src="Noctua.webm" type="video/webm" />
+
+Playback is not working download the
+  <a href="Noctua.webm">Noctua fan sound video in WEBM format</a>
+  video.
+</video>
+</div>
 
 ## Other changes made after using the system for almost a year
 
 - removed the blue Logo back lighting board
-- Added intake filter mesh
+- Put masking tape over the blue HDD activity LED, it was too bright and annoying.
+- Added intake filter mesh to the front of the case.
+
+![Intake Air Filters added](IntakeMeshFiltersInstalled.jpg)
 
 Lastly I had to remove the front logo LED board. It was just too blue  and bright especially at night, I know the blue LED was a marvelous innovation of the 2000s era, but I have never been a fan, I still prefer the green LED everywhere over the blue ones.
 
 ## Future changes
 
-- Upgrade the CPU cooler , since the stock intel one can sound a bit like a steam train whistle off far in the distance. Would like to have try to fit in a [Noctua NH-D14 CPU cooler](https://noctua.at/en/nh-d14) if it will fit in the case. Want to try to get to a system that does not change its noise level based on the CPU load, I want it to be quiet all the time.
-- 
-- RGB Fan for the lower intake to add some custom LED lighting effects and at some light back to the front case in a more controllable manner
+- Upgrade the CPU cooler , since the stock intel one can sound a bit like a steam train whistle off far in the distance. Would like to try to fit in a [Noctua NH-D14 CPU cooler](https://noctua.at/en/nh-d14). Want to try to get to a system that does not change its noise level based on the CPU load, I want it to be quiet all the time.
+
+- Try some quieter fans like the [Noctua NF-S12B redux-1200 PWM](https://noctua.at/en/nf-s12b-redux-1200-pwm) or the [Noctua NF-S12A PWM](https://noctua.at/en/products/fan/nf-s12a-pwm)
+
+- Add single  a ARGB Fan to the lower 120MM intake to add some custom LED lighting effects to show the CPU Load, but have it be off or extremely dim when the system is during overnight hours. 
+
+- TRy adding a sata raid for boot and home partition to try and get closer to 2x performance.
+
+- Try the hack to be able to add in PCIE Nvme to a Z87.
 
 - Upgrade to a newer Motherboard, a NVME upgrade would be a huge improvement since my current workflows if trying to do too much at once easily swamps the I/O of the sata SSDs I have.
 
-- Upgrade the GPU maybe someday when I really need a faster one.
+- Upgrade the GPU when I really need a faster one.
 
-- Replace the cracked side plexiglass door panel. 
+- Replace the cracked clear Acrylic side door panel.
+
+![Cracked side door panel](CrackedAcrylic.jpg)
+
+## Conclusion
+
+I am exceedingly happy with this system and the system builder [Velocity Micro](https://www.velocitymicro.com), it has been a great upgrade over the Mac Pro 3,1. and I am happy to have found this system which is exactly what I needed at the right time, and look forward to making changes and customizing this classic style system for years to come.
