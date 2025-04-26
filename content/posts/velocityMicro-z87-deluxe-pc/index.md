@@ -1,7 +1,7 @@
 ---
 title: "Velocity Micro GX2 Case with Asus Z87 Deluxe Motherboard"
 date: 2025-04-14T15:22:54-07:00
-draft: true
+draft: false
 ---
 
 ## Backstory
