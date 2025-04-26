@@ -30,7 +30,7 @@ The selling points for me:
 
 -  Lian Li case with room for many drives including three 5.25" bays, five 3.5" bays and the thing even has wheels and a brake lever too.
 
-- Asus Z-87 Deluxe Motherboard with tons of Sata ports and plenty of PCIE slots.
+- [Asus Z-87 Deluxe Motherboard]({{<ref "posts/asus-z87-deluxe-motherboard">}}) with tons of Sata ports and plenty of PCIE slots.
 
 - And a former high-end [Intel i7 4770K As you can see quite a nice upgrade over the Dual Xeon E5462 Mac Pro](https://www.cpubenchmark.net/compare/1919vs1237.2/Intel-i7-4770K-vs-Intel-Xeon-E5462)
 
