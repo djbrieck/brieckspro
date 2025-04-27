@@ -1,7 +1,7 @@
 ---
 title: "How to get the hostname from an IP Address on Windows"
 date: 2025-04-25T21:05:49-07:00
-draft: true
+draft: false
 ---
 
 This can be done using the standard [ping](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping) command on [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows).
