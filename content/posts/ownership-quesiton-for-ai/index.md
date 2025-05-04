@@ -1,12 +1,12 @@
 ---
-title: "Responses ownership Question for AI"
+title: "Question for AI: Who owns the responses?"
 date: 2025-04-29T21:30:22-07:00
 draft: true
 ---
 
 ## Introduction
 
-While I was trying out [Microsoft Copilot](https://copilot.microsoft.com/) I had an interesting idea, since as I was asking questions I could recognize some of the results returned looked very similar to the same results you would expect to see from a normal web search engine's results. For code related question I was seeing a lot of the same good old [stack overflow](https://stackoverflow.com/questions) responses cited and referenced in the response. And results on Copilot may not always show complete attribution to the sources found for responses that are generated. So I had the natural question of asking Copilot itself "Who owns the output generated here?". The following is the response as provided by Microsoft Copilot.
+While I was trying out [Microsoft Copilot](https://copilot.microsoft.com/) I had an interesting idea, since as I was asking questions I could recognize some of the programming related results returned looked very similar to the results I would expect to see from a web search engine's. For example, coding related question I was seeing many [stack overflow](https://stackoverflow.com/questions) responses cited and referenced in the response. And results on Copilot other systems may not show complete attribution to the sources found for responses that are generated. So I had the natural question of asking Copilot itself "Who owns the output generated here?". The following is the response as provided by Microsoft Copilot.
 
 ## The question for AI 
 
@@ -66,25 +66,27 @@ AIA:
 
 My stance on this is maybe ownership is shared between who is asking the questions, the owner' of the AI assistant and whoever generated the training data used in the response.
 
-Something what is the training data? If it's a scanned index of context crawled from the web for example the bing search index, then attribution should go back to the sources or the training data used since that is what influenced the AI in drawing a conclusion from its data set.
-Additionally, if this is the case then a portion of the profits generated using / selling  Copilot  service should go back to fund the sources used in generating and training the AI. Since it's not really clear on where this information comes from or how the AI was trained it does leave a gray area in place.
+Something what is the training data? If it's a scanned index of context crawled from the web for example a bing or google search index, then attribution should go back to the sources or the training data used since that is what influenced the AI in constructing a conclusion from its data set.
+Additionally, if this is the case then a portion of the profits generated using / selling  AI service should go back to fund the sources used in generating and training the AI itself. Since it's not really clear on where this information comes from or how the AI was trained it does leave a gray area in place.
 
 ## The shady side
 
 
-Now this is a real kicker, but I think this is maybe a reason for AI. Ingest all sorts of data slap an algorithm in place claim no ownership or make use of said data without attribution, payment or reference to any of the original information sources. I am curious to see but are there cases of unique information cited but without the source noted, provided as a AI response without attribution or citation.
+Now this is a real kicker, but I think this is maybe a reason for AI. Ingest all sorts of data slap an algorithm in place claim no ownership or make use of someone else's data without attribution, payment or reference to any of the original source/s. I am curious to see but are there cases of unique information cited but without the source noted.
+ 
+> If the source material isn't specifically quoted, there's no requirement for citations from an IP standpoint
 
-   "If the source material isn't specifically quoted, there's no requirement for citations from an IP standpoint"
+With that in mind how does the system track what is cited vs un-cited responses?
 
-With that in mind how does the system track what is cited vs un-cited responses.
+ This system may or could be used to conceal where the answers came from and make it difficult to understand if the answer is trustworthy and reasonable answer or just something common in the training data. Something to be mindful of when using AI tools, and always a reason to try and understand and check the responses, and not just trust the system to always provide a right good or just answer for the question/s asked.
 
+Also becoming reliant on these tools allows developers to get lazy and understand less and come to rely on this third party tool which will un-doubtable be held high above the people using it. Also, this allows leverage from the owners of the AI to charge what ever they want for it. Since after a while user of this tooling may become addicted and dependent on using its output, to stay competitive in the job market.
 
- This system may or could be used to conceal where the answers came from and make it difficult to understand if the answer is trustworthy answer or just something common in the training data. Something to be mindful of when using AI tools, and always a reason to try and understand and check the responses, and not just trust the system to always provide a right answer for the question asked.
+Already starting at a steep $20 plus a month. In the future once you depend on this, who ever runs the show can say pay our fees or lose your enhanced productivity since you become good at using this tooling. This seems like a potential opportunity for dependence on this technology. Which is going to be extremely profitable to those running these systems. This next big thing really has the potential to become more evil than ever.
 
-Also becoming reliant on these tools allows developers to get lazy and understand less and come to rely on this third party tool which will un-doubtable be held high above the people using it. Also this allows leverage from the owners of the AI to charge what ever they want for it. Since after a while user of this tooling will become addicted and dependent on it.
+Also, there appears to be a barrier to entry to AI as well where better results may be possible with better computer power and larger data sets something that may be beyond the budget of a single individual user or small business. For example high-end Computer Graphics cards designed with AI power amd features cost $2500 USD or more, which is the most expensive I have ever seen a graphics card selling for new. 
 
-Already starting at a steep $20 plus a month. In the future once you depend on this, who ever runs the show can say pay or lose your enhanced productivity since you become good at using this tooling. This seems like a potential opportunity for dependence on this technology. Which is going to be extremely profitable to those running these systems. This next big thing really has the potential to become more evil than ever. 
 
 ## Conclusion
 
-AI can be a great productivity boost assistant and is the most interesting innovation in a long time in software development. It important to consider the less talked about topics like ownership and attribution of AI generated content. What do you think about who owns the response?
+AI can be a great productivity boost assistant and is the most interesting innovation in a long time in software development and more. It important to consider the less talked about topics like ownership and attribution of AI generated content. What do you think about who owns the response?
