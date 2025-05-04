@@ -1,7 +1,7 @@
 ---
 title: "Question for AI: Who owns the responses?"
 date: 2025-04-29T21:30:22-07:00
-draft: true
+draft: false
 ---
 
 ## Introduction
