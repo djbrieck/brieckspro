@@ -3,7 +3,7 @@ title: "Asus Z87 Deluxe Motherboard User Guide"
 date: 2025-05-05T15:10:02-07:00
 draft: false
 ---
-Inherited one of these boards with the purchase of the used [see My Velocity Micro PC review]({{<ref "posts/velocitymicro-z87-deluxe-pc">}}) which is turning out to be a great Mac Pro alternative.
+Inherited one of these motherboards with the purchase of a used  [Velocity Micro PC](https://velocitymicro.com/)  which is turning out to be a great [Apple Mac Pro alternative see my Velocity Micro custom PC review](({{<ref "posts/velocitymicro-z87-deluxe-pc">}})). Here is my locally saved copy of the user guide PDF and basic reference information and links associated with this board that I keep having to go back too.
 
 ![Asus Z87-Deluxe installed](AsusZ87DeluxeInstalled.jpg)
 
