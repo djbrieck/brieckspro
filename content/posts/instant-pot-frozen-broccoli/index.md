@@ -1,10 +1,10 @@
 ---
-title: "Instant Pot Frozen Broccoli"
-date: 2023-07-24T17:41:33-07:00
+title: "Instant Pot Frozen Broccoli or Green Beans"
+date: 2025-05-05T19:45:33-07:00
 draft: false
 ---
 
-Here is how you can cook frozen broccoli using an Instant Pot.
+Here is how you can cook frozen broccoli or Green beans using an Instant Pot.
 
 1. Insert the stainless liner into instant pot
 
@@ -12,7 +12,7 @@ Here is how you can cook frozen broccoli using an Instant Pot.
 
 3. add 1/2 cup of water
 
-4. Add frozen broccoli
+4. Add frozen broccoli or green beans.
 
 5. Put lid on and set valve to sealing
 
