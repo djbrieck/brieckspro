@@ -1,14 +1,13 @@
 ---
 title: "Native Pixel Display a new definition on a old thing"
-date: 2024-10-31T06:12:11-07:00
+date: 2025-05-06T15:40:11-07:00
 draft: false
 ---
 ## Defining a Native Pixel Display
 Coining my own terms since I can and should.
 So let's do it, I am calling it "Native Pixel Display."
 This is effectively any 
-computer display that is usable without the use of any scaling or other forms of software magnification to have someone 
-with normal or corrected vision be able to read the content on the screen.
+computer display that is usable without the use of any scaling or other forms of software or hardware magnification to have a "readable" and usable screen.
 
 ## This is the historical standard
 
@@ -58,7 +57,7 @@ and has been one of the largest pieces of Screen real estate you could buy, sinc
 ## The biggest innovation since 2004 has been adding more pixel density, while maintaining the same or very similar working area
 
 How have we innovated since 2004, we added more pixels density, while maintaining a similar viewing area about the same 
-as this old 2K display standard. For example, a modern 4K computer monitor in the 27" to 30" range, must use image 
+as the old 2K display standard. For example, a modern 4K computer monitor in the 27" to 30" range, must use image 
 scaling to scale up the size of everything on the screen otherwise details are too small to be practical if viewed at 
 100% or native display scaling. This scaling technology started being called 
 [Retina](https://en.wikipedia.org/wiki/Retina_display) displays on Apple stuff and just scaling everywhere else.
@@ -106,6 +105,8 @@ image quality too, that would be a real upgrade over this existing workspace are
 In fact if you're willing to use the TV option, 8K TVs are available now in the 65" + plus range and can be purchased for around $1200 $1600 starting refurbished, which is very reasonable especially in the current world of pricey fancy monitors, for example Apple wants $1599 for a 5K Studio Display which would be about a 2.5K usable workspace in real screen estate. 
 
 With these TV you can do quite a lot with the 8K resolution, and you can pick how you want to scale it for example 4 3K worth of real estate or push it to the limit at native resolution with four 4K screens worth, this would only be slightly higher PPI than using a 43" 4K so could be usable at 65", but wow what an upgrade this will be when these start to come down in price. Also, you will need to factor in what computer / GPU you will need to drive this since not everything can drive a single 8K display.
+
+Someone else had the same idea see their experience of [Using an 8K TV as a monitor -  Daniel Lawrence Lu Blog](https://daniel.lawrence.lu/blog/y2023m12d15/)
 
 ### Some example 8K TVs
 
