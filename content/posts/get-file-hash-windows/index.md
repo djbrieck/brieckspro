@@ -34,7 +34,7 @@ eyeballing it or convert to lower case using something like [vim to quickly conv
 
 1. Copy the file hash for example, `F1BDF1C4C8E83DA4511A3D310A91609B707DD1E64ECEA08017C7C4A4AE001F0A` as provided by Get-FileHash, you can left double-click on the hash to highlight it, then right click with the mouse to copy to the clipboard.
 
-2. Paste in a PowerShell prompt, by right clicking at the input cursor.
+2. Paste in a PowerShell prompt, by right-clicking at the input cursor.
 3.  Edit the hash by adding single quotes at the start and the end of the hash
 
 4. Next add .toLower() following the quoted hash string, should look like the following:
