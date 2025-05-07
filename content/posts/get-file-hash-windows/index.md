@@ -1,6 +1,6 @@
 ---
 title: "How to get a hash for a file on Windows 10 + ?"
-date: 2024-04-24T13:53:42-07:00
+date: 2025-05-07T15:14:42-07:00
 draft: false
 ---
 
