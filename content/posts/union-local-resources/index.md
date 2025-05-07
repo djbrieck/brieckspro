@@ -1,6 +1,6 @@
 ---
 title: "Union Local Resources and Business"
-date: 2025-03-19T17:45:00-07:00
+date: 2025-05-07T15:51:00-07:00
 draft: false 
 ---
 
@@ -25,13 +25,13 @@ Union Elementary](https://www.union.k12.or.us/)
 
 - [The Union Merc](https://www.facebook.com/profile.php?id=100089977361547&mibextid=LQQJ4d)
 
-- [Masons - Grande Ronde Valley Lodge 56](https://www.masonpost.com/or/granderondevalley56/profile.html)+
+- [Grande Ronde Valley Lodge 56](https://k51qzi5uqu5dmen2sxskknnyn1u83mpthgwhf4qt6h6q0u6ii8f79h8uj8dvxh.ipns.dweb.link/)
 
 - [United States Postal Service Union Post Office](https://tools.usps.com/locations/details/1385396)
 
 - [Hometown Hardware](https://www.facebook.com/profile.php?id=100057097524489)+
 
-- OBie’s Hair Salon ?
+- [OBie’s Hair Salon](https://www.facebook.com/profile.php?id=100075861736690)+
 
 - [Parkstone Manufacturing](https://parkstone.rocks/)
 
@@ -56,6 +56,8 @@ Union Elementary](https://www.union.k12.or.us/)
 ## East Side - South Bound Towards North Powder
 
 - [Platz Family Farm](https://www.platzfamilyfarm.com/)
+
+- [Dora's Garden](https://www.dorasgarden.com/)
 
 - [Eastern Oregon Livestock Show](https://www.easternoregonlivestockshow.com/)
 
@@ -102,3 +104,5 @@ Union Elementary](https://www.union.k12.or.us/)
 - [RPM Storage by Catherine Creek Property Management](https://catherinecreekpm.com/)
 
 - [Union Baptist Church](https://ublogchurch.org/)
+
+Sites with `+` following need updates or something custom created to cover the basics that may be missing.
