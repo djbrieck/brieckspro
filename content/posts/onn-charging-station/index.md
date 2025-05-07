@@ -1,6 +1,6 @@
 ---
 title: "onn. 100W Multi-Port Charging Station 3-in-1 Charger, for Laptop and iPhone, White Review"
-date: 2024-11-18T05:10:44-08:00
+date: 2025-05-06T16:10:44-08:00
 draft: false
 ---
 
@@ -29,6 +29,16 @@ Three Device charging is less ideal with both non laptop marked ports being lock
 
 This is a decent charger and does its job quite well, wish it was available for purchase all the time, unfortunately the deal I got was a one time one, and as of writing this post, its no longer available on Walmart.com for order new for around $30. The power output and value is quite good for this charger, Looks around at what you can get anywhere close to the price range, hard to find 65Watt laptop output and 2 other ports with standard legacy power (around 5V 2A output each). So for now the only thing that even comes close to this charger in price and features is the [Amazon Basics 100 Watt charger](https://www.amazon.com/AmazonBasics-Four-Port-Charger-USB-C-Ports/dp/B087MDYP24) and a 6+ foot extension cord, which will cost you quite a bit more than $15 - $30
 
+
+## Weight Specs 
+
+- Total charger and cord weight 379g  or 13.3 oz
+
+- 282g or 9.95 oz for just the charger no cord
+
+## Original Box Scanned
+
+[Surf Onn. Multi-Port Charing Station Box Scanned - PDF](onnMultiPortChargingStation100WBox.pdf)
 
 ## Below is the original marketing info and photos from Walmart.com.
 
