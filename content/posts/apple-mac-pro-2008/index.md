@@ -8,6 +8,7 @@ Another reference for this information on the Apple Mac Pro 2008 aka 3,1
 
 ## Technical Specifications
 [Mac Pro (Early 2008) - Technical Specifications - Apple](https://support.apple.com/en-us/112308)
+
 [Mac Pro (Early 2008) - Technical Specifications - PDF](Mac%20Pro%20(Early%202008)%20-%20Technical%20Specifications%20-%20Apple%20Support.pdf)
 
 - Processor installed in mine [Dual Intel Xeon E5462 - PassMark CPU Benchmark](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Xeon+E5462+%40+2.80GHz&id=1237&cpuCount=2)
