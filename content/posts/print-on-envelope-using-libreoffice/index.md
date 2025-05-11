@@ -1,7 +1,7 @@
 ---
 title: "How to print mailing details on an envelope using LibreOffice"
 date: 2025-05-09T17:25:14-07:00
-draft: true
+draft: false
 ---
 
 Don't handwrite those return and to address on your repeating bill envelopes. Print them right on your own envelops using [LibreOffice](https://www.libreoffice.org/).
