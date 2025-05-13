@@ -1,5 +1,5 @@
 ---
-title: "The missing IPFS Cluster Basic Setup introduction"
+title: "The missing IPFS Cluster Basic Setup guide"
 date: 2025-05-12T15:54:18-07:00
 draft: false
 ---
