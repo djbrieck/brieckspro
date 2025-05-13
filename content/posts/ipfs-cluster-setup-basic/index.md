@@ -6,31 +6,33 @@ draft: false
 
 ## Introduction
 
-I was confused into thinking [IPFS Cluster](https://ipfscluster.io/) was more compilated to get start by looking at this [Cluster Quickstart](https://ipfscluster.io/documentation/quickstart/) honestly never made it to the Production deployment section since I did not feel like I need that yet, since I thought I am doing development not production yet. 
+I initially thought [IPFS Cluster](https://ipfscluster.io/) was complicated after looking at the [Cluster Quickstart](https://ipfscluster.io/documentation/quickstart/). I didn’t even reach the Production deployment section, thinking it wasn’t necessary for development.
 
-Anyway, I have been needing to set up a [IPFS Cluster](https://ipfscluster.io/) for a long time.  It has been a lot of work manually managing stuff between 2-3 ipfs peers. I even threw this question to [Microsoft Copilot 'how to setup ipfs cluster outside of the cloud'](https://copilot.microsoft.com/shares/3Vh5dCWLdj3akT1szkvGm) which helped me get a clue, and then I was able to go back and read all the documentation, yep it's that simple, so anyway here is a simple getting started guide that does not need docker or anything other than your computer running some kind of Linux.
+Setting up an [IPFS Cluster](https://ipfscluster.io/) has been long overdue. Managing 2-3 IPFS peers manually was tedious. After some research, including using [Microsoft Copilot](https://copilot.microsoft.com/shares/3Vh5dCWLdj3akT1szkvGm), I finally understood the process. Here’s a simple guide to get started without Docker or cloud services—just Linux.
 
-## **Stuff needed to run an IPFS Cluster:**
+## **Requirements for IPFS Cluster:**
 
-1. ipfs, already have it installed and running as systemd service.
+1. **IPFS**: Ensure it’s installed and running as a systemd service.
 
-2. I need to install two more programs to `/usr/local/bin` **ipfs-cluster-service** and **ipfs-cluster-ctl** .
+2. **Install additional tools**: Download **ipfs-cluster-service** and **ipfs-cluster-ctl** to `/usr/local/bin` from [IPFS Cluster Download and Installation](https://ipfscluster.io/documentation/deployment/setup/).
 
-   All of which is available at [IPFS Cluster Download and installation](https://ipfscluster.io/documentation/deployment/setup/)
-
-3. Initialize the cluster service on each peer, this will generate cluster secrets:
-    ``
+3. **Initialize the cluster**: Run the following on each peer to generate cluster secrets:
+    ```sh
     ipfs-cluster-service init
-    ``
+    ```
 
-4. Simple pick a secret from one of the init commands on one of the peers and edit each other nodes `service.json` cluster secret value to match between all the peers in your cluster.
+4. **Set a shared secret**: Choose a secret from one peer’s `service.json` and update the `cluster secret` value on all other peers to match.
 
-5. Start and run the `ipfs-cluster-service daemon` like so or set it up to run as another systemd service.
+5. **Start the cluster service**: Run the
+    ```sh
+    ipfs-cluster-service daemon
+    ``` 
+    or configure ipfs-cluster-service to run as a systemd service.
 
-6. Update  workflow to add/pin using [ipfs-cluster-ctl](https://ipfscluster.io/documentation/reference/ctl/) instead of the [ipfs](https://bafybeigomvp25jgkrb7s6xen2ii6zjmhsij2zaxpy3xm5ypt2fb3e3hny4.ipfs.dweb.link/reference/kubo/cli/#ipfs) command.
+6. **Update your workflow**: Use [ipfs-cluster-ctl](https://ipfscluster.io/documentation/reference/ctl/) for pinning instead of the [ipfs](https://bafybeigomvp25jgkrb7s6xen2ii6zjmhsij2zaxpy3xm5ypt2fb3e3hny4.ipfs.dweb.link/reference/kubo/cli/#ipfs) command.
 
-7. And now with that you can keep your ipfs pins in sync with a lot less manual work.
+7. **Sync pins**: With the cluster set up, your IPFS pins will stay synchronized with minimal manual effort.
 
-## Conclusion 
-This is the bare minimum you need to set up a cluster, and you can get it going pretty quick no need to involve docker or cloud servers yet, just the right software: **ipfs, ipfs-cluster-service, and ipfs-cluster-ctl** needs to be installed locally, a good network connection and a **shared cluster secret** is all that is needed to get it running.
+## Conclusion
 
+This guide covers the basics to quickly set up an IPFS Cluster without Docker or cloud servers. You only need **ipfs**, **ipfs-cluster-service**, and **ipfs-cluster-ctl** installed locally, a good network connection, and a **shared cluster secret** to get started.
