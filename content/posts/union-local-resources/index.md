@@ -1,57 +1,10 @@
 ---
 title: "Union Local Resources and Business"
-date: 2025-05-07T15:51:00-07:00
+date: 2025-05-20T20:07:00-07:00
 draft: false 
 ---
 
 A list of local resources in Union, Oregon [97883](https://www.unitedstateszipcodes.org/97883/).
-
-## West Side - North Bound Towards La Grande
-
-- [Jo's Fabric & Craft](https://www.yelp.com/biz/jos-fabric-and-craft-union?adjust_creative=duckduckgo)
-
-- [La Grande Mini Storage](https://www.lagrandeministorage.com/)
-
-- [Union High School | Union Middle |
-Union Elementary](https://www.union.k12.or.us/)
-
-- [City of Union](https://cityofunion.com/)
-
-- [City of Union Chamber of Commerce](https://cityofunionchamber.com/)
-
-- [Business Directory - City of Union Chamber of Commerce](https://cityofunionchamber.com/business-directory/)
-
-- [RattleTale](https://k51qzi5uqu5dgtvtf0l8i0x0ymdxb84vvs7mcpjzs1dae5wizjol212xit3qrk.ipns.dweb.link/)
-
-- [The Union Merc](https://www.facebook.com/profile.php?id=100089977361547&mibextid=LQQJ4d)
-
-- [Grande Ronde Valley Lodge 56](https://k51qzi5uqu5dmen2sxskknnyn1u83mpthgwhf4qt6h6q0u6ii8f79h8uj8dvxh.ipns.dweb.link/)
-
-- [United States Postal Service Union Post Office](https://tools.usps.com/locations/details/1385396)
-
-- [Hometown Hardware](https://www.facebook.com/profile.php?id=100057097524489)+
-
-- [OBie’s Hair Salon](https://www.facebook.com/profile.php?id=100075861736690)+
-
-- [Parkstone Manufacturing](https://parkstone.rocks/)
-
-- [Union Stoplight](https://www.facebook.com/profile.php?id=100063703503456)+
-
-- [Sacred Heart Catholic Church](https://olvcatholic.org/about-olv/mission-parishes/)
-
-- [Point Prominence Press](https://www.pointprominence.com/)
-
-- [Union Market](https://unionmarketoregon.com/)
-
-- [Union Carnegie Library](https://cityofunion.com/directory/city-library/)+
-
-- [Historic Union Hotel](https://thehistoricunionhotel.com/)
-
-- [Veterans of Foreign Wars High Valley Post 4060](https://vfw4060.org/)
-
-- [The Church Of Jesus Christ of Latter-Day Saints](https://local.churchofjesuschrist.org/en/us/or/union/702-north-main-street)
-
-- [Catherine Creek Hides](https://www.catherinecreekhides.com/)
 
 ## East Side - South Bound Towards North Powder
 
@@ -104,5 +57,54 @@ Union Elementary](https://www.union.k12.or.us/)
 - [RPM Storage by Catherine Creek Property Management](https://catherinecreekpm.com/)
 
 - [Union Baptist Church](https://ublogchurch.org/)
+
+## West Side - North Bound Towards La Grande
+
+- [Jo's Fabric & Craft](https://www.yelp.com/biz/jos-fabric-and-craft-union?adjust_creative=duckduckgo)
+
+- [La Grande Mini Storage](https://www.lagrandeministorage.com/)
+
+- [Union High School | Union Middle |
+Union Elementary](https://www.union.k12.or.us/)
+
+- [City of Union](https://cityofunion.com/)
+
+- [Union County Elections and Union Ballot Drop Box Information ](https://unioncountyor.gov/county-clerk/elections/)
+
+- [City of Union Chamber of Commerce](https://cityofunionchamber.com/)
+
+- [Business Directory - City of Union Chamber of Commerce](https://cityofunionchamber.com/business-directory/)
+
+- [RattleTale](https://k51qzi5uqu5dgtvtf0l8i0x0ymdxb84vvs7mcpjzs1dae5wizjol212xit3qrk.ipns.dweb.link/)
+
+- [The Union Merc](https://www.facebook.com/profile.php?id=100089977361547&mibextid=LQQJ4d)
+
+- [Grande Ronde Valley Lodge 56](https://k51qzi5uqu5dmen2sxskknnyn1u83mpthgwhf4qt6h6q0u6ii8f79h8uj8dvxh.ipns.dweb.link/)
+
+- [United States Postal Service Union Post Office](https://tools.usps.com/locations/details/1385396)
+
+- [Hometown Hardware](https://www.facebook.com/profile.php?id=100057097524489)+
+
+- [OBie’s Hair Salon](https://www.facebook.com/profile.php?id=100075861736690)+
+
+- [Parkstone Manufacturing](https://parkstone.rocks/)
+
+- [Union Stoplight](https://www.facebook.com/profile.php?id=100063703503456)+
+
+- [Sacred Heart Catholic Church](https://olvcatholic.org/about-olv/mission-parishes/)
+
+- [Point Prominence Press](https://www.pointprominence.com/)
+
+- [Union Market](https://unionmarketoregon.com/)
+
+- [Union Carnegie Library](https://cityofunion.com/directory/city-library/)+
+
+- [Historic Union Hotel](https://thehistoricunionhotel.com/)
+
+- [Veterans of Foreign Wars High Valley Post 4060](https://vfw4060.org/)
+
+- [The Church Of Jesus Christ of Latter-Day Saints](https://local.churchofjesuschrist.org/en/us/or/union/702-north-main-street)
+
+- [Catherine Creek Hides](https://www.catherinecreekhides.com/)
 
 Sites with `+` following need updates or something custom created to cover the basics that may be missing.
