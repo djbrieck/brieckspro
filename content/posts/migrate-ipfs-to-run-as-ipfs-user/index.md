@@ -4,46 +4,91 @@ date: 2025-05-20T20:01:14-07:00
 draft: true
 ---
 
+## Introduction
+
+If you have set up an ipfs daemon to run as your standard linux user and would like to change to using a dedicated ipfs user, below are the steps to get that done. Here is how you move your ipfs data and systemd daemon to an IPFS user. This will isolate your data and home directory from the ipfs user and processes. 
 
 
-1. Create the ipfs user
+## Making the IPFS user and moving your data and systemd process to run as the ipfs user.
 
-   	sudo useradd -m -s /bin/bash ipfs
+1. **Create the ipfs user**
+   ```sh
+   sudo useradd -m -s /bin/bash ipfs
+   ```
 
-2. Stop ipfs
+2. Stop the  IPFS service
+   ```sh
    sudo systemctl stop ipfs
+   ```
 
-3. Move the IPFS repo from me to the new ipfs user
+3. Move the IPFS data repository 
+   ```sh
    sudo mv ~/.ipfs /home/ipfs/
+   ```
 
-4. Change owner to ipfs user
+4. Change ownership to ipfs user
+   ```sh
    sudo chown -R ipfs:ipfs /home/ipfs/.ipfs
+   ```
 
 5. Switch to ipfs user
+   ```sh
    sudo su - ipfs
+   ```
 
 6. Start ipfs daemon as the ipfs user to make sure it works
-
+   ```sh
    ipfs daemon
+   ```
 
 7. Stop the daemon
-   Press Control - c on the keyboard.
+   Press <kbd>Control</kbd> - <kbd>c</kbd> on the keyboard.
 
 8. exit running as ipfs user
+   ```sh
    exit
+   ```
 
-8. Disable ipfs
+8. Disable the ipfs systemd service that was set up to run as yourself. 
+   ```sh
    sudo systemctl disable ipfs
+   ```
 
-9. Update the systemd file for ipfs with the ipfs user version
+9. Update the [ipfs.service](ipfs.service) systemd file to the ipfs user version as follows. This file is usually located here `/etc/systemd/system/ipfs.service`
 
-# Update the script to use the ipfs user
-https://raw.githubusercontent.com/hsanjuan/ansible-ipfs-cluster/master/roles/ipfs/templates/etc/systemd/system/ipfs.service
+```systemd
+[Unit]
+Description=IPFS daemon
+After=network.target
 
-10. Re enable the ipfs service
-    sudo systemctl enable ipfs
+[Service]
+Type=notify
+User=ipfs
+Group=ipfs
+StateDirectory=ipfs
+TimeoutStartSec=10800
+MemorySwapMax=0
+ExecStart=/usr/local/bin/ipfs daemon
+
+Restart=on-failure
+KillSignal=SIGINT
+
+[Install]
+WantedBy=multi-user.target
+```
+
+10. Re-enable the ipfs service
+   ```sh
+   sudo systemctl enable ipfs
+   ```
 
 11. Restart the ipfs service now running as the ipfs user
+   ```sh
+   sudo systemctl start ipfs
+   ```
 
-    	sudo systemctl start ipfs
+## Resources
 
+[IPFS Cluster Download and installation](https://ipfscluster.io/documentation/deployment/setup/)
+
+[ipfs.service - hsanjuan - GitHub User Content](https://raw.githubusercontent.com/hsanjuan/ansible-ipfs-cluster/master/roles/ipfs/templates/etc/systemd/system/ipfs.service)

@@ -1,0 +1,18 @@
+[Unit]
+Description=IPFS daemon
+After=network.target
+
+[Service]
+Type=notify
+User=ipfs
+Group=ipfs
+StateDirectory=ipfs
+TimeoutStartSec=10800
+MemorySwapMax=0
+ExecStart=/usr/local/bin/ipfs daemon 
+
+Restart=on-failure
+KillSignal=SIGINT
+
+[Install]
+WantedBy=multi-user.target
