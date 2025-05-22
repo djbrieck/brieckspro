@@ -1,5 +1,5 @@
 ---
-title: "Run IPFS command as IPFS User when logged in as yourself on Linux Mint 21.x"
+title: "Run IPFS commands as IPFS User when logged in as yourself on Linux Mint 21.x"
 date: 2025-05-20T05:58:31-07:00
 draft: true
 ---
