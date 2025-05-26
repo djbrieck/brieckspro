@@ -1,7 +1,7 @@
 ---
 title: "How to migrate running ipfs from your user to the ipfs user and group"
 date: 2025-05-20T20:01:14-07:00
-draft: true
+draft: false
 ---
 
 ## Introduction
@@ -86,6 +86,10 @@ WantedBy=multi-user.target
    ```sh
    sudo systemctl start ipfs
    ```
+
+## Conclusion 
+
+After running the above steps you should now have ipfs running as the ipfs user with your migrated data. To prepare for working with IPFS as your existing user see [Run IPFS commands as IPFS User when logged in as yourself on Linux Mint 21.x]({{<ref "posts/run-ipfs-commands-as-ipfs-user/">}}) 
 
 ## Resources
 
