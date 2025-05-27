@@ -25,9 +25,6 @@ How to run [ipfs](https://docs.ipfs.tech/reference/kubo/cli/#ipfs) commands  as 
 1. Add your user in my case it was `daniel` to the group
 ```sh
 sudo usermod -aG ipfs daniel
-
-#Skip the following line next time I try this and see if its required, if not remove.
-sudo chmod 644 /home/ipfs/.ipfs/config
 ```
 
 2. Apply new group setting to existing login session then logout / reboot to persist these settings as soon as possible.
