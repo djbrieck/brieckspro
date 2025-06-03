@@ -1,6 +1,6 @@
 ---
 title: "Union Local Resources and Business"
-date: 2025-05-20T20:07:00-07:00
+date: 2025-06-02T18:00:00-07:00
 draft: false 
 ---
 
@@ -85,7 +85,7 @@ Union Elementary](https://www.union.k12.or.us/)
 
 - [Hometown Hardware](https://www.facebook.com/profile.php?id=100057097524489)+
 
-- [OBie’s Hair Salon](https://www.facebook.com/profile.php?id=100075861736690)+
+- [Main Street Barbershop](https://www.facebook.com/mainstreetbarbershopunion)
 
 - [Parkstone Manufacturing](https://parkstone.rocks/)
 
