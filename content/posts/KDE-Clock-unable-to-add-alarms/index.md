@@ -9,6 +9,8 @@ add to the list of Alarms . Here is a fix I have found that works.
 
 ## The issue.
 
+![KDE Clock Window with Alarms Tab highlighted on the left. Then on the right No alarms configured and Alert text message at the bottom Saying Alarm with ring in 1 minute, which is certainly false in this case.](KDEClockMissingAlarm.png)
+
 You attempt to add an  Alarm to the Clock program under the Alarms section. You fill in the details and click Done and no Alarms are listed. You may see a brief pop up towards the bottom of the window saying Alarm will ring in x minutes, but will notice there are now no Alarms listed. When this happens the Alarm will not  work.
 
 ## A Solution that has worked for me.
