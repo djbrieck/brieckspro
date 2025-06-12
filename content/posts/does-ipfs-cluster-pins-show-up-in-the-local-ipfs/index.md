@@ -10,6 +10,8 @@ Do things that I pin directly to the ipfs cluster show up in the local ipfs pin 
 
 This is a question I can answer my self with an experiment.
 
+## The Experiment 
+
 I generated a simple test file and added it to the ipfs cluster.
 ```sh
 touch testfile.txt
@@ -29,7 +31,9 @@ The above hash also does show up in when I run the local
 ipfs pin ls --type=recursive
 ```
 
-So this does work as expected.  Pins you add with ipfs-cluster-ctl  will show up as pinned when running ipfs commands.
+## Clonclusion
 
-WARNING:
-if it does not show up then you may have multiple ipfs file systems on your computer. For example you have or had ipfs running as your personal user and now you have added an ipfs user. 
+So this does work as expected.  Pins you add with ipfs-cluster-ctl  will show up as pinned when running ipfs pin ls command, etc.
+
+**WARNING**:
+If it does not show up then you may have multiple ipfs file systems configured on your computer. For example, you are probably runing your ipfs cluster as a different user. 
