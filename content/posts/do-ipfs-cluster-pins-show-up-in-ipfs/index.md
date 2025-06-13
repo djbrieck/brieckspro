@@ -1,5 +1,5 @@
 ---
-title: "Does pins added via ipfs-cluster-ctl show up in local ipfs instance too"
+title: "Do pins added via ipfs-cluster-ctl show up in the local ipfs instance too"
 date: 2025-06-09T17:13:59-07:00
 draft: true
 ---
@@ -31,9 +31,9 @@ The above hash also does show up in when I run the local
 ipfs pin ls --type=recursive
 ```
 
-## Clonclusion
+## Conclusion
 
 So this does work as expected.  Pins you add with ipfs-cluster-ctl  will show up as pinned when running ipfs pin ls command, etc.
 
 **WARNING**:
-If it does not show up then you may have multiple ipfs file systems configured on your computer. For example, you are probably runing your ipfs cluster as a different user. 
+If it does not show up then you may have multiple ipfs file systems configured on your computer. For example, you are probably running your ipfs cluster as a different user. 
