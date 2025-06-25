@@ -4,17 +4,18 @@ date: 2025-06-25T05:44:51-07:00
 draft: true
 ---
 
-On  the main entrances side is Ice Cream and drinks. These are the doors on Adams and ........
+[The Local](https://www.localcoffeecream.com/) is a local spot for coffee, ice cream, and light breakfast or lunch options.
 
-In the back past glass door ice-cream freezers is the separate counter where the food orders are placed.
+The main two entrance doors are on Adams and Greenwood St. which leads you into the coffee and ice cream counter. Note that there is no on-site parking lot, only a drive-through and street parking.
 
-Food is good had the all day breakfast sandwich, included chips, price was pretty steep at nearly $13.50 for a egg breakfast sandwich. in May 2025.
+In the back, past the ice cream freezers, is a separate counter for ordering breakfast and lunch.
 
-Drip Coffee is good but border line too hot, let it cool down some to enjoy the flavor more.
+The food is good. I tried the all-day breakfast sandwich, which came with chips. It was pricey at $13.50 in May 2025.
 
-Ice Cream is good its better than soft serve, but I still prefer the [Extra Creamy Tillamook](https://www.tillamook.com/products/ice-cream/all) Ice cream over this. At 4.50 a scoop is very expensive and just pretty good.
+Drip coffee is decent but served too hot. After cooling, the flavor was enjoyable.
 
-The local is what I call City Hard, there are only a small hand full of comfortable places to sit,  Small couch, and chair. And maybe two more padded chairs in the food place around the back. most places are hard chairs, benches or stools, which is conductive to a place that does not want you sticking around there too long, which is opposite to the name of the place hinting that this is a place for locals to hangout.
+The ice cream is better than soft serve but not as good as [Tillamook Extra Creamy](https://www.tillamook.com/products/ice-cream/all). At $4.50 per scoop, it’s expensive but better than fast-food desserts.
 
+Seating is limited and mostly uncomfortable, with hard chairs, benches, and stools. There are only a few padded chairs and a small couch. This setup discourages lingering, which contrasts with the name and backstory suggesting a hangout for locals, unfortunealty.
 
-
+Overall, it’s a great place for coffee, ice cream, or a light meal. The service is fast and friendly.
