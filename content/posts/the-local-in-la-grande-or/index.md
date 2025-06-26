@@ -16,6 +16,6 @@ Drip coffee is decent but served too hot. After cooling, the flavor was enjoyabl
 
 The ice cream is better than soft serve but not as good as [Tillamook Extra Creamy](https://www.tillamook.com/products/ice-cream/all). At $4.50 per scoop, it’s expensive but better than fast-food desserts.
 
-Seating is limited and mostly uncomfortable, with hard chairs, benches, and stools. There are only a few padded chairs and a small couch. This setup discourages lingering, which contrasts with the name and backstory suggesting a hangout for locals, unfortunealty.
+Seating is limited and mostly uncomfortable, with hard chairs, benches, and stools. There are only a few padded chairs and a small couch. This setup discourages lingering, which contrasts with the name and backstory suggesting a hangout for locals, unfortunately.
 
 Overall, it’s a great place for coffee, ice cream, or a light meal. The service is fast and friendly.
