@@ -1,6 +1,6 @@
 ---
-title: "Union Local Resources and Business"
-date: 2025-06-02T18:00:00-07:00
+title: "Union Local Resources and Businesses"
+date: 2025-06-27T21:25:00-07:00
 draft: false 
 ---
 
@@ -62,6 +62,8 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 
 - [Jo's Fabric & Craft](https://www.yelp.com/biz/jos-fabric-and-craft-union?adjust_creative=duckduckgo)
 
+- [June Bug Gardens - Eggs, Peonies farmstand](https://www.facebook.com/kimberlyimaddx)
+
 - [La Grande Mini Storage](https://www.lagrandeministorage.com/)
 
 - [Union High School | Union Middle |
@@ -79,6 +81,8 @@ Union Elementary](https://www.union.k12.or.us/)
 
 - [The Union Merc](https://www.facebook.com/profile.php?id=100089977361547&mibextid=LQQJ4d)
 
+- [The Petite Farmstand](https://www.facebook.com/profile.php?id=61575239009501)
+
 - [Grande Ronde Valley Lodge 56](https://k51qzi5uqu5dmen2sxskknnyn1u83mpthgwhf4qt6h6q0u6ii8f79h8uj8dvxh.ipns.dweb.link/)
 
 - [United States Postal Service Union Post Office](https://tools.usps.com/locations/details/1385396)
@@ -89,7 +93,7 @@ Union Elementary](https://www.union.k12.or.us/)
 
 - [Parkstone Manufacturing](https://parkstone.rocks/)
 
-- [Union Stoplight](https://www.facebook.com/profile.php?id=100063703503456)+
+- [Union Stoplight](https://k51qzi5uqu5dktpdm3s0iwnm79xeeg1svsjtg1n2sawxmv8w36pkuil515a8jt.ipns.dweb.link/)
 
 - [Sacred Heart Catholic Church](https://olvcatholic.org/about-olv/mission-parishes/)
 
@@ -107,4 +111,14 @@ Union Elementary](https://www.union.k12.or.us/)
 
 - [Catherine Creek Hides](https://www.catherinecreekhides.com/)
 
-Sites with `+` following need updates or something custom created to cover the basics that may be missing.
+
+### Feel free to share this list of local links with the following free resources:
+[QR code for Union local resources and businesses - png](UnionLocalResourcesListQRCode.png)
+
+[Union Local Resources & Businesses Printable 3" x 5" Index Card - pdf](unionLocalResourcesCard.pdf)
+
+[Union Local Resources & Businesses Printable 3" x 5" Index Card - LibreOffice Draw - odg](unionLocalResourcesCard.odg)  Open this file using [LibreOffice](https://www.libreoffice.org/)
+
+### To make changes to the list
+
+If there is anything missing or things that need to be removed feel free to [Create an Issue and let me know what changes are needed](https://github.com/djbrieck/brieckspro/issues).
