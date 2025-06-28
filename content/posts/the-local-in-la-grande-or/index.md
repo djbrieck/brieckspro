@@ -1,7 +1,7 @@
 ---
 title: "Review of The Local in La Grande Oregon"
 date: 2025-06-25T05:44:51-07:00
-draft: true
+draft: false
 ---
 
 [The Local](https://www.localcoffeecream.com/) is a local spot for coffee, ice cream, and light breakfast or lunch options.
@@ -19,3 +19,5 @@ The ice cream is better than soft serve but not as good as [Tillamook Extra Crea
 Seating is limited and mostly uncomfortable, with hard chairs, benches, and stools. There are only a few padded chairs and a small couch. This setup discourages lingering, which contrasts with the name and backstory suggesting a hangout for locals, unfortunately.
 
 Overall, it’s a great place for coffee, ice cream, or a light meal. The service is fast and friendly.
+
+![The Local Small Coffee Cup Photo](TheLocalSmallCup.jpg)
