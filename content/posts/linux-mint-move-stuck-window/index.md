@@ -1,17 +1,18 @@
 ---
 title: "Linux Mint can't move a window or see the window's controls"
-date: 2025-03-18T16:11:49-07:00
+date: 2025-07-05T12:11:49-07:00
 draft: false
 ---
 
 ## Problem
 
- Moving windows which don't fit on the screen or windows where the grab areas are off the screen can be problematic.
+Moving windows which don't fit on the screen or windows where the grab areas are off the screen can be problematic.
 
 If your screen resolution is too low, or you have a multi-monitor setup that was disconnected you may end up with 
 windows that are too small or too large for the screen. And you may be unable to click any interface element on that 
 window, thus resulting in a stuck situation.
 
+![Windows Controls Off the screen](WindowOffScreen.png)
 
 ## Solution
 
