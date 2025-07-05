@@ -1,5 +1,5 @@
 ---
-title: "How to Clear Laptop Bios Passwords"
+title: "How to Clear Laptop BIOS Passwords"
 
 date: 2025-07-02T05:52:30-07:00
 draft: false
