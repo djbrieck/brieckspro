@@ -112,8 +112,8 @@ Union Elementary](https://www.union.k12.or.us/)
 - [Catherine Creek Hides](https://www.catherinecreekhides.com/)
 
 
-### Feel free to share this list of local links with the following free resources:
-[QR code for Union local resources and businesses - png](UnionLocalResourcesListQRCode.png)
+### Share this list of local links with the following:
+[Just the QR code for Union local resources and businesses - png](UnionLocalResourcesListQRCode.png)
 
 [Union Local Resources & Businesses Printable 3" x 5" Index Card - pdf](unionLocalResourcesCard.pdf)
 
@@ -121,4 +121,4 @@ Union Elementary](https://www.union.k12.or.us/)
 
 ### To make changes to the list
 
-If there is anything missing or things that need to be removed feel free to [Create an Issue and let me know what changes are needed](https://github.com/djbrieck/brieckspro/issues).
+If there is anything missing or things that need to be updated [Create an Issue and let me know what changes are wanted](https://github.com/djbrieck/brieckspro/issues).
