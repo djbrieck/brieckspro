@@ -6,17 +6,17 @@ draft: true
 
 I have been pretty frustrated with finding information on local business, so I took action to make this better and at no cost to the businesses too. I think a lack of website is possibly due to the excessive costs and fees sometimes associated with running building and maintaining a website.  Most places just don't bother to take the time and effort to maintain a website and domain. For example back in 2020 a local restaurant LJ Brewskis had a website, but as of 2025, it no longer has one.
 
-Many places use [Facebook's business pages](https://www.facebook.com/business/help/1968057156746246?id=939256796236247) or other free listing like Google, Yelp, etc. Facebook has its own issues, but mainly it seems to be inconsistent and complicated to set up the pages. And for customers Facebook requires customers looking for information to login to Facebook before they can view complete information on a business. Also it may require you to use the Facebook smartphone app and may otherwise make it difficult to find what your looking for. Most commonly I am looking for business hours, a menu, address, phone number and other basic information and often Facebook makes that a challenge and excessively frustrating to get to. 
+Many places use [Facebook's business pages](https://www.facebook.com/business/help/1968057156746246?id=939256796236247) or other free listing like Google, Yelp, etc. Facebook has its own issues, but mainly it seems to be inconsistent and complicated to set up the pages. And for customers Facebook requires customers looking for information to login to Facebook before they can view complete information on a business. Also, it may require you to use the Facebook smartphone app and may otherwise make it difficult to find what your looking for. Most commonly I am looking for business hours, a menu, address, phone number and other basic information and often Facebook makes that a challenge and excessively frustrating to get to. 
 
 ## LJ Brewskis local Example of a Facebook business page experience
 
-### Not Logged in experience
+### Not Logged-in experience
 
 ![LJ Brewskis Desktop Not Logged into Facebook experience ](LJBrewskisFacbookNotLoggedindesktop.png)
 
 If your not logged in your soon forced to log in usually well before you find what you are looking for, and if you don't have a facebook account you don't have access to the information.
 
-### Logged in experience
+### Logged-in experience
 
 And like that [Cab Driver said in Home Alone 2](https://www.imdb.com/title/tt0104431/characters/nm0865356/) "Ain't much better in here..." the same is true once your logged into Facebook, you really have to search around to still find what your looking for. And as noted here even the hours are not accurate to whats was posted in the door.
 
@@ -46,7 +46,7 @@ So I am taking it into my own hands to build dirt simple free websites that are 
 
 # how to build a basic just the facts website.
 
-1. Use HTML boiler plate or fork one of my examples to get started no need to over complicate things some information is better than none.
+1. Use HTML boilerplate or fork one of my examples to get started no need to overcomplicate things some information is better than none.
 
 2. Added  basics information to the index.html file with the following text template outline.
 
