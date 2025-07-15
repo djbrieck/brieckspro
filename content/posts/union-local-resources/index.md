@@ -1,6 +1,6 @@
 ---
 title: "Union Local Resources and Businesses"
-date: 2025-06-27T21:25:00-07:00
+date: 2025-07-15T16:30:00-07:00
 draft: false 
 ---
 
@@ -22,15 +22,17 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 
 - [Gravy Daves](https://k51qzi5uqu5dhnk7ngyzko5athq7wjrs05ohta5xr9pfz0jk74szb8qt5zpau9.ipns.dweb.link/)
 
-- [Meemaw’s Daily Sourdough](https://linktr.ee/Meemaws)+
-
 - [Catherine Creek Coin Op Self-service Carwash, Laundromat, and Dog Wash](https://www.facebook.com/profile.php?id=61557786997016)+
 
 - [Quiet life Storage by Catherine Creek Property Management](https://catherinecreekpm.com/)
 
 - [CTB Performance LLC](https://www.facebook.com/profile.php?id=100063960536965)+
 
-- [MrsBriz Photography and Designs](https://www.facebook.com/profile.php?id=100075492249583)+
+- [Mrs.Briz Boutique](https://www.facebook.com/mrsbrizboutique)
+
+- [Mrs.Briz Photography and Designs](https://www.facebook.com/mrsbriz.photographyanddesigns/)
+
+- [Main Street Union](https://mainstreetunion.org/)
 
 - [United Country Oregon Trail Realty](https://www.facebook.com/candyb44/)
 
