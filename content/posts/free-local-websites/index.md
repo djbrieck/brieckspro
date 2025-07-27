@@ -44,7 +44,7 @@ For example searching through photos or posts for menus is something that is oft
 
 Now once you get passed the possible slow load time since this is freely self-hosted using [IPFS](https://ipfs.tech/). You will find a pure and simple page with no fluff, just the facts and the stuff you are looking for, and there is no login or Facebook or anything required of the visitor other than a browser and a working internet connection. 
 
- These pages as is took about 3 hours of work to make each site from first clone to the site being up and hosted with a IPNS address. With Future enhancements planned I hope to get this down to less than an hour per site. But the idea with these site is to keep it simple and not overcomplicate things. Since I would rather see a basic website with all the information I am looking for rather than finding nothing at all for most places I would like to do business with. Feel free to follow this guide and do the same in your local area. So instead of re-searching for the same information and never knowing exactly what the search will provide, gather the local facts and create something useful for yourself and others to use as well. That is what I am did, read on if you would like to do similar.
+ These pages as is for each clone have taken about 3 hours of work to make each site from first git clone to the site being up and hosted with a IPNS address. With Future enhancements planned I hope to get this down to less than an hour per site. But the idea with these site is to keep it simple and not overcomplicate things. Since I would rather see a basic website with all the information I am looking for rather than finding nothing at all for most places I would like to do business with or find information on. Feel free to follow this guide and do the same in your local area. So instead of re-searching for the same information and never knowing exactly what the search will provide, gather the local facts and create something useful for yourself and others to use as well. That is what I am did, read on if you would like to do similar.
 
 ## how to build a basic just the facts' website, you really need just the following for most:
 
@@ -61,7 +61,7 @@ Now once you get passed the possible slow load time since this is freely self-ho
   ...
 ```
 
-4. The next part is the facts' information. 
+4. The next part is the facts' information I have come up with the following sections as a starting point:
 
 Location
 
@@ -75,11 +75,10 @@ Links
 
 Menu
 
-For each of the sections I do a h3 tag
+For each of the sections I do a h3 tag. For Location, it would look like the following.
 
 ```
 <h3>Location</h3>
-<address>123  Main St, City, ST 00000</address>
 ```
 
 ================
@@ -90,11 +89,26 @@ Add or leave out sections as needed this is just a basic starting point of the m
 
 ### Location
 
-For the location add the physical address of the business in a selectable manner, I use the [address tag](https://www.w3schools.com/tags/tag_address.asp). 
+For the location add the physical address of the business in a text selectable manner, I use the [address tag](https://www.w3schools.com/tags/tag_address.asp).
+
+```
+<h3>Location</h3>
+<address>123  Main St, City, ST 00000</address>
+```
+
 
 ### Email
 
 Provide email information in a [mail to](https://en.wikipedia.org/wiki/Mailto) link format if an email address is available
+
+It ends up looking like the following 
+
+```
+  <h3>Email <a href="mailto:email@domain.com">email@domain.com</a></h3>
+
+```
+
+### Phone 
 
 4 Links to Facebook, etc. and websites if they have any official links 
 
