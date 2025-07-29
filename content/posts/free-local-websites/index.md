@@ -42,6 +42,8 @@ For example searching through photos or posts for menus is something that is oft
 
 [LJ-Brewskis (Un-official)](https://k51qzi5uqu5dlr44wospfhm3h896r5hlml2ctjnf1lvyr9kth119np0gar4sx0.ipns.dweb.link/)
 
+[GitHub: source code for djbrieck/LJ-Brewskis](https://github.com/djbrieck/LJ-Brewskis)
+
 Now once you get passed the possible slow load time since this is freely self-hosted using [IPFS](https://ipfs.tech/). You will find a pure and simple page with no fluff, just the facts and the stuff you are looking for, and there is no login or Facebook or anything required of the visitor other than a browser and a working internet connection. 
 
  These pages as is for each clone have taken about 3 hours of work to make each site from first git clone to the site being up and hosted with a IPNS address. With Future enhancements planned I hope to get this down to less than an hour per site. But the idea with these site is to keep it simple and not overcomplicate things. Since I would rather see a basic website with all the information I am looking for rather than finding nothing at all for most places I would like to do business with or find information on. Feel free to follow this guide and do the same in your local area. So instead of re-searching for the same information and never knowing exactly what the search will provide, gather the local facts and create something useful for yourself and others to use as well. That is what I am did, read on if you would like to do similar.
@@ -145,3 +147,6 @@ Also have both options is great since allows folks who can't see a pdf to still 
     <p><a href="doc/Menu.pdf">Takeout menu - PDF</a></p>
     <p><a href="doc/Menu.html">Takeout menu - text only</a> </p>
 ```
+
+## Conclusion 
+
