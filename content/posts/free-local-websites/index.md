@@ -110,10 +110,38 @@ It ends up looking like the following
 
 ### Phone 
 
-4 Links to Facebook, etc. and websites if they have any official links 
+Provide telephone numbers if available. use a [telephone link](https://www.w3docs.com/snippets/html/how-to-add-telephone-links-with-html.html) so the visitor can place a call with a tap or two.
+
+```
+<h3>Phone <a href="tel:1234567890">123-456-7890</a> </h3>
+```
+
+### Links
+
+Provide any official links the business may have. I like to label them by application or social network name as follows.
+
+**Application: Name used of the business.**
+
+```
+<h4>Links</h4>
+<a href="https://www.facebook.com/BizPage">Facebook: Biz-Page</a>
+```
 
 ### Menu
 
-    Provide PDF menu links
+Provide menu or list of services the business may provide. Generally speaking I take pictures of menus or menu boards. 
+Then I create a LibreOffice Draw document and import the photos into that creating a new page for each photo. Then I 
+convert that Draw document to a PDF.
 
-	Provide Plain text  menu file links
+Then from there I use Microsoft Copilot and convert the PDF to Plan HTML text and import that alongside the PDF having two 
+links one for the pdf and one for the plain text.
+
+I no longer recommend embedding PDF viewer since that does not always work well depending on the device used.
+
+Also have both options is great since allows folks who can't see a pdf to still have access to the information. 
+
+```
+  <h3> Menu </h3>
+    <p><a href="doc/Menu.pdf">Takeout menu - PDF</a></p>
+    <p><a href="doc/Menu.html">Takeout menu - text only</a> </p>
+```
