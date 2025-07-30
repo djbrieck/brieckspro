@@ -42,6 +42,8 @@ For example searching through photos or posts for menus is something that is oft
 
 [LJ-Brewskis (Un-official)](https://k51qzi5uqu5dlr44wospfhm3h896r5hlml2ctjnf1lvyr9kth119np0gar4sx0.ipns.dweb.link/)
 
+![The custom made LJ Brewskis Un Offical site plain test with title and outline of information as in the sections below](LJ-BrewskisUn-OfficalScreenGrab.png)
+
 [GitHub: source code for djbrieck/LJ-Brewskis](https://github.com/djbrieck/LJ-Brewskis)
 
 Now once you get passed the possible slow load time since this is freely self-hosted using [IPFS](https://ipfs.tech/). You will find a pure and simple page with no fluff, just the facts and the stuff you are looking for, and there is no login or Facebook or anything required of the visitor other than a browser and a working internet connection. 
@@ -149,4 +151,6 @@ Also have both options is great since allows folks who can't see a pdf to still 
 ```
 
 ## Conclusion 
+
+This is a basic outline of how to create a simple website for local businesses that do not have a website or have a poor experience on their social media or other public free resource pages. I hope this helps you get started in your local area. Again this is a basic outline and you can add or remove sections as needed. The goal is to provide a simple, easy-to-navigate page that contains the essential information customers are looking for without the hassle of social media logins or complex navigation that may take hours more to develop. Good luck and I hope you find this helpful in your local area.
 
