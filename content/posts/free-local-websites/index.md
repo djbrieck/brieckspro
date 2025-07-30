@@ -1,7 +1,7 @@
 ---
 title: "How to build free local websites"
 date: 2025-07-07T18:45:29-07:00
-draft: true
+draft: false
 ---
 
 I have been pretty frustrated trying to find and then refind as needed information on local businesses, so I took action to make this better and at no cost to the businesses. I think a lack of website for many business is possibly due to the excessive costs and fees sometimes associated with running building and maintaining a website.  Most places just don't bother to take the time and effort to maintain a website and domain. For example back in 2020 a local restaurant LJ Brewskis had a website, but as of 2025, it no longer has one.
