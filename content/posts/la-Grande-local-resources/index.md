@@ -9,15 +9,30 @@ A list of local resources in La Grande, Oregon [97850](https://www.unitedstatesz
 
 ## Adams Ave, US 30 and State Highway 203 
 
-### East
+### East-ish
 
-### West
+- [Candace Walters & Associates, LPC C4222](https://candace-walters.clientsecure.me/)
+
+- [W7GRA – Grande Ronde Radio Amateurs](https://w7gra.org/)
+
+### West-ish
+
+- [Capelli Hair & Spa](https://www.facebook.com/Capelli.INC)
+
+- [BI-MART](https://www.bimart.com/)
+
+- [Pilot Flying J](https://locations.pilotflyingj.com/us/or/la-grande/63276-oregon-203)
+
 
 ## Island Ave, State Highway 80
 
-### South 
+### South-ish
 
-### North
+- [Dutch Bros Coffee](https://www.dutchbros.com/locations/or/la-grande/2003-q-ave.)
+- [Commercial Tire](https://commercialtire.com/locations/la-grande/)
+- [The Other Guys Auto Sales](https://www.theotherguysautosales.com/)
+
+### North-ish
 
 ## Nearby Local
 
