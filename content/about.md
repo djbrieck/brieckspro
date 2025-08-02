@@ -18,3 +18,12 @@ This website is locally developed and hosted in northeastern Oregon, USA, using 
 ## Value 4 Value
 
 If you would like to help keep this site going, please contribute some [Value 4 Value](/value-for-value).
+
+
+## Contact
+Please write to:
+```    
+Daniel Brieck 
+PO Box 488
+Union OR 97883
+```
