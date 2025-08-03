@@ -1,6 +1,6 @@
 ---
 title: "Union Local Resources and Businesses"
-date: 2025-07-15T16:30:00-07:00
+date: 2025-08-02T18:50:00-07:00
 draft: false 
 ---
 
@@ -32,9 +32,9 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 
 - [Mrs.Briz Photography and Designs](https://www.facebook.com/mrsbriz.photographyanddesigns/)
 
-- [Main Street Union](https://mainstreetunion.org/)
+- [Oregon Trail Reality - Union Oregon Branch Office](https://www.facebook.com/candyb44/)+
 
-- [United Country Oregon Trail Realty](https://www.facebook.com/candyb44/)
+- [Main Street Union](https://mainstreetunion.org/)
 
 - [Catherine Creek Gardens & Gifts](https://www.facebook.com/CatherineCreekGardens/)
 
