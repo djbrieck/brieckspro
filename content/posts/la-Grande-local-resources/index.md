@@ -1,19 +1,22 @@
 ---
 title: "La Grande Local Resources"
 date: 2025-07-30T20:21:48-07:00
-draft: true
+draft: false
 ---
 
 A list of local resources in La Grande, Oregon [97850](https://www.unitedstateszipcodes.org/97850/).
-
 
 ## Adams Ave, US 30 and State Highway 203 
 
 ### East-ish
 
+- [Catherine Creek Property Management, LLC](https://catherinecreekpm.com/)
+
 - [Candace Walters & Associates, LPC C4222](https://candace-walters.clientsecure.me/)
 
 - [W7GRA – Grande Ronde Radio Amateurs](https://w7gra.org/)
+
+- [Fuller Automotive](https://fullerautorepair.com/)
 
 ### West-ish
 
@@ -29,6 +32,7 @@ A list of local resources in La Grande, Oregon [97850](https://www.unitedstatesz
 ### South-ish
 
 - [Dutch Bros Coffee](https://www.dutchbros.com/locations/or/la-grande/2003-q-ave.)
+- [The Cell Fix](http://www.thecellfix.com/)
 - [Commercial Tire](https://commercialtire.com/locations/la-grande/)
 - [The Other Guys Auto Sales](https://www.theotherguysautosales.com/)
 
