@@ -57,7 +57,7 @@ A list of local resources in La Grande, Oregon [97850](https://www.unitedstatesz
 
 ## Nearby Local
 
-[Union Local Resources and Businesses]({{< ref "posts/union-local-resources">}})
+- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources">}})
 
 ## Share this list of local links with the following:
 [Just the QR code for La Grande local resources and businesses - png](LaGrandeLocalResourcesListQRCode.png)
