@@ -1,6 +1,6 @@
 ---
 title: "Union Local Resources and Businesses"
-date: 2025-08-02T18:50:00-07:00
+date: 2025-08-07T21:21:00-07:00
 draft: false 
 ---
 
@@ -113,14 +113,17 @@ Union Elementary](https://www.union.k12.or.us/)
 
 - [Catherine Creek Hides](https://www.catherinecreekhides.com/)
 
+## Nearby local
 
-### Share this list of local links with the following:
+- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources">}})
+
+## Share this list of local links with the following:
 [Just the QR code for Union local resources and businesses - png](UnionLocalResourcesListQRCode.png)
 
 [Union Local Resources & Businesses Printable 3" x 5" Index Card - pdf](unionLocalResourcesCard.pdf)
 
 [Union Local Resources & Businesses Printable 3" x 5" Index Card - LibreOffice Draw - odg](unionLocalResourcesCard.odg)  Open this file using [LibreOffice](https://www.libreoffice.org/)
 
-### To make changes to the list
+## To make changes to the list
 
 If there is anything missing or things that need to be updated [Create an Issue and let me know what changes are wanted](https://github.com/djbrieck/brieckspro/issues).
