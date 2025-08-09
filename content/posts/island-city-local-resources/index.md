@@ -5,13 +5,25 @@ draft: true
 ---
 A list of local resources in Island City, Oregon [97850](https://www.unitedstateszipcodes.org/97850/).
 
-## Island Ave, Oregon Route 82
+## Island Ave, Oregon Route 82, 1st St
 
-### South-ish
+### North
+
+- [Arrow Dental](https://www.arrowdentalclinic.com/)
+
+### South
+
+- [Wal-Mart](https://www.walmart.com/store/1889-island-city-or)
+
+- [Grocery Outlet](https://www.groceryoutlet.com/store-locator?store_location=97850)
 
 - [The Other Guys Auto Sales](https://www.theotherguysautosales.com/)
 
-### North-ish
+## South McAllester Rd
+
+### West 
+
+### East
 
 ## Nearby Local
 
