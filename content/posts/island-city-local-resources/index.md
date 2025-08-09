@@ -13,7 +13,7 @@ A list of local resources in Island City, Oregon [97850](https://www.unitedstate
 
 ### South
 
-- [Wal-Mart](https://www.walmart.com/store/1889-island-city-or)
+- [Walmart](https://www.walmart.com/store/1889-island-city-or)
 
 - [Grocery Outlet](https://www.groceryoutlet.com/store-locator?store_location=97850)
 
