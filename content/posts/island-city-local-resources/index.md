@@ -27,9 +27,9 @@ A list of local resources in Island City, Oregon [97850](https://www.unitedstate
 
 ## Nearby Local
 
-- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources">}})
+- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}})
 
-- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources">}})
+- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}})
 
 ## Share this list of local links with the following:
 [Just the QR code for Island City local resources and businesses - png](IslandCityLocalResourcesListQRCode.png)

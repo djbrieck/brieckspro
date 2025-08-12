@@ -115,9 +115,9 @@ Union Elementary](https://www.union.k12.or.us/)
 
 ## Nearby local
 
-- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources">}})
+- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}})
 
-- [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources">}})
+- [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}})
 
 ## Share this list of local links with the following:
 [Just the QR code for Union local resources and businesses - png](UnionLocalResourcesListQRCode.png)
