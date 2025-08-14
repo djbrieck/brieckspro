@@ -1,11 +1,12 @@
 ---
-title: "Booting From Nvme on Unsupported UEFI Bios, without modifying UEFI"
+title: "Booting From NVMe on Unsupported UEFI Bios, without modifying UEFI"
 date: 2025-08-11T16:38:37-07:00
 draft: true
 ---
-This is a safer alternative to re-flashing a custom Bios that adds in NVME support to be able to  boot from a modern NVME drive.
+This is a safer alternative to re-flashing a custom [UEFI](https://en.wikipedia.org/wiki/UEFI) [BIOS](https://en.wikipedia.org/wiki/BIOS) that adds in [NVMe](https://en.wikipedia.org/wiki/NVM_Express) support to be able to  boot from a modern NVMe drive.
 
-Confirmed that the modified Bootloader Refind with the EFI NVME driver added from clover boot loader works and enables NVME booting via a usb drive.
+I have confirmed that the modified Bootloader [rEFInd](https://en.wikipedia.org/wiki/REFInd) with an EFI NVMe [driver](https://en.wikipedia.org/wiki/Device_driver) added from [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) works and enables NVMe
+booting via a usb drive or other persistently connected device.
 
 1. download latest https://sourceforge.net/projects/refind/files/ use files link.
 
