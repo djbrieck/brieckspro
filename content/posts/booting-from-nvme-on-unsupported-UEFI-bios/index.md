@@ -10,55 +10,56 @@ booting via a usb drive or other persistently connected device.
 
 1. download latest https://sourceforge.net/projects/refind/files/ use files link.
 
-2. Downlaod the latest refind-flashdrive.zip
+2. Download the latest [refind-flashdrive.zip from SOURCEFORGE](https://sourceforge.net/projects/refind/files/) 
 
 3. After extracting the zip file, locate the `refind-flashdrive-x.x.x.img`
 
-4.  Insert a blank or flash drive with nothing important on it, other wise its going to be over written next.
+4.  Insert a blank or flash drive since otherwise it's going to be over written next.
 
 5. Make a bootable USB drive by copying `refind-flashdrive-x.x.x.img`  to the USB drive use something like [ balenaEtcher](https://etcher.balena.io/) or similar on your favorite operating system.
 
-6. Mount the volume you just created, since its only a EFI partition it may not auto mount, so you will probably need to open the Disks program or similar, do not remove the drive, you will likely need to switch to root to do the write.
+6. Mount the volume you just created, since it's only an EFI partition it may not auto mount, so you will probably need to open the [Disks](https://apps.gnome.org/DiskUtility/) program or similar, do not remove the drive.
 
-3. Download the latest CloverBootloader.zip https://github.com/CloverHackyColor/CloverBootloader/releases/
+7. Next you will need to switch to root write the file needed later. I used the "Open as Root" option in my [Nemo - File Manager](https://www.geeksforgeeks.org/linux-unix/10-best-file-managers-for-linux/) 
 
-4. Extract / unzip the CloverBootload
+3. Download the latest [CloverBootloader.zip from GitHub](https://github.com/CloverHackyColor/CloverBootloader/releases/)
+
+4. Extract / unzip the CloverBootloader.
 
 5. Open the CloverV2 directory.
 
-6. Locate the nvm drviers EFI file This should be located at a path like the following:
+6. Locate the NVMe drvier EFI file This should be located at a path like the following, I found it here in the `CloverV2-5163.zip` :
 
-`CloverV2/EFI/CLOVER/drivers/off/UEFI/Other`
+    `CloverV2/EFI/CLOVER/drivers/off/UEFI/Other`
 
-	I found the `NvmExpressDxe.efi` at that location that is the file we needed. 
+	I found the file `NvmExpressDxe.efi` which is what I needed to get NVMe support / booting working. 
 
-7. Copy NvmExpressDxe.efi to the flash drive on Refind to the following location.
-
+7. Next copy NvmExpressDxe.efi to the mounted rEFInd flash drive, opened as root user to the following location.
 `...REFIND/EFI/boot/drivers_x64/NvmExpressDxe.efi`
 
-8. Unmount the Refind mount.
+8. Unmount the rEFInd drive.
 
-9. Power off and remove the USB flash drive now.
+9. Power off and remove the USB flash drive.
 
-10. Test booting your PC with it, update the boot order to boot from the Refind USB drive first.
+10. Test booting your PC with it, update the boot order to boot from the rEFInd USB drive first.
 
-11. Then all the nvme drives that you tried to set up and install and use for booting should show up for boot selection and allow successful booting.
+11. Then all the NVMe drives that you tried to set up and install and use for booting should show up for boot selection and allow successful booting.
 
 
 ## Conclusion
-This was pretty easy and low risk compared to the possibility of bricking your PC should the custom bios update go wrong or be rejected by the motherboard. This solution is simple elegant and only has a few downsides.
+This was pretty easy and low risk compared to the possibility of bricking your PC should the custom UEFI update go wrong or be rejected by the motherboard. This solution is simple elegant and only has a few minor downsides.
 
-Slithly longer boot up time as you wait for the USB and for REfind to count down to boot.
+Slightly longer boot up time as you wait for the USB and for eEFInd to count down to boot, not a problem for me since I rarely shut down my computers.
 
-USB drive must stay in a port on the PC all the time
-
-Kind of a waste of a USB drive, but not too bad..
+USB drive must stay in a port on the PC all the time.
 
 # References
 
-https://www.rodsbooks.com/refind/getting.html
+[The rEFInd Boot Manager: Getting rEFInd](https://www.rodsbooks.com/refind/getting.html)
 
-https://unix.stackexchange.com/questions/765738/how-do-i-boot-from-an-nvme-disk-without-bios-support
+[GitHub - CloverHackyColor/CloverBootloader: Bootloader for macOS, Windows and Linux in UEFI and in legacy mode](https://github.com/CloverHackyColor/CloverBootloader)
 
-https://winraid.level1techs.com/t/howto-get-full-nvme-support-for-all-systems-with-an-ami-uefi-bios/30901
+[uefi - How do I boot from an NVMe disk without bios support? - Unix &amp; Linux Stack Exchange](https://unix.stackexchange.com/questions/765738/how-do-i-boot-from-an-nvme-disk-without-bios-support)
+
+[[HowTo] Get full NVMe Support for all Systems with an AMI UEFI BIOS - NVMe Support for old Systems - Win-Raid Forum](https://winraid.level1techs.com/t/howto-get-full-nvme-support-for-all-systems-with-an-ami-uefi-bios/30901)
 
