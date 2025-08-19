@@ -3,12 +3,21 @@ title: "Booting From NVMe on Unsupported UEFI Bios, without modifying UEFI"
 date: 2025-08-11T16:38:37-07:00
 draft: false
 ---
-This is a safer alternative to re-flashing a custom [UEFI](https://en.wikipedia.org/wiki/UEFI) [BIOS](https://en.wikipedia.org/wiki/BIOS) that adds in [NVMe](https://en.wikipedia.org/wiki/NVM_Express) support to be able to  boot from a modern NVMe drive.
 
-I have confirmed that the modified Bootloader [rEFInd](https://en.wikipedia.org/wiki/REFInd) with an EFI NVMe [driver](https://en.wikipedia.org/wiki/Device_driver) added from [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) works and enables NVMe
-booting via an usb drive or other persistently connected device.
+## Introduction
 
-1. download latest https://sourceforge.net/projects/refind/files/ use files link.
+As some may have experienced, older motherboards without NVMe support lack the ability to boot from modern and fast NVMe SSD drives. While in most cases these drives work just fine once the [OS](https://en.wikipedia.org/wiki/Operating_system) has booted, the problem is not being able booting from it and achieve faster performance, without having to resort to customizing the UEFI Bios and risk [bricking](https://en.wikipedia.org/wiki/Brick_(electronics)) the motherboard. 
+
+Presenting another option that is a safer alternative to re-flashing a custom [UEFI](https://en.wikipedia.org/wiki/UEFI) [BIOS](https://en.wikipedia.org/wiki/BIOS) that adds in [NVMe](https://en.wikipedia.org/wiki/NVM_Express) support to be able to  boot from a modern NVMe drive on otherwise unsupported hardware.
+
+## it actually works
+
+I confirmed that the modified Bootloader [rEFInd](https://en.wikipedia.org/wiki/REFInd) with an EFI NVMe [driver](https://en.wikipedia.org/wiki/Device_driver) added from [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) actually works and enables NVMe
+booting via an usb drive or other persistently connected device that is set to boot first.
+
+## How I did it
+
+1. Download the latest https://sourceforge.net/projects/refind/files/ use the `files` tab link.
 
 2. Download the latest [refind-flashdrive.zip from SOURCEFORGE](https://sourceforge.net/projects/refind/files/) 
 
