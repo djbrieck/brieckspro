@@ -1,7 +1,7 @@
 ---
 title: "Gigabyte GA-Z97X-SLI Rev 1.1 Specs and quick info"
 date: 2025-08-18T15:35:31-07:00
-draft: true
+draft: false
 ---
 
 # Gigabyte GA-Z97X-SLI rev 1.1
