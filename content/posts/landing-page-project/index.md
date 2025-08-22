@@ -1,6 +1,6 @@
 ---
 title: "The Landing Page Project"
-date: 2024-05-06T06:42:06-07:00
+date: 2025-08-09T06:42:06-07:00
 draft: false
 ---
 
@@ -23,8 +23,8 @@ This full page view of all the websites you have saved sorted by most clicks at 
 ![The Landing Page](LandingPageMockup.png)
 
 
-Here is a proof of concept with sites I visit regularly.  If you would like to take a look at this live, try it now
-[My personal Landing Page](https://ipfs.io/ipfs/bafybeiacqqyhof34mreni4sdf56nb6dgql24w34g3ovjm7t5ewpnd7ijku/).
+If you would like to take a look at this live, try it now
+[The Landing Page static mockup](https://k51qzi5uqu5djcaxxkkli5rnjlvbrick5jg5xe7qtvzthqwga4t0kycekpc648.ipns.dweb.link/).
 
 ## The Why
 
