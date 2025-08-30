@@ -6,7 +6,7 @@ draft: false
 
 ## Introduction 
 
-Ever since [discovering I could create a QR code for easily connecting to Wi-Fi networks]({{< ref "posts/make-wifi-qr-on-idevice/">}}) I have been making QR codes using [QtQR](https://launchpad.net/qr-tools) and importing those into a [LibreOffice document](https://www.libreoffice.org/) for printing, sharing and saving.  Then more recently  I started promoting this blog's [local resource lists]({{< ref "posts/union-local-resources/">}})  using a QR code on a 3x5 index card which is turing out to be a great format for printing and sharing locally.
+Ever since [discovering I could create a QR code for easily connecting to Wi-Fi networks]({{< ref "posts/make-wifi-qr-on-idevice/">}}) I have been making QR codes using [QtQR](https://launchpad.net/qr-tools) and so on and importing those into a [LibreOffice document](https://www.libreoffice.org/) for printing, sharing and saving.  Then more recently  I started promoting this blog's [local resource lists]({{< ref "posts/union-local-resources/">}})  using a QR code on a 3x5 index card which is turing out to be a great format for printing and sharing locally.
 
 ## The Idea
 
