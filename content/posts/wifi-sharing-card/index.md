@@ -1,7 +1,7 @@
 ---
 title: "WiFi QR Code Sharing Card"
 date: 2025-08-26T14:41:22-07:00
-draft: true
+draft: false
 ---
 
 ## Introduction 
@@ -14,7 +14,7 @@ Then I had the idea why not make a 3 X 5 size card form that is the page so you 
 
 ## The Solution
 
-I shared that with [Microsoft Copilot,](https://copilot.microsoft.com/) and it helped me come up with the following solution in seconds. I needed to make a few minor formatting changes for requesting the print button and correct one mistake where it was passing a string of `None` instead of `` for the None encryption options, but otherwise pretty much as is solution.  
+I shared that with [Microsoft Copilot,](https://copilot.microsoft.com/) and it helped me come up with the following solution in seconds. I needed to make a few minor formatting changes and correct one mistake where it was passing a string of `None` instead of `` for the None encryption option, but otherwise pretty much as is solution.  
 
 ![Screen Shot of the Wi-Fi Sharing card with no values typed in for name and password](WifiSharingCard.png)
 
