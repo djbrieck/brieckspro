@@ -8,11 +8,11 @@ draft: false
 
 Ever since [discovering I could create a QR code for easily connecting to Wi-Fi networks]({{< ref "posts/make-wifi-qr-on-idevice/">}}) I have been making QR codes using [QtQR](https://launchpad.net/qr-tools) and so on and importing those into a [LibreOffice document](https://www.libreoffice.org/) for printing, sharing and saving.  Then more recently  I started promoting this blog's [local resource lists]({{< ref "posts/union-local-resources/">}})  using a QR code on a 3x5 index card which is turing out to be a great format for printing and sharing locally.
 
-## The Idea
+## Idea
 
 Then I had the idea why not make a 3 X 5 size card form that is the page so you could fill in the information and then just Print it right from the web page. And avoid a lot of the manual work of generating documents and QR codes separately.
 
-## The Solution
+## Solution
 
 I shared that with [Microsoft Copilot,](https://copilot.microsoft.com/) and it helped me come up with the following solution in seconds. I needed to make a few minor formatting changes and correct one mistake where it was passing a string of `None` instead of `` for the None encryption option, but otherwise pretty much as is solution.  
 
@@ -22,7 +22,7 @@ I shared that with [Microsoft Copilot,](https://copilot.microsoft.com/) and it h
 
 Now of course using [IPFS](https://ipfs.tech/) I was able to pin it and make it available as [Wi-Fi Sharing card](https://bafybeigdx64fuiijt75z52xjemnpedy5mkkf45mm372ldqec42trmek5am.ipfs.dweb.link/). Feel free to use and print these for your wireless connecting chores, these will be super handy to have on hand for family, friends, and guests.
 
-## The HTML Source Code
+## Source Code
 
 ```
 <!DOCTYPE html>
