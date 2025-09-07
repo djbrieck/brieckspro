@@ -11,7 +11,7 @@ This is a brief guide on how to install [CHIRP](https://chirpmyradio.com/project
 
 1. Start with visiting [CHIRP Downloads page](https://chirpmyradio.com/projects/chirp/wiki/Download)
 2. For Linux Mint 21.x / 22.x the correct variant of CHIRP is CHIRP-next, find the download link on the above-mentioned downloads page. 
-3. For Linux the file to download is named `chirp-YYYYMMDD-py3-none-any.whl` you may need to right-click and select "Save link as..." option to start the file download otherwise you may see the browser try and load the file / render it.
+3. For Linux the file to download is named `chirp-YYYYMMDD-py3-none-any.whl` you may need to right-click and select "Save link as..." option to start the file download otherwise you may see the browser try and load the binary file right in the browser window if you click link as named.
 4. 
 
 
