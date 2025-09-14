@@ -1,7 +1,7 @@
 ---
 title: "How to Install Chirp on Linux Mint 21/22"
 date: 2025-09-05T16:12:23-07:00
-draft: true
+draft: false
 ---
 
 ## Introduction 
