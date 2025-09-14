@@ -5,7 +5,7 @@ draft: true
 ---
 
 ## Introduction 
-This is a brief guide on how to install [CHIRP](https://chirpmyradio.com/projects/chirp/wiki/Home) on Linux Mint 21.x / 22.x, since there is a lot going on with chirp and with following the current instructions results in errors so in short this is what worked for me the last time I tried to install CHIRP.
+This is a brief guide on how to install [CHIRP](https://chirpmyradio.com/projects/chirp/wiki/Home) on Linux Mint 21.x / 22.x. Since CHIRP's linux app is a python app it is a bit unusual in practice and when following the current instructions results in errors so in short this is what worked for me the last time I tried to install CHIRP.
 
 ## Installation with Errors
 
@@ -13,9 +13,11 @@ This is a brief guide on how to install [CHIRP](https://chirpmyradio.com/project
 
 2. For Linux Mint 21.x - 22.x the correct variant of CHIRP is `CHIRP-next`, find the download link on the above-mentioned downloads  page. 
 
-3. For Linux the file to download is named `chirp-YYYYMMDD-py3-none-any.whl` you may need to right-click and select "Save link as..." option to start the file download otherwise  the browser may load the binary file in the browser window if you click the link as named.
+3. For Linux the file to download is named `chirp-YYYYMMDD-py3-none-any.whl` you may need to right-click and select "Save link as..." option to start the file download otherwise  the browser may load the binary file in the browser window if you click the link as named, if you see a page of strange text `PK����uI,[\Y½"��� ������chirp/__init__.pysöð`, this is what happened hit the back button in your browser and try the link again with right click option as mentioned above.
 
 4. While here also click the `SHA1SUM` link by clicking on the link.  When the `.whl` finishes download run the following command and make sure that the hash output of the downloaded `.whl` file  matches the hash listed next to the `.whl` file in the SHA1SUM file.
+
+    ![Exmple of what a picture of the SHA1SUM file contents looks like](SHA1SUM.png)
 
 ```
 sha1sum chirp-20250822-py3-none-any.whl
