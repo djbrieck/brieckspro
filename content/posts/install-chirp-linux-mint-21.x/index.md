@@ -32,22 +32,22 @@ sudo apt install python3-wxgtk4.0 pipx
 pipx install --system-site-packages ./chirp-20250822-py3-none-any.whl
 ```
 
-8. At this point I got an error something about "yattag package may not be installable in pipx" after taking a look at the [Troubleshooting](https://chirpmyradio.com/projects/chirp/wiki/ChirpOnLinux#Troubleshooting) I was able to find the command to fix my issue that I was seeing. 
+8. At this point I got an error something about "yattag package may not be installable in pipx" after taking a look at the [Troubleshooting](https://chirpmyradio.com/projects/chirp/wiki/ChirpOnLinux#Troubleshooting) I was able to find the command to fix my issue and that was the command as follows: 
 
 ```
 sudo  apt-get install python3-yattag
 ```
-9. Then I re-ran the following successfully this time.
+9. Then I re-ran the following successfully.
 
 ```
 pipx install --system-site-packages ./chirp-20250822-py3-none-any.whl
 ```
 
-10. Then I was able to run the chirp command 
+10. Finally, I was able to run CHIRP. 
 
 ```chirp```
 
-11. When chirp first opened click the in the dialog to allow CHIRP to create the program shortcut so it will have a launcher icon that you can search for  be able to start CHIRP without using the terminal each time.
+11. When CHIRP first opens click the option in the dialog to allow CHIRP to create the program shortcut so it will have a launcher icon that you can search for to be able to start CHIRP without using the terminal command `chirp`.
 
 
 # Conclusion 
