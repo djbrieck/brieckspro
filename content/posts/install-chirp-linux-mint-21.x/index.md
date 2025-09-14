@@ -20,7 +20,7 @@ This is a brief guide on how to install [CHIRP](https://chirpmyradio.com/project
     ![Exmple of what a picture of the SHA1SUM file contents looks like](SHA1SUM.png)
 
 ```
-sha1sum chirp-20250822-py3-none-any.whl
+sha1sum chirp-YYYYMMDD-py3-none-any.whl
 ```
 
 5. Since we are trying to install for Linux find the [details here link](https://chirpmyradio.com/projects/chirp/wiki/ChirpOnLinux) back on the [CHRIP Downloads Page](https://chirpmyradio.com/projects/chirp/wiki/Download#)
@@ -33,7 +33,7 @@ sudo apt install python3-wxgtk4.0 pipx
 7. Install CHIRP from the latest `.whl` file that was downloaded above 
 
 ```
-pipx install --system-site-packages ./chirp-20250822-py3-none-any.whl
+pipx install --system-site-packages ./chirp-YYYYMMDD-py3-none-any.whl
 ```
 
 8. At this point I got an error something about "yattag package may not be installable in pipx" after taking a look at the [Troubleshooting](https://chirpmyradio.com/projects/chirp/wiki/ChirpOnLinux#Troubleshooting) I was able to find the command to fix my issue and that was the command as follows: 
@@ -44,16 +44,16 @@ sudo  apt-get install python3-yattag
 9. Then I re-ran the following successfully.
 
 ```
-pipx install --system-site-packages ./chirp-20250822-py3-none-any.whl
+pipx install --system-site-packages ./chirp-YYYYMMDD-py3-none-any.whl
 ```
 
 10. Finally, I was able to run CHIRP. 
 
 ```chirp```
 
-11. When CHIRP first opens pay attention to the dialog that pops up and if you want to click the option in the dialog to allow CHIRP to create the program shortcut so it will have a launcher icon that you can search for to be able to start CHIRP without using the terminal command `chirp`.
+11. When CHIRP first opens pay attention to the dialog that pops up and if you want to click the option in the dialog to allow CHIRP to create the program shortcut.  This will allow CHIRP to have a launcher icon that you can search for or click on to be able to start CHIRP without using the terminal command `chirp` everytime.
 
 
 # Conclusion 
 
-CHIRP was not too difficult to install, but its linux program is a python app, and it did require some more work than most linux apps. This did take a lot of jumping around, debugging, and reading all the fine print to get it all sorted and successfully installed, hopefully these Notes will be helpful to get you through it faster.
+CHIRP was not too difficult to install, but its linux program is a python app, and it did require some more work than most typical linux apps. This did take more debugging and reading all the fine print to get it all sorted and successfully installed than the usual Linux app does. Hopefully these Notes will be helpful to get you through it faster than it was for me.
