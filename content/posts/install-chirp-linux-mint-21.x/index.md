@@ -54,4 +54,4 @@ pipx install --system-site-packages ./chirp-20250822-py3-none-any.whl
 
 # Conclusion 
 
-CHIRP was not too difficult to install, but it did take a lot of jumping around and reading all the fine print to get it all sorted and successfully installed, hopefully these Notes for Linux Mint will be helpful to get you through it faster.
+CHIRP was not too difficult to install, but its linux program is a python app, and it did require some more work than most linux apps. This did take a lot of jumping around, debugging, and reading all the fine print to get it all sorted and successfully installed, hopefully these Notes will be helpful to get you through it faster.
