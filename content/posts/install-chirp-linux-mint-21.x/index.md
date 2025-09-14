@@ -9,11 +9,13 @@ This is a brief guide on how to install [CHIRP](https://chirpmyradio.com/project
 
 ## Installation with Errors
 
-1. Start with visiting [CHIRP Downloads page](https://chirpmyradio.com/projects/chirp/wiki/Download)
-2. For Linux Mint 21.x / 22.x the correct variant of CHIRP is CHIRP-next, find the download link on the above-mentioned downloads page. 
-3. For Linux the file to download is named `chirp-YYYYMMDD-py3-none-any.whl` you may need to right-click and select "Save link as..." option to start the file download otherwise you may see the browser try and load the binary file right in the browser window if you click the link as named.
+1. Start by visiting the [CHIRP Downloads page](https://chirpmyradio.com/projects/chirp/wiki/Download)
 
-4. While here click the `SHA1SUM` link by clicking on the link.  When the `.whl` finishes download run the following command and make sure that the hash output of the downloaded `.whl` file  matches the hash listed next to the `.whl` file in the SHA1SUM file.
+2. For Linux Mint 21.x - 22.x the correct variant of CHIRP is `CHIRP-next`, find the download link on the above-mentioned downloads  page. 
+
+3. For Linux the file to download is named `chirp-YYYYMMDD-py3-none-any.whl` you may need to right-click and select "Save link as..." option to start the file download otherwise  the browser may load the binary file in the browser window if you click the link as named.
+
+4. While here also click the `SHA1SUM` link by clicking on the link.  When the `.whl` finishes download run the following command and make sure that the hash output of the downloaded `.whl` file  matches the hash listed next to the `.whl` file in the SHA1SUM file.
 
 ```
 sha1sum chirp-20250822-py3-none-any.whl
@@ -21,7 +23,7 @@ sha1sum chirp-20250822-py3-none-any.whl
 
 5. Since we are trying to install for Linux find the [details here link](https://chirpmyradio.com/projects/chirp/wiki/ChirpOnLinux) back on the [CHRIP Downloads Page](https://chirpmyradio.com/projects/chirp/wiki/Download#)
 
-6. For Linux Mint run to install what is needed
+6. For Linux Mint run something like the following as the above link indicates 
 ```
 sudo apt install python3-wxgtk4.0 pipx
 ```
@@ -47,7 +49,7 @@ pipx install --system-site-packages ./chirp-20250822-py3-none-any.whl
 
 ```chirp```
 
-11. When CHIRP first opens click the option in the dialog to allow CHIRP to create the program shortcut so it will have a launcher icon that you can search for to be able to start CHIRP without using the terminal command `chirp`.
+11. When CHIRP first opens pay attention to the dialog that pops up and if you want to click the option in the dialog to allow CHIRP to create the program shortcut so it will have a launcher icon that you can search for to be able to start CHIRP without using the terminal command `chirp`.
 
 
 # Conclusion 
