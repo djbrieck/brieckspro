@@ -1,6 +1,6 @@
 ---
 title: "La Grande Local Resources and Businesses"
-date: 2025-08-07T21:11:48-07:00
+date: 2025-09-19T17:30:48-07:00
 draft: false
 ---
 
@@ -18,6 +18,12 @@ A list of local resources in La Grande, Oregon [97850](https://www.unitedstatesz
 
 - [W7GRA – Grande Ronde Radio Amateurs](https://w7gra.org/)
 
+- [The Copy Club](https://local.fedex.com/en-us/or/la-grande/36740)
+
+- [Papa Murphy's](https://locations.papamurphys.com/or/la-grande/1703-adams-avenue)
+
+- [Safeway](https://local.safeway.com/safeway/or/la-grande/2111-adams-ave.html)
+
 - [Fuller Automotive](https://fullerautorepair.com/)
 
 ### West-ish
@@ -29,7 +35,15 @@ A list of local resources in La Grande, Oregon [97850](https://www.unitedstatesz
 - [The Local](https://www.localcoffeecream.com/)
  
 - [Antlers Espresso](https://m.facebook.com/antlersespresso/)
- 
+
+- [Nell’s-N-Out](https://www.facebook.com/profile.php?id=100090549813250)
+
+- [Kentucky Fried Chicken - KFC](https://locations.kfc.com/or/la-grande/1706-adams-avenue)
+
+- [La Fiesta Mexican Restaurant & Lounge](https://enigma00017.wixsite.com/la-fiesta-restaurant)
+
+- [Copies Plus](https://www.facebook.com/copiespluspendleton/)
+
 - [BI-MART](https://www.bimart.com/)
  
 - [Pilot Flying J](https://locations.pilotflyingj.com/us/or/la-grande/63276-oregon-203)
