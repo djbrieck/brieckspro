@@ -1,6 +1,6 @@
 ---
 title: "Union Local Resources and Businesses"
-date: 2025-08-07T21:21:00-07:00
+date: 2025-10-06T14:55:00-07:00
 draft: false 
 ---
 
@@ -68,8 +68,7 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 
 - [La Grande Mini Storage](https://www.lagrandeministorage.com/)
 
-- [Union High School | Union Middle |
-Union Elementary](https://www.union.k12.or.us/)
+- [Union School District](https://www.union.k12.or.us/)
 
 - [City of Union](https://cityofunion.com/)
 
@@ -97,7 +96,7 @@ Union Elementary](https://www.union.k12.or.us/)
 
 - [Union Stoplight](https://k51qzi5uqu5dktpdm3s0iwnm79xeeg1svsjtg1n2sawxmv8w36pkuil515a8jt.ipns.dweb.link/)
 
-- [Sacred Heart Catholic Church](https://olvcatholic.org/about-olv/mission-parishes/)
+- [Sacred Heart Catholic Church](https://www.olvcatholic.org/our-missions)
 
 - [Point Prominence Press](https://www.pointprominence.com/)
 
