@@ -1,7 +1,7 @@
 ---
-title: "Hewlett Packard HP  Elitedesk 800 G6 Quickspecs Plus more"
+title: "Hewlett Packard HP  EliteDesk 800 G6 Quickspecs Plus more"
 date: 2025-10-25T09:45:08-07:00
-draft: true
+draft: false
 ---
 
 Another copy for this information since we can always use more legit saves of local files, enjoy without Advertisements, etc.
