@@ -16,7 +16,7 @@ Another copy for this information since we can always use more legit saves of lo
 
 # Support Links
 
-## HP EliteBook 840 G5 User Guide
+## HP EliteDesk 800 G6 User Guide
 
 [HP EliteDesk 800 G6 User Guide - PDF](c06867760.pdf)
 
