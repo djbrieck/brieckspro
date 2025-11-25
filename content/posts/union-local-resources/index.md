@@ -80,8 +80,6 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 
 - [RattleTale](https://k51qzi5uqu5dgtvtf0l8i0x0ymdxb84vvs7mcpjzs1dae5wizjol212xit3qrk.ipns.dweb.link/)
 
-- [The Union Merc](https://www.facebook.com/profile.php?id=100089977361547&mibextid=LQQJ4d)
-
 - [The Petite Farmstand](https://www.facebook.com/profile.php?id=61575239009501)
 
 - [Grande Ronde Valley Lodge 56](https://k51qzi5uqu5dmen2sxskknnyn1u83mpthgwhf4qt6h6q0u6ii8f79h8uj8dvxh.ipns.dweb.link/)
