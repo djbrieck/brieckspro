@@ -1,5 +1,5 @@
 ---
-title: "Ditching Mac Mini for a Budget-Friendly, Reliable Small PC: A Story of Saving and Simplicity"
+title: "Switching from 2012 Mac Mini to Linux Mint PC: A plan for Saving and Simplicity"
 date: 2025-11-25T15:44:39-08:00
 draft: true
 ---
