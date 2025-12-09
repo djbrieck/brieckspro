@@ -1,6 +1,6 @@
 ---
 title: "Ditching Mac Mini for a Budget-Friendly, Reliable Small PC: A Story of Saving and Simplicity"
-date: 2025-11-25T15:44:39-08:00
+date: 2025-12-08T16:45:00-08:00
 draft: true
 ---
 
@@ -24,7 +24,7 @@ So, instead of continuing down this path, I asked: *What if we tried something d
 
 ### A Better Option: A Used PC Running Linux
 
-After some research, I found a used business-grade Small Form Factor PC on eBay for just **$143**. This was a HP ELite Desk 800 G6. It came with:
+After some research, I found a used business-grade Small Form Factor PC on eBay for just **$143**. This was an HP ELite Desk 800 G6. It came with:
 - An Intel i5-10500 processor
 - 8GB of RAM
 - A 512GB M.2 SSD
