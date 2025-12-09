@@ -1,7 +1,7 @@
 ---
 title: "Ditching Mac Mini for a Budget-Friendly, Reliable Small PC: A Story of Saving and Simplicity"
 date: 2025-12-08T16:45:00-08:00
-draft: true
+draft: false
 ---
 
 ### Why I Switched My Parents from a 2012 Mac Mini to a Linux PC 
