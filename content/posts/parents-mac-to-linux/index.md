@@ -68,7 +68,7 @@ supported years.
 
 Additionally, as a real PC, this system offers a full range of future upgrade possibilities—including upgradeable 
 DDR4 RAM (up to 128GB), a slim optical DVD drive, multiple NVMe and SATA SSDs or HDDs, and even low-profile graphics 
-card can be added if needed. The SFF case supports such expansions, making it a future-proof solution that exceeds 
+card can be added. The SFF case supports such expansions, making it a future-proof solution that exceeds 
 their needs now and well into the future.
 
 ---
