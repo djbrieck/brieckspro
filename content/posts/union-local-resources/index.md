@@ -1,6 +1,6 @@
 ---
 title: "Union Local Resources and Businesses"
-date: 2025-11-25T15:12:14Z
+date: 2026-02-07T15:37:00-07:00
 draft: false 
 ---
 
@@ -44,7 +44,7 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 
 - [Union County Museum](https://ucmuseumoregon.com/)
 
-- [Union Collision Center](https://www.carwise.com/auto-body-shops/union-collision-center-union-or-97883/493765)+
+- [Union Collision Center](https://nextdoor.com/page/union-collision-center-union-or)+
 
 - [Union Family Dental](https://southcountyhd.com/)
 
@@ -90,6 +90,10 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 
 - [Main Street Barbershop](https://www.facebook.com/mainstreetbarbershopunion)
 
+- [Rustic Roots](https://www.facebook.com/people/Rustic-Roots/61581838586822/)
+
+- [Lion Heart Heaven](https://www.lionhearthaven.com/)
+
 - [Parkstone Manufacturing](https://parkstone.rocks/)
 
 - [Union Stoplight](https://k51qzi5uqu5dktpdm3s0iwnm79xeeg1svsjtg1n2sawxmv8w36pkuil515a8jt.ipns.dweb.link/)
@@ -125,4 +129,4 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 
 ## To make changes to the list
 
-If there is anything missing or things that need to be updated [Create an Issue and let me know what changes are wanted](https://github.com/djbrieck/brieckspro/issues).
+If there is anything missing or things that need to be updated [Create an Issue and let me know what changes are wanted on the Union Oregon local list](https://github.com/djbrieck/brieckspro/issues).
