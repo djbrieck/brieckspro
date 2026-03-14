@@ -1,6 +1,6 @@
 ---
 title: "Union Local Resources and Businesses"
-date: 2026-02-07T15:37:00-07:00
+date: 2026-03-14T11:30:00-07:00
 draft: false 
 ---
 
@@ -9,6 +9,8 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 ## East Side - South Bound Towards North Powder
 
 - [Platz Family Farm](https://www.platzfamilyfarm.com/)
+
+- [Bar MD Cattle Company](https://cityofunionchamber.com/business/bar-md-cattle-company/)
 
 - [Dora's Garden](https://www.dorasgarden.com/)
 
@@ -53,6 +55,8 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 - [Old West Federal Credit Union - Union Branch](https://www.oldwestfcu.org/about-us/locations-hours.html)
 
 - [Union Head Start Center](https://eouheadstart.org/centers/)
+
+- [Union Historic Victorian Cemetery](https://www.visitunioncounty.org/assets/pdf/Union+Victorian+Cemetery+Flyer/)
 
 - [Buffalo Peak Golf Course](https://www.buffalopeakgolf.com/)
 
@@ -100,17 +104,25 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 
 - [Sacred Heart Catholic Church](https://www.olvcatholic.org/our-missions)
 
+- [Cats Paw Soapery](catspawfarm.com)
+
+- [Catherine Creek Labradors](https://ljvonarx.wixsite.com/website)
+
 - [Point Prominence Press](https://www.pointprominence.com/)
 
 - [Union Market](https://unionmarketoregon.com/)
 
 - [Union Carnegie Library](https://cityofunion.com/directory/city-library/)+
 
+- [Union City Park](https://cityofunion.com/directory/union-historic-park/)
+
 - [Historic Union Hotel](https://thehistoricunionhotel.com/)
 
 - [Veterans of Foreign Wars High Valley Post 4060](https://vfw4060.org/)
 
 - [The Church Of Jesus Christ of Latter-Day Saints](https://local.churchofjesuschrist.org/en/us/or/union/702-north-main-street)
+
+- [The Fox Den Pet Services](https://www.facebook.com/profile.php?id=100086210567434)
 
 - [Catherine Creek Hides](https://www.catherinecreekhides.com/)
 
