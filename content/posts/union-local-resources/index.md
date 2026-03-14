@@ -104,7 +104,7 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 
 - [Sacred Heart Catholic Church](https://www.olvcatholic.org/our-missions)
 
-- [Cats Paw Soapery](catspawfarm.com)
+- [Cats Paw Soapery](https://catspawfarm.com)
 
 - [Catherine Creek Labradors](https://ljvonarx.wixsite.com/website)
 
