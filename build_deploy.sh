@@ -8,7 +8,7 @@ if [ $? -ne 0 ]; then
 fi
 
 echo "Attempting to add public directory to ipfs cluster"
-PUBLIC_HASH=$(ipfs-cluster-ctl add -r -Q public/ )
+PUBLIC_HASH=$(ipfs-cluster-ctl add --name "Brieck's Pro Blog" --metadata type=website -r -Q public/ )
 if [ $? -ne 0 ]; then
     echo  "Add to IPFS Cluster failed!"
     exit 2
