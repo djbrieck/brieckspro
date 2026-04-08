@@ -1,6 +1,6 @@
 ---
 title: "Union Local Resources and Businesses"
-date: 2026-03-14T11:30:00-07:00
+date: 2026-04-07T16:30:00-07:00
 draft: false 
 ---
 
@@ -112,7 +112,7 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 
 - [Union Market](https://unionmarketoregon.com/)
 
-- [Union Carnegie Library](https://cityofunion.com/directory/city-library/)+
+- [Union Carnegie Public Library](https://k51qzi5uqu5di1a86yzsz78l1c9h6twmxjm48ehjd70ai38bai3r5obpaqfyml.ipns.dweb.link/)
 
 - [Union City Park](https://cityofunion.com/directory/union-historic-park/)
 
