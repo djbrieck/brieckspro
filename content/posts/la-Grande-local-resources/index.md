@@ -1,6 +1,6 @@
 ---
 title: "La Grande Local Resources and Businesses"
-date: 2026-03-14T11:48:00-07:00
+date: 2026-04-09T17:48:00-07:00
 draft: false
 ---
 
@@ -27,6 +27,10 @@ A list of local resources in La Grande, Oregon [97850](https://www.unitedstatesz
 - [Fuller Automotive](https://fullerautorepair.com/)
 
 ### West-ish
+
+- [Nature's Pantry](https://naturespantry.life/)
+
+- [Foothills Counseling](https://www.foothillscounseling.net/)
 
 - [Capelli Hair & Spa](https://www.facebook.com/Capelli.INC)
 
