@@ -1,6 +1,6 @@
 ---
 title: "WiFi QR Code Sharing Card"
-date: 2025-08-26T14:41:22-07:00
+date: 2026-04-09T17:54:22-07:00
 draft: false
 ---
 
@@ -18,9 +18,20 @@ I shared that with [Microsoft Copilot,](https://copilot.microsoft.com/) and it h
 
 ![Screen Shot of the Wi-Fi Sharing card with no values typed in for name and password](WifiSharingCard.png)
 
+## How to use 
+
+1. Press the link below in "Live Example" section.
+2. Type in the WiFi network `Name:`
+3. Type in the WiFi network `Password:`
+4. Press the Print button on the 'Wifi QR Code Sharing Card Generator' webpage in the lower right corner.
+5. Adjust Paper size to 3" X 5" (US inches) for a standard 3X5 index card.
+6. Load a 3x5 index card into your printer as directed by the printer manufacture.
+7. Click Print on your devices printer dialog, dropdown,  window, box or etc.
+8. Keep your printer card handy and scan the QR code on your printed card with devices you want to connect to your Wi-Fi network.
+
 ## Live Example 
 
-Now of course using [IPFS](https://ipfs.tech/) I was able to pin it and make it available as [Wi-Fi Sharing card](https://bafybeigdx64fuiijt75z52xjemnpedy5mkkf45mm372ldqec42trmek5am.ipfs.dweb.link/). Feel free to use and print these for your wireless connecting chores, these will be super handy to have on hand for family, friends, and guests.
+ [Wi-Fi Sharing card](https://bafybeigdx64fuiijt75z52xjemnpedy5mkkf45mm372ldqec42trmek5am.ipfs.dweb.link/) 
 
 ## Source Code
 
