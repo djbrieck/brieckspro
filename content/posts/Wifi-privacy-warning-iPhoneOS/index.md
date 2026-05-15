@@ -1,7 +1,7 @@
 ---
 title: "Wifi Privacy Warning on iPhoneOS"
 date: 2026-05-15T15:49:27-07:00
-draft: true
+draft: false
 ---
  
 An overview of the iPhone Privacy Warning worded as follows:
