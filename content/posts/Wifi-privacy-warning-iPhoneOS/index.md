@@ -1,15 +1,10 @@
 ---
 title: "Wifi Privacy Warning on iPhoneOS"
-date: 2026-05-11T14:37:27-07:00
+date: 2026-05-15T15:49:27-07:00
 draft: true
 ---
-
-
-
-Figure out what the meaning and cause of  this iPhone Privacy Warning.
-
-
-
+ 
+An overview of the iPhone Privacy Warning worded as follows:
 
 >Privacy Warning
 
@@ -18,7 +13,6 @@ Figure out what the meaning and cause of  this iPhone Privacy Warning.
 >The names of websites and other servers your device accesses on this network may be monitored and recorded by other devices on this network. 
 
 ![Screen shot on iPhoneOS showing text Privacy Warning The network is blocking encrypted DNS Traffic The names of websites and other servers your device accesses on this network may be monitored and recorded by other devices on this network.](iPhoneOS-wifi-privacy-warning.jpeg)
-
 
 Here’s the plain‑English version of what your iPhone is telling you — and why it happens specifically on **OpenWrt** networks.
 
