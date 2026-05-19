@@ -35,6 +35,8 @@ I shared that with [Microsoft Copilot,](https://copilot.microsoft.com/) and it h
 
 ## Source Code
 
+[GitHub - djbrieck/Wifi-QR-Code-Sharing-Card-Generator](https://github.com/djbrieck/Wifi-QR-Code-Sharing-Card-Generator)
+
 ```
 <!DOCTYPE html>
 <html lang="en">
