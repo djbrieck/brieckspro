@@ -1,6 +1,6 @@
 ---
 title: "Union Local Resources and Businesses"
-date: 2026-04-07T16:30:00-07:00
+date: 2026-05-21T16:00:00-07:00
 draft: false 
 ---
 
@@ -67,8 +67,6 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 ## West Side - North Bound Towards La Grande
 
 - [Jo's Fabric & Craft](https://www.yelp.com/biz/jos-fabric-and-craft-union?adjust_creative=duckduckgo)
-
-- [June Bug Gardens - Eggs, Peonies farmstand](https://www.facebook.com/kimberlyimaddx)
 
 - [La Grande Mini Storage](https://www.lagrandeministorage.com/)
 
