@@ -5,27 +5,28 @@ draft: true
 ---
 A list of local resources in Cove, Oregon [97824](https://www.unitedstateszipcodes.org/97824/).
 
-## Hwy 237 – South of Town
-- [Hill's Country Supply](https://coveoregon.org/businesses/) – Hay, cherries, firewood & kitchen supplies – 61502 Hwy 237
+## OR 237  – North and West side of Highway 203
 - [Cove Sportsman Club](https://coveoregon.org/cove-sportsman-club/) – Hwy 237, south end of town
 
-## Main Street – West Side (south to north, odd numbers)
-- [Steakhouse at Cove](https://www.steakhouseatcove.com/) – 505 Main St
+
+## OR 237 – South and East Side
+- [Steakhouse at Cove](https://www.steakhouseatcove.com/)
+
+---
+
 - Cove Seventh Day Adventist Church – 502 Main St
 - Grace Community Lutheran Church – 502 Main St *(meets at SDA Church)*
-- [United States Post Office](https://www.usps.com/) – 601 Main St
+- [United States Postal Service Cove Post Office](https://tools.usps.com/locations/details/1359446) – 601 Main St
 - [Cheri's Main Street Salon](https://www.facebook.com/pages/Cheris-Main-St-Salon/441211295914864) – 603 Main St
 - Cove Rural Fire Department – 607 Main St
 - Calvary Baptist Church – 707 Main St
 - [Cove School District](http://www.cove.k12.or.us/home) – 803 Main St
 
-## Main Street – East Side (south to north, even numbers)
 - [Cove Public Library](https://coveoregon.org/cove-library/) – 606 Main St
 - [The Art of Katherine Treffinger](http://www.katherinetreffinger.com/) – 604 Main St
 - [Cove Drive-In](https://www.facebook.com/pages/Cove-Drive-In/118342191523881) – 702 Main St
 - [Dollar's Corner](https://coveoregon.org/businesses/) – Groceries, gas, laundry & car wash – 808 Main St
 
-## Off Main / Side Streets
 - [City of Cove](http://cityofcove.org/) – 504 Alder St
 - Masonic Lodge #91 – 111 Jasper St
 - [Eastern Oregon Solid Surface](http://www.easternoregonsolidsurface.com/) – Corian specialist – 809 Mill St
@@ -38,8 +39,6 @@ A list of local resources in Cove, Oregon [97824](https://www.unitedstateszipcod
 - [Cove Senior Citizens Program](https://coveoregon.org/cove-senior-citizens/)
 - [Cove Cemetery](https://coveoregon.org/cove-cemetery/) – Leopard Drive
 - [Lock Stock & Barrel Gunsmithing](https://coveoregon.org/businesses/) – Gun sales & service – 60332 Leopard Drive
-
-## Rural Area
 - [Dimond Art Glass Studio & Gallery](http://www.dimondartglass.com/) – 60881 Stackland Rd
 - [Otter-Ridge Art Studio](https://coveoregon.org/businesses/) – Wildlife art – 1806 Conklin Lane
 - [A Specialty For You](https://coveoregon.org/businesses/) – Embroidery – 69544 Antles Lane
@@ -51,13 +50,6 @@ A list of local resources in Cove, Oregon [97824](https://www.unitedstateszipcod
 - [Pitchpork Cross LLC](https://coveoregon.org/businesses/) – Grass-fed free-range beef – 69956 Hidden Valley Lane
 - [Blue Mountain Solar, Inc.](http://www.bluemountainsolar.com/) – Solar photovoltaic installations – 70177 Ponderosa Lane
 - Grande Ronde Mennonite Church – 69371 Lantz Lane
-
-## Events
-- [Cove Cherry Fair](http://covecherryfair.com)
-- [Annual Cove Garden Tour](https://coveoregon.org/annual-garden-tour/)
-- [Cove All School Reunion](https://coveoregon.org/cove-school-reunion/)
-
-## Community
 - [Cove Community Association](https://coveoregon.org/cove-community-association/)
 - [City of Cove](http://cityofcove.org/)
 - [Union County Chamber of Commerce](https://unioncountychamber.org/)
@@ -67,6 +59,13 @@ A list of local resources in Cove, Oregon [97824](https://www.unitedstateszipcod
 - [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}})
 - [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}})
 - [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}})
+
+## Share this list of local links with the following:
+[Just the QR code for Union local resources and businesses - png](CoveOrLocalResourcesListQRCode.png)
+
+[Cove Local Resources & Businesses Printable 3" x 5" Index Card - pdf](coveOrLocalResourcesCard.pdf)
+
+[Cove Local Resources & Businesses Printable 3" x 5" Index Card - LibreOffice Draw - odg](coveOrLocalResourcesCard.odg)  Open this file using [LibreOffice](https://www.libreoffice.org/)
 
 ## To make changes to the list
 If there is anything missing or things that need to be updated [Create an Issue and let me know what changes are wanted on the Cove Oregon local list](https://github.com/djbrieck/brieckspro/issues).
