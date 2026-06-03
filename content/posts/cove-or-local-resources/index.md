@@ -6,31 +6,28 @@ draft: true
 A list of local resources in Cove, Oregon [97824](https://www.unitedstateszipcodes.org/97824/).
 
 ## OR 237  – North and West side of Highway 203
-- [Cove Sportsman Club](https://coveoregon.org/cove-sportsman-club/) – Hwy 237, south end of town
-
+- [Cove Sportsman Club](https://coveoregon.org/cove-sportsman-club/)
+- [City of Cove](http://cityofcove.org/)
+- [Cove Seventh Day Adventist Church](https://coveor.adventistchurch.org/)
+- [The Art of Katherine Treffinger](http://www.katherinetreffinger.com/)
+- [Cove Public Library](https://coveoregon.org/cove-library/)
+- [Cove Drive In](https://www.facebook.com/profile.php?id=100042957325572)
+- [Cove School District](http://www.cove.k12.or.us)
+- [Dollar's Corner](https://www.facebook.com/DollarsCorner/)
+- [Masonic Lodge #91](https://oregonfreemasonry.com/lodge-locator/)
 
 ## OR 237 – South and East Side
 - [Steakhouse at Cove](https://www.steakhouseatcove.com/)
+- [United States Postal Service Cove Post Office](https://tools.usps.com/locations/details/1359446)
+- [Cheri's Main Street Salon](https://www.cherismainstsalon.com/)
+- [Cove Rural Fire Protection District](https://www.facebook.com/p/Cove-Rural-Fire-Protection-District-100064481060636/)
+- [Calvary Baptist Church](https://www.facebook.com/CoveCalvary/)
+- [Cove Swimming Pool](https://coveoregon.org/cove-warm-spring-pool/)
 
 ---
 
-- Cove Seventh Day Adventist Church – 502 Main St
-- Grace Community Lutheran Church – 502 Main St *(meets at SDA Church)*
-- [United States Postal Service Cove Post Office](https://tools.usps.com/locations/details/1359446) – 601 Main St
-- [Cheri's Main Street Salon](https://www.facebook.com/pages/Cheris-Main-St-Salon/441211295914864) – 603 Main St
-- Cove Rural Fire Department – 607 Main St
-- Calvary Baptist Church – 707 Main St
-- [Cove School District](http://www.cove.k12.or.us/home) – 803 Main St
 
-- [Cove Public Library](https://coveoregon.org/cove-library/) – 606 Main St
-- [The Art of Katherine Treffinger](http://www.katherinetreffinger.com/) – 604 Main St
-- [Cove Drive-In](https://www.facebook.com/pages/Cove-Drive-In/118342191523881) – 702 Main St
-- [Dollar's Corner](https://coveoregon.org/businesses/) – Groceries, gas, laundry & car wash – 808 Main St
 
-- [City of Cove](http://cityofcove.org/) – 504 Alder St
-- Masonic Lodge #91 – 111 Jasper St
-- [Eastern Oregon Solid Surface](http://www.easternoregonsolidsurface.com/) – Corian specialist – 809 Mill St
-- [Cove Warm Spring Pool](https://coveoregon.org/cove-warm-spring-pool/) – 907 Water St
 - [Ascension Camp & Conference Center](http://coveascensionschool.com/) – Summer camp & full-service retreat – 1006 Church St
 - [Ascension Episcopal Chapel](http://coveascensionschool.com/) – 1104 Church St
 - [Cove Preschool](https://www.facebook.com/pages/Cove-Preschool/180973415265824) – 1101½ Church St
