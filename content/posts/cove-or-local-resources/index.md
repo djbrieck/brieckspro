@@ -7,6 +7,8 @@ A list of local resources in Cove, Oregon [97824](https://www.unitedstateszipcod
 
 ## OR 237  – North and West side of Highway 203
 - [Cove Sportsman Club](https://coveoregon.org/cove-sportsman-club/)
+- [Ascension Camp & Conference Center](http://coveascensionschool.com/)
+- [Cove Preschool](https://covepreschool74.wixsite.com/mysite)
 - [City of Cove](http://cityofcove.org/)
 - [Cove Seventh Day Adventist Church](https://coveor.adventistchurch.org/)
 - [The Art of Katherine Treffinger](http://www.katherinetreffinger.com/)
@@ -23,25 +25,14 @@ A list of local resources in Cove, Oregon [97824](https://www.unitedstateszipcod
 - [Cove Rural Fire Protection District](https://www.facebook.com/p/Cove-Rural-Fire-Protection-District-100064481060636/)
 - [Calvary Baptist Church](https://www.facebook.com/CoveCalvary/)
 - [Cove Swimming Pool](https://coveoregon.org/cove-warm-spring-pool/)
+- [Cove Cemetery](https://coveoregon.org/cove-cemetery/)
+- [Leading Goldens](https://www.leadinggoldens.com/)
+- [Lock Stock & Barrel Gunsmithing](https://w.amgoa.org/LOCK-STOCK-AND-BARREL-GUNSMITHING/ffl/133455)
+- [Evergreen Mountain Instruments](https://users.eoni.com/~emi/)
+- [Dimond Art Glass Studio & Gallery](https://maps.app.goo.gl/BH2jErsC1PhdHABM6)
 
 ---
 
-
-
-- [Ascension Camp & Conference Center](http://coveascensionschool.com/) – Summer camp & full-service retreat – 1006 Church St
-- [Ascension Episcopal Chapel](http://coveascensionschool.com/) – 1104 Church St
-- [Cove Preschool](https://www.facebook.com/pages/Cove-Preschool/180973415265824) – 1101½ Church St
-- [Evergreen Mountain Instruments](http://www.eoni.com/~emi/) – Musical instruments, manufacturer & instructor – 1608 Jasper St
-- Cove United Methodist Church – 1708 Jasper St
-- [Cove Senior Citizens Program](https://coveoregon.org/cove-senior-citizens/)
-- [Cove Cemetery](https://coveoregon.org/cove-cemetery/) – Leopard Drive
-- [Lock Stock & Barrel Gunsmithing](https://coveoregon.org/businesses/) – Gun sales & service – 60332 Leopard Drive
-- [Dimond Art Glass Studio & Gallery](http://www.dimondartglass.com/) – 60881 Stackland Rd
-- [Otter-Ridge Art Studio](https://coveoregon.org/businesses/) – Wildlife art – 1806 Conklin Lane
-- [A Specialty For You](https://coveoregon.org/businesses/) – Embroidery – 69544 Antles Lane
-- Golden Eagle Gift Shop – 69519 Haefer Lane
-- [Reinford's Custom Cuts](https://coveoregon.org/businesses/) – Meat processing – 60040 Thew Loop
-- Stay and Away Pet Services – Pet sitting, grooming & obedience training
 - [Cove Christian Camp](http://www.covechristiancamp.org/) – 68405 Mill Creek Lane
 - [Folly Farm](http://FollyFarmOregon.com) – Heirloom vegetables, gourmet garlic, seed bank – 67364 Squire Loop
 - [Pitchpork Cross LLC](https://coveoregon.org/businesses/) – Grass-fed free-range beef – 69956 Hidden Valley Lane
