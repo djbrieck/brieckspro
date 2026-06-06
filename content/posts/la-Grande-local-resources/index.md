@@ -59,6 +59,7 @@ A list of local resources in La Grande, Oregon [97850](https://www.unitedstatesz
 ## Nearby Local
 - [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}})
 - [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}})
+- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}})
 
 ## Share this list of local links with the following:
 [Just the QR code for La Grande local resources and businesses - png](LaGrandeLocalResourcesListQRCode.png)

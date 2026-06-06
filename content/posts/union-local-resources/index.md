@@ -125,9 +125,8 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 - [Catherine Creek Hides](https://www.catherinecreekhides.com/)
 
 ## Nearby local
-
+- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}})
 - [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}})
-
 - [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}})
 
 ## Share this list of local links with the following:

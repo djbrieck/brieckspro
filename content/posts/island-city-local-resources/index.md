@@ -54,9 +54,6 @@ A list of local resources in Island City, Oregon [97850](https://www.unitedstate
 
 - [Apple Eyecare](https://www.lagrandeappleeyecarepc.com/)
 
-
-
-
 ## South McAllester Rd
 
 ### West 
@@ -64,9 +61,8 @@ A list of local resources in Island City, Oregon [97850](https://www.unitedstate
 ### East
 
 ## Nearby Local
-
 - [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}})
-
+- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}})
 - [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}})
 
 ## Share this list of local links with the following:
