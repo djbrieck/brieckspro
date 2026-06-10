@@ -47,7 +47,7 @@ A list of local resources in Cove, Oregon [97824](https://www.unitedstateszipcod
 - [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}})
 
 ## Share this list of local links with the following:
-[Just the QR code for Union local resources and businesses - png](CoveOrLocalResourcesListQRCode.png)
+[Just the QR code for Cove Local resources and businesses - png](CoveOrLocalResourcesListQRCode.png)
 
 [Cove Local Resources & Businesses Printable 3" x 5" Index Card - pdf](coveOrLocalResourcesCard.pdf)
 
