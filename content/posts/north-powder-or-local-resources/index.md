@@ -1,7 +1,7 @@
 ---
 title: "North Powder Local Resources and Businesses"
-date: 2026-06-10T15:01:25-07:00
-draft: true
+date: 2026-06-11T16:51:25-07:00
+draft: false
 ---
 A list of local resources in North Powder, Oregon [97867](https://www.unitedstateszipcodes.org/97867/).
 
@@ -18,7 +18,11 @@ A list of local resources in North Powder, Oregon [97867](https://www.unitedstat
 - [North Powder Cafe & Truck Stop](https://www.facebook.com/profile.php?id=100039843556599)
 - [Vintage & Old Stuff](https://northpowderoregon.org/merchantiles/)
 - [CJ's Country Store](https://www.facebook.com/profile.php?id=100057459939238)
+- [Cornerstone Baptist Church](https://www.unitedstateschurches.com/oregon/cornerstone-baptist-church-north-powder/345049)
 - [Happy Campers Mini Mart](https://www.facebook.com/happycampersminimartllc)
+- [Oregon Trail Seeds](https://www.otseeds.com/)
+- [Wagontracks Campground RV & Storage](https://www.facebook.com/p/Wagontracks-Campground-RV-Storage-100063763642338/)
+- [The Compost Chick](https://www.thecompostchick.com/)
 
 ## Nearby Local
 - [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}})
