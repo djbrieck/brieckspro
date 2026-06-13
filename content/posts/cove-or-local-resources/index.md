@@ -42,9 +42,10 @@ A list of local resources in Cove, Oregon [97824](https://www.unitedstateszipcod
 
 
 ## Nearby Local
-- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}})
-- [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}})
-- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}})
+- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}}) 9.2 miles away.
+- [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}}) 13.4 miles away.
+- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}}) 15.9 miles away.
+- [North Powder Local Resources and Business]({{< ref "posts/north-powder-or-local-resources/">}}) 24.5 miles away.
 
 ## Share this list of local links with the following:
 [Just the QR code for Cove Local resources and businesses - png](CoveOrLocalResourcesListQRCode.png)

@@ -25,10 +25,10 @@ A list of local resources in North Powder, Oregon [97867](https://www.unitedstat
 - [The Compost Chick](https://www.thecompostchick.com/)
 
 ## Nearby Local
-- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}})
-- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}})
-- [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}})
-- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}})
+- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}}) 15.4 miles away.
+- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}}) 24.3 miles away.
+- [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}}) 24.5 miles away.
+- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}})  24.6 miles away.
 
 ## Share this list of local links with the following:
 [Just the QR code for North Powder local resources and businesses - png](NorthPowderOrLocalResourcesListQRCode.png)

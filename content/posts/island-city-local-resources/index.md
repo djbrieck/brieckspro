@@ -61,9 +61,10 @@ A list of local resources in Island City, Oregon [97850](https://www.unitedstate
 ### East
 
 ## Nearby Local
-- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}})
-- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}})
-- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}})
+- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}}) 2.5 miles away.
+- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}}) 13.4 miles away.
+- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}})  14.4 miles away.
+- [North Powder Local Resources and Business]({{< ref "posts/north-powder-or-local-resources/">}}) 24.5 miles away.
 
 ## Share this list of local links with the following:
 [Just the QR code for Island City local resources and businesses - png](IslandCityLocalResourcesListQRCode.png)

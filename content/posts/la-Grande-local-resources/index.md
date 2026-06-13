@@ -57,9 +57,10 @@ A list of local resources in La Grande, Oregon [97850](https://www.unitedstatesz
 - [Blue Mountain Footwear](https://bluemountainfootwear.com/)
 
 ## Nearby Local
-- [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}})
-- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}})
-- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}})
+- [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}}) 2.5 miles away.
+- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}}) 14.3 miles away.
+- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}}) 15.9 miles away.
+- [North Powder Local Resources and Business]({{< ref "posts/north-powder-or-local-resources/">}}) 24.4 miles away.
 
 ## Share this list of local links with the following:
 [Just the QR code for La Grande local resources and businesses - png](LaGrandeLocalResourcesListQRCode.png)

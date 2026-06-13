@@ -125,9 +125,10 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 - [Catherine Creek Hides](https://www.catherinecreekhides.com/)
 
 ## Nearby local
-- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}})
-- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}})
-- [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}})
+- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}}) 9.2 miles away.
+- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}}) 14.3 miles away.
+- [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}}) 14.4 miles away.
+- [North Powder Local Resources and Business]({{< ref "posts/north-powder-or-local-resources/">}}) 15.4 miles away.
 
 ## Share this list of local links with the following:
 [Just the QR code for Union local resources and businesses - png](UnionLocalResourcesListQRCode.png)
