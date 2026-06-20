@@ -6,18 +6,16 @@ draft: true
 A list of local resources in Imbler, Oregon [97841](https://www.unitedstateszipcodes.org/97841/).
 
 ## OR 82 – East Side 
+- [Oregon Trail Seeds](https://www.otseeds.com/)
+- [United States Postal Service – Imbler Post Office](https://tools.usps.com/locations/details/1367852)
+- [Blue Mt Seeds](https://www.facebook.com/Bluemtseeds/)
 
 ## OR 82 – West Side
 - [Imbler Christian Church](https://www.imblerchristianchurch.org/)
 - [City of Imbler](https://cityofimbler.org/)
-- [Imbler Rural Fire Protection District](https://cityofimbler.org/contact/#:~:text=Imbler%20Rural%20Fire%20Department)
-
-----
-- [United States Postal Service – Imbler Post Office](https://tools.usps.com/locations/details/1367852)
 - [Valley Fabrication](https://www.chamberofcommerce.com/business-directory/oregon/imbler/fabrication-steel/10884837-valley-fabrication-machine)
-- [Blue Mt Seeds](https://www.facebook.com/Bluemtseeds/)
-- [Oregon Trail Seeds](https://www.otseeds.com/)
 - [Imbler School District](https://www.imbler.k12.or.us/)
+- [Imbler Rural Fire Protection District](https://cityofimbler.org/contact/#:~:text=Imbler%20Rural%20Fire%20Department)
 
 ## Nearby Local
 - [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}}) 9.8 miles away.
