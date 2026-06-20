@@ -20,11 +20,11 @@ A list of local resources in Imbler, Oregon [97841](https://www.unitedstateszipc
 - [Imbler School District](https://www.imbler.k12.or.us/)
 
 ## Nearby Local
-- [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}})  miles away.
-- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}})  miles away.
-- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}})  miles away.
-- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}})   miles away.
-- [North Powder Local Resources and Business]({{< ref "posts/north-powder-or-local-resources/">}})  miles away.
+- [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}}) 9.8 miles away.
+- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}}) 12.2 miles away.
+- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}}) 21.2 miles away.
+- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}}) 22.7 miles away.
+- [North Powder Local Resources and Business]({{< ref "posts/north-powder-or-local-resources/">}}) 34.3 miles away.
 
 ## Share this list of local links with the following:
 [Just the QR code for Imbler local resources and businesses - png](ImblerOrLocalResourcesListQRCode.png)
