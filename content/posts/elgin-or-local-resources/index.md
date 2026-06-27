@@ -6,12 +6,21 @@ draft: true
 A list of local resources in Elgin, Oregon [97827](https://www.unitedstateszipcodes.org/97827/).
 
 
+## South and East side of Oregon Route 82
+
+## North and West side of Oregon Route 82
+- [Elgin Opera House](https://www.elginoperahouse.com/)
+- [Elgin Museum and Historical Society](https://elginmuseum.org/)
+- [City of Elgin](https://cityofelginor.org/)
+
+## North side of Oregon Route 204
+
+## South side of Oregon Route 204
+
+----
 
 
 ## Government & Civic
-- [City of Elgin](https://cityofelginor.org/)
-- [Elgin Opera House](https://cityofelginor.org/pages/opera-house)
-- [Elgin Museum and Historical Society](https://elginmuseum.org/)
 - [Elgin Community Center](https://cityofelginor.org/pages/community-center)
 - [HU-NA-HA RV Park](https://cityofelginor.org/pages/hu-na-ha-rv-park)
 - [United States Postal Service – Elgin Post Office](https://tools.usps.com/locations/)
@@ -58,9 +67,12 @@ A list of local resources in Elgin, Oregon [97827](https://www.unitedstateszipco
 - [Elgin United Methodist Church](https://www.facebook.com/search/top?q=elgin+united+methodist+church+oregon)
 
 ## Nearby Local
-- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}})
-- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}})
-- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}})
+- [Imbler Local Resources and Businesses]({{< ref "posts/imbler-or-local-resources/">}}) 7.9 miles away.
+- [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}}) 17.6 miles away.
+- [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}}) 20 miles away.
+- [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}}) 29 miles away.
+- [Union Local Resources and Businesses]({{< ref "posts/union-local-resources/">}}) 30.5 miles away.
+- [North Powder Local Resources and Business]({{< ref "posts/north-powder-or-local-resources/">}}) 42.1 miles away.
 
 ## Share this list of local links with the following:
 [Just the QR code for Elgin local resources and businesses - png](ElginOrLocalResourcesListQRCode.png)
