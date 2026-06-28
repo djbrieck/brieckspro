@@ -7,41 +7,29 @@ A list of local resources in Elgin, Oregon [97827](https://www.unitedstateszipco
 
 
 ## South and East side of Oregon Route 82
+- [Bighorns of Elgin](https://www.bighornsofelginllc.com/)
+- [STCU – Elgin Branch](https://stcu.org/locations/elgin-branch)
+- [HU-NA-HA RV Park](https://cityofelginor.org/pages/hu-na-ha-rv-park)
 
 ## North and West side of Oregon Route 82
+- [Elgin Community Center - Elgin Parks and Recreation District](https://sites.google.com/elginparksandrec.org/www-elginparksandrec-org/home)
 - [Elgin Opera House](https://www.elginoperahouse.com/)
+- [The Elgin Station Grill & Bar](https://the-elgin-station-grill-and-bar.menu-page.com/)
+- [United States Postal Service – Elgin Post Office](https://tools.usps.com/locations/details/1362266)
 - [Elgin Museum and Historical Society](https://elginmuseum.org/)
 - [City of Elgin](https://cityofelginor.org/)
 
 ## North side of Oregon Route 204
+- [Elgin School District](http://www.elgin.k12.or.us/)
 
 ## South side of Oregon Route 204
+- [Czer's Drive-In](https://www.yelp.com/biz/czers-drive-in-elgin)
+- [Billy Bob's & Stafford's Custom Meats](https://www.facebook.com/billybobscustomeats)
+- [Elgin High School](https://hs.elgin.k12.or.us/)
 
 ----
 
-
-## Government & Civic
-- [Elgin Community Center](https://cityofelginor.org/pages/community-center)
-- [HU-NA-HA RV Park](https://cityofelginor.org/pages/hu-na-ha-rv-park)
-- [United States Postal Service – Elgin Post Office](https://tools.usps.com/locations/)
-- [Bureau of Land Management – Elgin Field Office](https://www.blm.gov/)
-
-## Education
-- [Elgin School District](http://www.elgin.k12.or.us/)
-- [Elgin High School](http://www.elgin.k12.or.us/)
-
-## Financial
-- [Community Bank – Elgin Branch](https://www.communitybanknet.com/)
-- [Northeast Oregon Federal Credit Union](https://www.noecu.org/)
-
-## Food & Drink
-- [Bighorns of Elgin](https://www.bighornsofelginllc.com/)
-- [The Elgin Station Grill & Bar](https://www.facebook.com/Elginstation52/)
-- [Czer's Drive-In](https://www.facebook.com/search/top?q=czers%20drive-in%20elgin%20oregon)
-- [Lelo's Sports Bar & Eatery](https://www.facebook.com/search/top?q=lelos%20sports%20bar%20elgin%20oregon)
-
 ## Retail & Services
-- [Billy Bob's & Stafford's Custom Meats](https://bbcustommeats.com/)
 - [Elgin Chevron](https://www.facebook.com/search/top?q=elgin%20chevron%20oregon)
 - [Oregon East Industries (UPS Drop)](https://maps.app.goo.gl/search/43+N+8th+Ave+Elgin+OR)
 - [Subway – Elgin](https://www.subway.com/en-US/FindAStore)
