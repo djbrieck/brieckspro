@@ -10,11 +10,17 @@ A list of local resources in Elgin, Oregon [97827](https://www.unitedstateszipco
 - [Bighorns of Elgin](https://www.bighornsofelginllc.com/)
 - [STCU – Elgin Branch](https://stcu.org/locations/elgin-branch)
 - [HU-NA-HA RV Park](https://cityofelginor.org/pages/hu-na-ha-rv-park)
+- [Elgin Stampede (PRCA Rodeo)](https://www.elginstampede.com/)
 
 ## North and West side of Oregon Route 82
+- [Elgin Chevron](https://www.chevronwithtechron.com/en_us/home/gas-station-near-me.html?/station/785-ALBANY-ST-ELGIN-OR-97827-id93879)
+- [Elgin Police](https://cityofelginor.org/pages/city-info#:~:text=Police%20(Union%20County%20Sheriffs))
+- [The Church of Jesus Christ of Latter-day Saints](https://local.churchofjesuschrist.org/en/us/or/elgin/755-baltimore)
 - [Elgin Community Center - Elgin Parks and Recreation District](https://sites.google.com/elginparksandrec.org/www-elginparksandrec-org/home)
+- [Eagle Cap Excursion Train](https://www.eaglecaptrainrides.com/)
 - [Elgin Opera House](https://www.elginoperahouse.com/)
 - [The Elgin Station Grill & Bar](https://the-elgin-station-grill-and-bar.menu-page.com/)
+- [Elgin Chamber of Commerce](https://www.facebook.com/visitelgin1700/)
 - [United States Postal Service – Elgin Post Office](https://tools.usps.com/locations/details/1362266)
 - [Elgin Museum and Historical Society](https://elginmuseum.org/)
 - [City of Elgin](https://cityofelginor.org/)
@@ -29,23 +35,10 @@ A list of local resources in Elgin, Oregon [97827](https://www.unitedstateszipco
 
 ----
 
-## Retail & Services
-- [Elgin Chevron](https://www.facebook.com/search/top?q=elgin%20chevron%20oregon)
-- [Oregon East Industries (UPS Drop)](https://maps.app.goo.gl/search/43+N+8th+Ave+Elgin+OR)
-- [Subway – Elgin](https://www.subway.com/en-US/FindAStore)
-
-## Attractions & Recreation
-- [Eagle Cap Excursion Train](https://www.eaglecaptrainrides.com/)
-- [Elgin Stampede (PRCA Rodeo)](https://www.elginstampede.com/)
-- [Elgin Lions Club / Riverfest](http://www.visitelginoregon.com/)
-- [Visit Elgin Oregon](https://www.visitelginor.com/)
-
 ## Organizations
-- [Elgin Chamber of Commerce](https://www.facebook.com/visitelgin1700/)
 - [Masonic Family Hiram Lodge #67](https://oregonfreemasonry.com/lodge-locator/)
 - [Order of Eastern Star #52](https://oregonfreemasonry.com/lodge-locator/)
 - [Rockwall Grange](https://www.nationalgrange.org/)
-- [Elgin Stampeders Association](https://www.facebook.com/search/top?q=elgin%20stampeders%20association)
 
 ## Churches
 - [Elgin Baptist Church](https://elginbaptistchurch.net/)
