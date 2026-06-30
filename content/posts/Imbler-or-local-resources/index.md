@@ -18,6 +18,7 @@ A list of local resources in Imbler, Oregon [97841](https://www.unitedstateszipc
 - [Imbler Rural Fire Protection District](https://cityofimbler.org/contact/#:~:text=Imbler%20Rural%20Fire%20Department)
 
 ## Nearby Local
+- [Elgin Local Resources and Businesses]({{< ref "posts/elgin-or-local-resources/">}}) 7.9 miles away.
 - [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}}) 9.8 miles away.
 - [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}}) 12.2 miles away.
 - [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}}) 21.2 miles away.
