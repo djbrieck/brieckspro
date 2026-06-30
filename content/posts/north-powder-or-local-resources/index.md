@@ -29,6 +29,8 @@ A list of local resources in North Powder, Oregon [97867](https://www.unitedstat
 - [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}}) 24.3 miles away.
 - [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}}) 24.5 miles away.
 - [Cove Local Resources and Businesses]({{< ref "posts/cove-or-local-resources/">}})  24.6 miles away.
+- [Imbler Local Resources and Businesses]({{< ref "posts/imbler-or-local-resources/">}}) 35.4 miles away.
+- [Elgin Local Resources and Businesses]({{< ref "posts/elgin-or-local-resources/">}}) 43.2 miles away.
 
 ## Share this list of local links with the following:
 [Just the QR code for North Powder local resources and businesses - png](NorthPowderOrLocalResourcesListQRCode.png)
