@@ -129,6 +129,8 @@ A list of local resources in Union, Oregon [97883](https://www.unitedstateszipco
 - [La Grande Local Resources and Businesses]({{< ref "posts/la-grande-local-resources/">}}) 14.3 miles away.
 - [Island City Resources and Businesses]({{< ref "posts/island-city-local-resources/">}}) 14.4 miles away.
 - [North Powder Local Resources and Business]({{< ref "posts/north-powder-or-local-resources/">}}) 15.4 miles away.
+- [Imbler Local Resources and Businesses]({{< ref "posts/imbler-or-local-resources/">}}) 22.7 miles away.
+- [Elgin Local Resources and Businesses]({{< ref "posts/elgin-or-local-resources/">}}) 30.5 miles away.
 
 ## Share this list of local links with the following:
 [Just the QR code for Union local resources and businesses - png](UnionLocalResourcesListQRCode.png)
