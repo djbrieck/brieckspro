@@ -23,29 +23,20 @@ A list of local resources in Elgin, Oregon [97827](https://www.unitedstateszipco
 - [Elgin Chamber of Commerce](https://www.facebook.com/visitelgin1700/)
 - [United States Postal Service – Elgin Post Office](https://tools.usps.com/locations/details/1362266)
 - [Elgin Museum and Historical Society](https://elginmuseum.org/)
+- [Elgin Harvester's Church of the Nazarene](https://www.facebook.com/elginoregonharvestersnazarene/)
 - [City of Elgin](https://cityofelginor.org/)
 
 ## North side of Oregon Route 204
+- [Seventh-day Adventist Church](https://elginor.adventistchurch.org/)
+- [Elgin Baptist Church](https://elginbaptistchurch.net/)
 - [Elgin School District](http://www.elgin.k12.or.us/)
 
 ## South side of Oregon Route 204
 - [Czer's Drive-In](https://www.yelp.com/biz/czers-drive-in-elgin)
+- [Christian Life Center](https://www.elginchristianlifecenter.com/)
+- [St. Mary Catholic Church](https://www.olvcatholic.org/our-missions)
 - [Billy Bob's & Stafford's Custom Meats](https://www.facebook.com/billybobscustomeats)
 - [Elgin High School](https://hs.elgin.k12.or.us/)
-
-----
-
-## Organizations
-- [Masonic Family Hiram Lodge #67](https://oregonfreemasonry.com/lodge-locator/)
-- [Order of Eastern Star #52](https://oregonfreemasonry.com/lodge-locator/)
-- [Rockwall Grange](https://www.nationalgrange.org/)
-
-## Churches
-- [Elgin Baptist Church](https://elginbaptistchurch.net/)
-- [Elgin Harvester's Church of the Nazarene](https://www.facebook.com/elginoregonharvestersnazarene/)
-- [St. Mary Catholic Church](https://www.facebook.com/search/top?q=st+mary+catholic+church+elgin+oregon)
-- [Christian Life Center (Assemblies of God)](https://www.facebook.com/search/top?q=christian+life+center+elgin+oregon)
-- [Elgin United Methodist Church](https://www.facebook.com/search/top?q=elgin+united+methodist+church+oregon)
 
 ## Nearby Local
 - [Imbler Local Resources and Businesses]({{< ref "posts/imbler-or-local-resources/">}}) 7.9 miles away.
