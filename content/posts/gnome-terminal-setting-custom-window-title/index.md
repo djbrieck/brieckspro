@@ -33,8 +33,8 @@ If you're building a custom `.desktop` file for the Cinnamon menu (usually place
 ```ini
 [Desktop Entry]
 Name=process viewer - top
-Comment=Run apt update and upgrade
-Exec=gnome-terminal --title="top" -- bash -c "top; exec bash"
+Comment=Run top - display Linux processes
+Exec=gnome-terminal --title="top - press Q to quit" -- bash -c "top;"
 Icon=utilities-terminal
 Terminal=false
 Type=Application
