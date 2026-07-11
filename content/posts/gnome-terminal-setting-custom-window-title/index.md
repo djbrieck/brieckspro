@@ -1,7 +1,7 @@
 ---
 title: "Setting a Custom Window Title for GNOME Terminal"
 date: 2026-07-10T16:04:22-07:00
-draft: true
+draft: false
 ---
 
 # Setting a Custom Window Title for GNOME Terminal (Perfect for Menu Shortcuts)
