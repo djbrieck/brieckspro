@@ -30,7 +30,8 @@ With the following workflow goals of having an icon in task bar when clicked doe
 
 5. For Name: enter `start ipfs daemon`
 
-6.  Command: `ipfs daemon`
+6.  Command: `ipfs daemon` 
+To make this pro and set a custom terminal name see [Setting a Custom Window Title for GNOME Terminal]({{< ref "posts/gnome-terminal-setting-custom-window-title/">}})
 
 7. Check checkbox for "Launch in Terminal ?"
 
