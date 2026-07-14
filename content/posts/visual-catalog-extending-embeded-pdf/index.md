@@ -12,22 +12,22 @@ documents pulled straight from IPFS. On paper that's convenient — no
 conversion step, just point the viewer at the CID and let the browser do the
 rest.
 
-In practice, it isn't always reliable. Mobile embedded PDF viewers are a
+However, in practice, the embedded PDF viewers aren't always reliable. Mobile embedded PDF viewers are a
 patchwork: some browsers render inline, some kick out to a native app, some
 silently fail to load a plugin at all, and the experience differs across
-iOS, Android, and whatever WebView flavor a given app happens to ship. For
+iOS, Android, and whatever WebView flavor a given app happens to ship. And for example, on iOS the embeded PDF viewers 
+tends to show only one page of a PDF regardless of how many pages it actually has. For
 something as simple as browsing a multi-page menu or catalog, that's enough
 fragility that PDF shouldn't be the *only* way to view a document.
 
-## The idea: keep PDF, add a plain HTML option alongside it
+## The idea: keep PDF, add a visual image based plain HTML option alongside it
 
 To be clear, this isn't about dropping PDF — PDF stays exactly where it is,
 and it's still the right choice for a lot of cases. The goal was to give it
 company: a second, simpler format that can be offered as an alternative when
 the embedded viewer doesn't cooperate. So alongside the PDF, each document
 can now also be exported as a set of plain HTML pages with rasterized
-images, the same way LibreOffice's old Impress/Draw HTML export wizard used
-to do it.
+images, the same way LibreOffice's Impress/Draw HTML export wizard does it.
 
 As a fallback or alternative to the PDF, that gives you:
 
@@ -39,21 +39,21 @@ As a fallback or alternative to the PDF, that gives you:
 
 It's a deliberately "boring" format, and that's the point. It works the same
 everywhere a browser works, which is a useful property to have in reserve
-when you're serving content over IPFS to an unpredictable mix of devices —
-without giving up the PDF for the cases where it's the better fit.
+when you're serving content to an unpredictable mix of devices —
+without giving up the PDF for the cases where it's the better fit, for example on Desktop. 
 
 ## The first pass: doing it by hand in OpenOffice
 
 Before any of this was scripted, the visual catalog format itself came from
-just doing it manually: exporting a document to HTML through OpenOffice/
+just doing it manually: exporting a PDF document to HTML through OpenOffice/
 LibreOffice's own export dialog, page by page, and using that output as-is.
 It worked, and it proved the format was worth having — but it was a manual,
 click-through-the-wizard process every time, with no control over the output
 folder name, no way to inject a shared stylesheet, and no way to customize
 page titles beyond whatever the wizard defaulted to. Fine for a one-off, not
-something you'd want to repeat for every document.
+something you'd want to repeat for every document and have to do minimal repetitive edits.
 
-## Then automated it with AI
+## This was a case for automating it with AI assistance.
 
 That's where AI assistance came in — not to invent the format, but to turn
 the manual export into a proper one-command tool. The ask was straightforward:
@@ -65,13 +65,17 @@ poppler, generating letterboxed thumbnails, and templating out the HTML to
 match the original wizard's structure — down to matching how the first/last
 page nav links go from clickable to plain text.
 
-## Now we have a one-command tool to use
+## Now we have a one-command tool to use visual-catalog-generator
+
+Check out the source code here [visual-catalog-generator - GitHub](https://github.com/djbrieck/visual-catalog-generator)
 
 The result is `odg_to_catalog.py` — what used to be a manual trip through
 the OpenOffice export wizard is now a single command. Point it at a `.odg`
-file and it produces a folder like `SampleMenuVisualCatalog/` containing the
+file, and it produces a folder like `SampleMenuVisualCatalog/` containing the
 overview page, per-page HTML, full-size images, and thumbnails, ready to be
-pinned and served over IPFS.
+pinned and served over IPFS, and perfect for adding to 
+[Un-Offical website template sites](https://github.com/djbrieck/Un-official-static-website-generator) to showcase 
+menus, etc.
 
 A few things it lets you control that the manual export never did:
 
