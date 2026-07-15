@@ -1,8 +1,15 @@
 ---
-title: "Beyond Embedded PDFs: Adding a Visual Catalog Option"
+title: "Beyond Mobile Embedded PDFs: Creating the Visual Catalog"
 date: 2026-07-13T15:58:28-07:00
 draft: true
 ---
+
+## The backstory
+
+Recently I have been building Un-Official websites for local business and resources. Part of the process I have 
+implemented includes for relevant resources: A PDF and corresponding plain text HTML version. I host these free un official pages using IPFS.
+Recently on mobile IPFS implemented a In browser IPFS endpoint. Part of the endpoint process introduced a new way to download PDF, rather than handle it as It's implemented as file download for the PDF.
+The new in browser 
 
 ## The problem: embedded PDF viewers aren't always reliable on mobile
 
