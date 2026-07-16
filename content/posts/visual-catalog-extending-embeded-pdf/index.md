@@ -6,26 +6,46 @@ draft: true
 
 ## The backstory
 
-Recently I have been building Un-Official websites for local business and resources. Part of the process I have 
-implemented includes for relevant resources: A PDF and corresponding plain text HTML version. I host these free un official pages using IPFS.
-Recently on mobile IPFS implemented a In browser IPFS endpoint. Part of the endpoint process introduced a new way to download PDF, rather than handle it as It's implemented as file download for the PDF.
-The new in browser 
+Recently, I have been building [Un-Official free websites]({{< ref "posts/free-local-websites/">}}) for local business 
+and resources. Part of the process I have 
+implemented includes adding relevant copies of necessary resources in various formats for better accessibility: A 
+[PDF](https://en.wikipedia.org/wiki/PDF) and corresponding plain text 
+[HTML](https://en.wikipedia.org/wiki/HTML) version of menus. I host these free un official pages using 
+[IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System).
+Recently on mobile IPFS implemented an In browser IPFS JavaScript client. Part of the endpoint process introduced a 
+differnt way to 
+download a PDF, rather than handle it as It's implemented just file download for the PDF.
+The new in browser adds a new view with a header with download button and then shows an embeded-pdf view of the file 
+intended to be downloaded. This re introduces the problem I had orginally fixed, by not using an embeded PDF on the 
+page. Mobile display of PDF especially on iPhone / iPad is particually bad, just shows one-page preview. This caused a 
+real problem since before on iOS when it recieved the file download it whould just show the PDF in the browser and would 
+show all pages. Now it just shows the review and now the user is now unknowing forced to have to download the PDF to get 
+the full picuture. This I found un acceptable and looked for a solution.
+
+![Showing the LB Brewskis Menu rendered with JavaScript IPFS In Browser client, showing pdf download with custom header and embeded single page preview of a multipage pdf. To get the full pdf on mobile user has to tap the download link in the header](IPFS-InBrowser-issue.PNG)
 
 ## The problem: embedded PDF viewers aren't always reliable on mobile
-
-With the recent changes in the JavaScript IPFS in-browser client, it started
-relying on embedded PDF viewers on various mobile platforms to render
-documents pulled straight from IPFS. On paper that's convenient — no
-conversion step, just point the viewer at the CID and let the browser do the
-rest.
 
 However, in practice, the embedded PDF viewers aren't always reliable. Mobile embedded PDF viewers are a
 patchwork: some browsers render inline, some kick out to a native app, some
 silently fail to load a plugin at all, and the experience differs across
-iOS, Android, and whatever WebView flavor a given app happens to ship. And for example, on iOS the embeded PDF viewers 
-tends to show only one page of a PDF regardless of how many pages it actually has. For
-something as simple as browsing a multi-page menu or catalog, that's enough
-fragility that PDF shouldn't be the *only* way to view a document.
+iOS, Android, and whatever WebView flavor a given app happens to ship. And for example, on iOS the embeded PDF viewers
+tends to show only one page of a PDF regardless of how many pages it actually has, and by default shows no way to
+download the PDF. For
+something as simple as quickly browsing a multipage menu or catalog, that's enough
+fragility and frustration that PDF shouldn't be the *only* way to view a document. So I had to find something else to try.
+
+## The first pass: getting the PDF to be in HTML format and how to quickly and easily do that 
+
+Before any of this was scripted, the visual catalog format itself came from
+just trying something crazy. That was open the PDF in LibreOffice Draw and then see if I could save it as HTML. Yes its 
+possible exporting a PDF document to HTML through OpenOffice/
+LibreOffice's own export dialog, page by page, and using that output as-is.
+It worked, and it proved the format was worth having — but it was a manual,
+click-through-the-wizard process every time, with no control over the output
+folder name, no way to inject a shared stylesheet, and no way to customize
+page titles beyond whatever the wizard defaulted to. Fine for a one-off, not
+something you'd want to repeat for every document and have to do many repetitive edits every time.
 
 ## The idea: keep PDF, add a visual image based plain HTML option alongside it
 
@@ -49,16 +69,7 @@ everywhere a browser works, which is a useful property to have in reserve
 when you're serving content to an unpredictable mix of devices —
 without giving up the PDF for the cases where it's the better fit, for example on Desktop. 
 
-## The first pass: doing it by hand in OpenOffice
 
-Before any of this was scripted, the visual catalog format itself came from
-just doing it manually: exporting a PDF document to HTML through OpenOffice/
-LibreOffice's own export dialog, page by page, and using that output as-is.
-It worked, and it proved the format was worth having — but it was a manual,
-click-through-the-wizard process every time, with no control over the output
-folder name, no way to inject a shared stylesheet, and no way to customize
-page titles beyond whatever the wizard defaulted to. Fine for a one-off, not
-something you'd want to repeat for every document and have to do minimal repetitive edits.
 
 ## This was a case for automating it with AI assistance.
 
