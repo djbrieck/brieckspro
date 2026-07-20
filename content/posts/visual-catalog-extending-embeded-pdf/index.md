@@ -19,8 +19,8 @@ The new in browser adds a new view with a header with download button and then s
 intended to be downloaded. This re introduces the problem I had orginally fixed, by not using an embeded PDF on the 
 page. Mobile display of PDF especially on iPhone / iPad is particually bad, just shows one-page preview. This caused a 
 real problem since before on iOS when it recieved the file download it whould just show the PDF in the browser and would 
-show all pages. Now it just shows the review and now the user is now unknowing forced to have to download the PDF to get 
-the full picuture. This I found un acceptable and looked for a solution.
+show all pages. Now it just shows the preview and now the user is unknowingly forced to have to download the PDF to get 
+the full picuture. This I found un acceptable and looked for another solution.
 
 ![Showing the LB Brewskis Menu rendered with JavaScript IPFS In Browser client, showing pdf download with custom header and embeded single page preview of a multipage pdf. To get the full pdf on mobile user has to tap the download link in the header](IPFS-InBrowser-issue.PNG)
 
@@ -29,23 +29,21 @@ the full picuture. This I found un acceptable and looked for a solution.
 However, in practice, the embedded PDF viewers aren't always reliable. Mobile embedded PDF viewers are a
 patchwork: some browsers render inline, some kick out to a native app, some
 silently fail to load a plugin at all, and the experience differs across
-iOS, Android, and whatever WebView flavor a given app happens to ship. And for example, on iOS the embeded PDF viewers
-tends to show only one page of a PDF regardless of how many pages it actually has, and by default shows no way to
-download the PDF. For
+iOS, Android, and whatever WebView flavor a given app happens to ship.  For
 something as simple as quickly browsing a multipage menu or catalog, that's enough
-fragility and frustration that PDF shouldn't be the *only* way to view a document. So I had to find something else to try.
+fragility and frustration that PDF can't be the *only* visual way to view a document. So I had to find something else.
 
 ## The first pass: getting the PDF to be in HTML format and how to quickly and easily do that 
 
 Before any of this was scripted, the visual catalog format itself came from
-just trying something crazy. That was open the PDF in LibreOffice Draw and then see if I could save it as HTML. Yes its 
+just trying something. That was open the PDF in LibreOffice Draw and then see if I could save it as HTML. It was 
 possible exporting a PDF document to HTML through OpenOffice/
 LibreOffice's own export dialog, page by page, and using that output as-is.
 It worked, and it proved the format was worth having — but it was a manual,
 click-through-the-wizard process every time, with no control over the output
 folder name, no way to inject a shared stylesheet, and no way to customize
 page titles beyond whatever the wizard defaulted to. Fine for a one-off, not
-something you'd want to repeat for every document and have to do many repetitive edits every time.
+something you'd want to repeat.
 
 ## The idea: keep PDF, add a visual image based plain HTML option alongside it
 
