@@ -6,6 +6,8 @@ draft: false
 
 # Setting a Custom Window Title for GNOME Terminal (Perfect for Menu Shortcuts)
 
+![Showing default top vs one with custom title set](SettingCustomWindowTitles.webp)
+
 If you've ever created a Cinnamon menu item or desktop shortcut that launches a terminal command, you've probably run into an annoying problem: the window just opens up labeled **"Terminal"**. That's fine when you're typing commands interactively, but it's useless when you've got five different terminal shortcuts pinned to your menu and can't tell them apart in the taskbar or Alt-Tab switcher.
 
 The good news is that GNOME Terminal gives you a few different ways to set a custom title, and they work great for exactly this use case.
