@@ -1,6 +1,6 @@
 ---
 title: "La Grande Local Resources and Businesses"
-date: 2026-06-20T9:30:00-07:00
+date: 2026-07-23T20:20:00-07:00
 draft: false
 ---
 A list of local resources in La Grande, Oregon [97850](https://www.unitedstateszipcodes.org/97850/).
@@ -44,6 +44,7 @@ A list of local resources in La Grande, Oregon [97850](https://www.unitedstatesz
 - [BI-MART](https://www.bimart.com/)
 - [Pilot Flying J](https://locations.pilotflyingj.com/us/or/la-grande/63276-oregon-203)
 - [The Lodge at Hot Lake Springs](https://hotlakelodge.com/)
+- [Oz Investing Services | Fiduciary Wealth Management & Virtual Family Office](https://www.ozinvestingservices.com/)
 - [Grande Ronde Dairy](https://www.granderondedairy.com/)
 ## Island Ave, Oregon Route 82
 ### South-ish
