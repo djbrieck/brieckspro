@@ -37,13 +37,12 @@ fragility and frustration that PDF can't be the *only* visual way to view a docu
 
 Before any of this was scripted, the visual catalog format itself came from
 just trying something. That was open the PDF in LibreOffice Draw and then see if I could save it as HTML. It was 
-possible exporting a PDF document to HTML through OpenOffice/
-LibreOffice's own export dialog, page by page, and using that output as-is.
-It worked, and it proved the format was worth having — but it was a manual,
-click-through-the-wizard process every time, with no control over the output
-folder name, no way to inject a shared stylesheet, and no way to customize
+possible exporting the PDF document to HTML through OpenOffice/
+LibreOffice's own export mechanism.
+It worked, and it proved the format was worth doing — but it is a manual,
+click-through-the-wizard process every time, no way to inject a shared stylesheet, and no way to customize
 page titles beyond whatever the wizard defaulted to. Fine for a one-off, not
-something you'd want to repeat.
+something I wanted to repeat.
 
 ## The idea: keep PDF, add a visual image based plain HTML option alongside it
 
@@ -60,14 +59,11 @@ As a fallback or alternative to the PDF, that gives you:
 - One HTML page per document page, with simple Back / Continue / First /
   Last navigation
 - Just `<img>` tags — no plugin, no viewer, no PDF.js, nothing that can fail
-  to initialize on a flaky mobile connection
+  to initialize on a flaky mobile connection, etc.
 
 It's a deliberately "boring" format, and that's the point. It works the same
 everywhere a browser works, which is a useful property to have in reserve
-when you're serving content to an unpredictable mix of devices —
-without giving up the PDF for the cases where it's the better fit, for example on Desktop. 
-
-
+when you're serving content to an unpredictable mix of devices. 
 
 ## This was a case for automating it with AI assistance.
 
