@@ -76,7 +76,7 @@ the manual export into a proper one-command tool. The ask was straightforward:
 take what the OpenOffice wizard produces by hand and reproduce it
 programmatically, end to end, with the missing controls (folder naming,
 shared CSS, custom titles) added on top. The AI handled the implementation
-and testing: rendering `.odg` pages to PDF, rasterizing each page with
+providing the script to handle: rendering `.odg` pages to PDF, rasterizing each page with
 poppler, generating letterboxed thumbnails, and templating out the HTML to
 match the original wizard's structure — down to matching how the first/last
 page nav links go from clickable to plain text.
@@ -112,8 +112,7 @@ python3 odg_to_catalog.py SampleMenu.odg \
 Under the hood it's just LibreOffice headless for the `.odg` → PDF step,
 `pdftoppm` to rasterize pages, and Pillow to build the thumbnails and
 letterbox them into a consistent 256×192 box — the same footprint as the
-original export's thumbnails, so it drops into existing layouts without
-surprises.
+original manual export from LibreOffice Draw.
 
 It's a small tool, but it adds something valuable alongside the PDF: a
 second format that's boring in the best way — plain HTML and PNGs that any
