@@ -1,7 +1,7 @@
 ---
 title: "Beyond Mobile Embedded PDFs: Creating the Visual Catalog"
-date: 2026-07-13T15:58:28-07:00
-draft: true
+date: 2026-07-29T15:27:28-07:00
+draft: false
 ---
 
 ## The backstory
