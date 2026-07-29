@@ -35,6 +35,8 @@ fragility and frustration that PDF can't be the *only* visual way to view a docu
 
 ## The first pass: getting the PDF to be in HTML format and how to quickly and easily do that 
 
+![Showing the Libre Office generated overview of all pages of the PDF, allowing you to pick the page to jumpt to by clicking on it, really nice!](LibreOfficeHTMLExportOverview.png)
+
 Before any of this was scripted, the visual catalog format itself came from
 just trying something. That was open the PDF in LibreOffice Draw and then see if I could save it as HTML. It was 
 possible exporting the PDF document to HTML through OpenOffice/
@@ -44,11 +46,13 @@ click-through-the-wizard process every time, no way to inject a shared styleshee
 page titles beyond whatever the wizard defaulted to. Fine for a one-off, not
 something I wanted to repeat.
 
+![Showing the single html page view as LibreOffice generated from the pdf](LibreOfficeExportPageView.png)
+
 ## The idea: keep PDF, add a visual image based plain HTML option alongside it
 
-To be clear, this isn't about dropping PDF — PDF stays exactly where it is,
-and it's still the right choice for a lot of cases. The goal was to give it
-company: a second, simpler format that can be offered as an alternative when
+To be clear, this isn't about removing PDFs — PDF stays where it is,
+and it's still the right choice is some use cases. The goal was to give it
+company: another, simpler format that can be offered as an alternative when
 the embedded viewer doesn't cooperate. So alongside the PDF, each document
 can now also be exported as a set of plain HTML pages with rasterized
 images, the same way LibreOffice's Impress/Draw HTML export wizard does it.
