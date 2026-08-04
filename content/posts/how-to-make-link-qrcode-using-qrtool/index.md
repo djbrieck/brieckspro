@@ -1,7 +1,7 @@
 ---
 title: "How to make a link QR code using qrtool"
 date: 2026-08-03T15:02:50-07:00
-draft: true
+draft: false
 ---
 
 ## Backstory
