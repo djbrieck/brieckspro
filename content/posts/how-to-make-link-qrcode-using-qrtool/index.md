@@ -1,11 +1,11 @@
 ---
-title: "How to make a link Qrcode Using Qrtool"
+title: "How to make a link QR code using qrtool"
 date: 2026-08-03T15:02:50-07:00
 draft: true
 ---
 
 ## Backstory
-I started using [QR code](https://en.wikipedia.org/wiki/QR_code) scanning tools on [Linux Mint](https://linuxmint.com/) 21.3 and found a utility [Qtqr - QR Tools - Launchpad](https://launchpad.net/qr-tools). However, Qtqr is no longer supported or developed since 2023. So when trying other operating systems like [NixOS](https://nixos.org/). I found there was very slim pickings for generating QR tools in a basic gui like the one Qtqr provided. 
+I started using [QR code](https://en.wikipedia.org/wiki/QR_code) scanning tools on [Linux Mint](https://linuxmint.com/) 21.3 and found a utility [Qtqr - QR Tools - Launchpad](https://launchpad.net/qr-tools). However, Qtqr is no longer supported or developed since 2023. So when trying other operating systems like [NixOS](https://nixos.org/). I found there was very slim pickings for generating QR tools in a basic gui like the one Qtqr provided, which was usable but looked like it was from the [Windows 98](https://en.wikipedia.org/wiki/Windows_98) era. 
 
 ## Solution qrtool
 
@@ -17,5 +17,7 @@ Example that worked for generating a  QR code in png format for a provided URL.
 ```bash
 qrtool encode "https://brieckspro.com" --output BriecksProURLQrCode.png
 ```
+
+### The QR code png as follows:
 
 ![qrtool generated QR code for https://brieckspro.com](BriecksProURLQrCode.png)
