@@ -1,6 +1,6 @@
 ---
 title: "La Grande Local Resources and Businesses"
-date: 2026-07-23T20:20:00-07:00
+date: 2026-08-10T16:35:00-07:00
 draft: false
 ---
 A list of local resources in La Grande, Oregon [97850](https://www.unitedstateszipcodes.org/97850/).
@@ -40,7 +40,7 @@ A list of local resources in La Grande, Oregon [97850](https://www.unitedstatesz
 - [La Fiesta Mexican Restaurant & Lounge](https://enigma00017.wixsite.com/la-fiesta-restaurant)
 - [Eastern Oregon University](https://www.eou.edu/)
 - [Copies Plus](https://www.facebook.com/copiespluspendleton/)
-- [Les Schwab Tire Center](https://www.lesschwab.com/stores/oregon/la-grande)
+- [Les Schwab Tire Center](https://www.lesschwab.com/stores/or/la-grande/2306-adams-ave)
 - [BI-MART](https://www.bimart.com/)
 - [Pilot Flying J](https://locations.pilotflyingj.com/us/or/la-grande/63276-oregon-203)
 - [The Lodge at Hot Lake Springs](https://hotlakelodge.com/)
