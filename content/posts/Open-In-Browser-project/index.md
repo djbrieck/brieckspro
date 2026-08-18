@@ -1,5 +1,5 @@
 ---
-title: "OpenInBrowser – One link for all browsers"
+title: "OpenInBrowser – One link that opens the correct specific browser needed"
 date: 2026-08-14T15:54:17-07:00
 draft: true
 tags: [open-source, ipfs, desktop-scheme, browser-launcher]
@@ -10,7 +10,7 @@ summary: "A single IPFS‑hosted page that lets you open any URL in a specific b
 
 > *“Why keep separate bookmarks for Chrome, Firefox, and Safari? Let’s just make one link that does it all.”*
 
-I’ve been there as [Brave Browser](https://brave.com/) user. Any time I want to watch a video on Netflix or watch a training video on Udemy or watch something on Disney+. I end up have to recall which browser each of those works with. This required me to manage three different sets bookmarks in each browser, and then remember to go open that browser and start the watching process. This OpenInBrowser allows me to put all my bookmarks in the browser I use everyday all day and then leave it up to this program to manage open the correct browser for pages that need a specific browser to function correctly. 
+I’ve been there as [Brave Browser](https://brave.com/) user. Any time I want to watch a video on Netflix or watch a training video on Udemy or watch something on Disney+. I end up have to recall which browser each of those links works with, I know one thing it does not work in Brave. This required me to manage three different sets bookmarks in each browser, and then remember to go open that browser and hopefully find the link I was looking for. OpenInBrowser allows me to put all my bookmarks in the browser I use everyday all leave it up to this program to manage opening the correct browser for pages that need a specific browser. 
 
 Enter **[OpenInBrowser](https://github.com/yourusername/open-in-browser)** – a tiny open‑source project that turns any URL into a *single* clickable link which forces a specific browser to open it. No more juggling bookmarks; no more “which browser is this?” confusion.
 
@@ -21,7 +21,7 @@ Enter **[OpenInBrowser](https://github.com/yourusername/open-in-browser)** – a
 - **Multiple browsers** → multiple bookmark sets
 - **Link sharing** → other people can’t see which browser should open it
 
-All because the web assumes a single “default” browser.
+All because the web assumes a single “default” browser that can load everything.
 
 ---
 
